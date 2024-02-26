@@ -1,0 +1,306 @@
+route_id,stop_id,average_ons,average_offs,average_load,time_period_id,X,Y,Stop_ID,Stop_Name
+217,334,5.9,0.0,5.9,time_period_02,-71.0733149,42.2845163,334.0,Ashmont Busway
+217,334,5.4,0.0,5.5,time_period_03,-71.0733149,42.2845163,334.0,Ashmont Busway
+217,334,5.9,0.0,6.4,time_period_05,-71.0733149,42.2845163,334.0,Ashmont Busway
+217,334,3.2,0.0,3.5,time_period_06,-71.0733149,42.2845163,334.0,Ashmont Busway
+217,536,0.0,0.0,6.0,time_period_02,-71.065378,42.2820770000001,536.0,Dorchester Ave @ Hurlcroft Ave
+217,536,0.0,0.0,5.5,time_period_03,-71.065378,42.2820770000001,536.0,Dorchester Ave @ Hurlcroft Ave
+217,536,0.0,0.0,6.4,time_period_05,-71.065378,42.2820770000001,536.0,Dorchester Ave @ Hurlcroft Ave
+217,536,0.0,0.0,3.5,time_period_06,-71.065378,42.2820770000001,536.0,Dorchester Ave @ Hurlcroft Ave
+217,537,0.1,0.1,6.0,time_period_02,-71.065961,42.280016,537.0,Dorchester Ave @ Gallivan Blvd
+217,537,0.1,0.0,5.5,time_period_03,-71.065961,42.280016,537.0,Dorchester Ave @ Gallivan Blvd
+217,537,0.1,0.0,6.6,time_period_05,-71.065961,42.280016,537.0,Dorchester Ave @ Gallivan Blvd
+217,537,0.1,0.1,3.6,time_period_06,-71.065961,42.280016,537.0,Dorchester Ave @ Gallivan Blvd
+217,569,0.0,0.2,5.8,time_period_02,-71.0665069999999,42.2780910000001,569.0,Dorchester Ave @ Valley Rd
+217,569,0.0,0.1,5.5,time_period_03,-71.0665069999999,42.2780910000001,569.0,Dorchester Ave @ Valley Rd
+217,569,0.3,0.1,6.7,time_period_05,-71.0665069999999,42.2780910000001,569.0,Dorchester Ave @ Valley Rd
+217,569,1.1,0.2,4.5,time_period_06,-71.0665069999999,42.2780910000001,569.0,Dorchester Ave @ Valley Rd
+217,10569,0.0,0.0,5.8,time_period_02,-71.0670289999999,42.276285,10569.0,2165 Dorchester Ave
+217,10569,0.0,0.0,5.5,time_period_03,-71.0670289999999,42.276285,10569.0,2165 Dorchester Ave
+217,10569,0.0,0.0,6.7,time_period_05,-71.0670289999999,42.276285,10569.0,2165 Dorchester Ave
+217,10569,0.0,0.0,4.5,time_period_06,-71.0670289999999,42.276285,10569.0,2165 Dorchester Ave
+217,570,0.0,0.3,5.5,time_period_02,-71.0672289999999,42.2755940000001,570.0,Dorchester Ave @ St Gregory St
+217,570,0.0,0.7,4.8,time_period_03,-71.0672289999999,42.2755940000001,570.0,Dorchester Ave @ St Gregory St
+217,570,0.0,0.4,6.3,time_period_05,-71.0672289999999,42.2755940000001,570.0,Dorchester Ave @ St Gregory St
+217,570,0.0,0.1,4.4,time_period_06,-71.0672289999999,42.2755940000001,570.0,Dorchester Ave @ St Gregory St
+217,883,0.0,0.2,5.4,time_period_02,-71.067662,42.273982,883.0,Dorchester Ave @ Richmond St
+217,883,0.0,0.0,4.9,time_period_03,-71.067662,42.273982,883.0,Dorchester Ave @ Richmond St
+217,883,0.1,1.0,5.4,time_period_05,-71.067662,42.273982,883.0,Dorchester Ave @ Richmond St
+217,883,0.1,0.3,4.2,time_period_06,-71.067662,42.273982,883.0,Dorchester Ave @ Richmond St
+217,571,0.4,0.1,5.7,time_period_02,-71.068076,42.272302,571.0,Dorchester Ave @ Washington St
+217,571,0.5,0.0,5.3,time_period_03,-71.068076,42.272302,571.0,Dorchester Ave @ Washington St
+217,571,0.1,0.2,5.3,time_period_05,-71.068076,42.272302,571.0,Dorchester Ave @ Washington St
+217,571,0.1,0.2,4.1,time_period_06,-71.068076,42.272302,571.0,Dorchester Ave @ Washington St
+217,3477,0.0,0.0,5.7,time_period_02,-71.068002,42.270445,3477.0,Adams St @ Eliot St
+217,3477,0.0,0.0,5.3,time_period_03,-71.068002,42.270445,3477.0,Adams St @ Eliot St
+217,3477,0.5,0.1,5.7,time_period_05,-71.068002,42.270445,3477.0,Adams St @ Eliot St
+217,3477,0.0,0.0,4.1,time_period_06,-71.068002,42.270445,3477.0,Adams St @ Eliot St
+217,3478,0.0,0.0,5.8,time_period_02,-71.0674299999999,42.268924,3478.0,Adams St @ Canton Ave
+217,3478,0.0,0.0,5.4,time_period_03,-71.0674299999999,42.268924,3478.0,Adams St @ Canton Ave
+217,3478,0.0,0.0,5.7,time_period_05,-71.0674299999999,42.268924,3478.0,Adams St @ Canton Ave
+217,3478,0.0,0.0,4.0,time_period_06,-71.0674299999999,42.268924,3478.0,Adams St @ Canton Ave
+217,3479,0.0,0.0,5.8,time_period_02,-71.0660349999999,42.2659990000001,3479.0,191 Adams St
+217,3479,0.0,0.0,5.4,time_period_03,-71.0660349999999,42.2659990000001,3479.0,191 Adams St
+217,3479,0.0,0.0,5.8,time_period_05,-71.0660349999999,42.2659990000001,3479.0,191 Adams St
+217,3479,0.0,0.0,4.0,time_period_06,-71.0660349999999,42.2659990000001,3479.0,191 Adams St
+217,3480,0.0,0.0,5.7,time_period_02,-71.0642119999999,42.2646530000001,3480.0,Adams St @ Churchills Ln
+217,3480,0.0,0.0,5.3,time_period_03,-71.0642119999999,42.2646530000001,3480.0,Adams St @ Churchills Ln
+217,3480,0.0,0.0,5.8,time_period_05,-71.0642119999999,42.2646530000001,3480.0,Adams St @ Churchills Ln
+217,3480,0.0,0.1,3.9,time_period_06,-71.0642119999999,42.2646530000001,3480.0,Adams St @ Churchills Ln
+217,3482,0.0,2.0,3.8,time_period_02,,,,
+217,3482,0.0,2.7,2.6,time_period_03,,,,
+217,3482,0.0,0.0,5.8,time_period_05,,,,
+217,3482,0.0,0.0,4.0,time_period_06,,,,
+217,3483,0.0,0.0,3.8,time_period_02,-71.056322,42.260786,3483.0,321 Adams St
+217,3483,0.0,0.0,2.6,time_period_03,-71.056322,42.260786,3483.0,321 Adams St
+217,3483,0.0,0.0,5.8,time_period_05,-71.056322,42.260786,3483.0,321 Adams St
+217,3483,0.0,0.0,4.0,time_period_06,-71.056322,42.260786,3483.0,321 Adams St
+217,3485,0.1,0.0,3.9,time_period_02,-71.050876,42.2602350000001,3485.0,Adams St @ Centre St
+217,3485,0.0,0.0,2.7,time_period_03,-71.050876,42.2602350000001,3485.0,Adams St @ Centre St
+217,3485,0.0,0.3,5.5,time_period_05,-71.050876,42.2602350000001,3485.0,Adams St @ Centre St
+217,3485,0.0,0.0,3.9,time_period_06,-71.050876,42.2602350000001,3485.0,Adams St @ Centre St
+217,3486,0.0,0.0,3.9,time_period_02,-71.04777,42.2601960000001,3486.0,Adams St @ Rowe St
+217,3486,0.0,0.0,2.6,time_period_03,-71.04777,42.2601960000001,3486.0,Adams St @ Rowe St
+217,3486,0.0,0.0,5.5,time_period_05,-71.04777,42.2601960000001,3486.0,Adams St @ Rowe St
+217,3486,0.0,0.0,3.9,time_period_06,-71.04777,42.2601960000001,3486.0,Adams St @ Rowe St
+217,3487,0.0,0.0,3.9,time_period_02,-71.0463569999999,42.2600130000001,3487.0,Adams St @ Governors Rd
+217,3487,0.0,0.0,2.8,time_period_03,-71.0463569999999,42.2600130000001,3487.0,Adams St @ Governors Rd
+217,3487,0.0,0.0,5.5,time_period_05,-71.0463569999999,42.2600130000001,3487.0,Adams St @ Governors Rd
+217,3487,0.0,0.0,3.9,time_period_06,-71.0463569999999,42.2600130000001,3487.0,Adams St @ Governors Rd
+217,3488,0.0,0.0,3.8,time_period_02,-71.044202,42.2591830000001,3488.0,Adams St @ Babcock St
+217,3488,0.0,0.0,2.8,time_period_03,-71.044202,42.2591830000001,3488.0,Adams St @ Babcock St
+217,3488,0.0,0.0,5.5,time_period_05,-71.044202,42.2591830000001,3488.0,Adams St @ Babcock St
+217,3488,0.0,0.0,3.8,time_period_06,-71.044202,42.2591830000001,3488.0,Adams St @ Babcock St
+217,3389,0.0,0.3,3.5,time_period_02,-71.0426679999999,42.2586880000001,3389.0,Adams St @ Hollis St
+217,3389,0.2,0.0,2.9,time_period_03,-71.0426679999999,42.2586880000001,3389.0,Adams St @ Hollis St
+217,3389,0.0,0.8,4.7,time_period_05,-71.0426679999999,42.2586880000001,3389.0,Adams St @ Hollis St
+217,3389,0.1,0.5,3.4,time_period_06,-71.0426679999999,42.2586880000001,3389.0,Adams St @ Hollis St
+217,13400,1.8,0.1,5.0,time_period_02,-71.0383849999999,42.250367,13400.0,Bryant Ave @ Upton St
+217,13400,7.7,0.0,10.3,time_period_03,-71.0383849999999,42.250367,13400.0,Bryant Ave @ Upton St
+217,13400,0.1,0.5,4.2,time_period_05,-71.0383849999999,42.250367,13400.0,Bryant Ave @ Upton St
+217,13400,0.0,0.1,3.3,time_period_06,-71.0383849999999,42.250367,13400.0,Bryant Ave @ Upton St
+217,3350,2.6,0.1,7.1,time_period_02,-71.035971,42.2521550000001,3350.0,Robertson St @ Quarry St
+217,3350,7.7,0.1,14.6,time_period_03,-71.035971,42.2521550000001,3350.0,Robertson St @ Quarry St
+217,3350,0.4,0.7,4.1,time_period_05,-71.035971,42.2521550000001,3350.0,Robertson St @ Quarry St
+217,3350,0.0,0.1,3.4,time_period_06,-71.035971,42.2521550000001,3350.0,Robertson St @ Quarry St
+217,3351,2.7,0.1,9.4,time_period_02,-71.0351699999999,42.2530160000001,3351.0,Robertson St @ Connell St
+217,3351,6.8,0.0,20.2,time_period_03,-71.0351699999999,42.2530160000001,3351.0,Robertson St @ Connell St
+217,3351,0.0,0.0,4.1,time_period_05,-71.0351699999999,42.2530160000001,3351.0,Robertson St @ Connell St
+217,3351,0.0,0.0,3.3,time_period_06,-71.0351699999999,42.2530160000001,3351.0,Robertson St @ Connell St
+217,3352,0.1,0.0,9.6,time_period_02,-71.034187,42.2541350000001,3352.0,Robertson St opp Ellis St
+217,3352,0.0,0.0,20.3,time_period_03,-71.034187,42.2541350000001,3352.0,Robertson St opp Ellis St
+217,3352,0.0,0.0,4.0,time_period_05,-71.034187,42.2541350000001,3352.0,Robertson St opp Ellis St
+217,3352,0.0,0.0,3.3,time_period_06,-71.034187,42.2541350000001,3352.0,Robertson St opp Ellis St
+217,3353,0.8,0.0,10.3,time_period_02,-71.033785,42.2545860000001,3353.0,Robertson St @ Kimball St
+217,3353,2.0,0.0,22.2,time_period_03,-71.033785,42.2545860000001,3353.0,Robertson St @ Kimball St
+217,3353,0.0,0.0,4.0,time_period_05,-71.033785,42.2545860000001,3353.0,Robertson St @ Kimball St
+217,3353,0.0,0.0,3.3,time_period_06,-71.033785,42.2545860000001,3353.0,Robertson St @ Kimball St
+217,3354,3.2,0.0,13.5,time_period_02,-71.032637,42.2558740000001,3354.0,Robertson St @ Adams St
+217,3354,0.4,0.1,22.5,time_period_03,-71.032637,42.2558740000001,3354.0,Robertson St @ Adams St
+217,3354,0.1,0.0,4.1,time_period_05,-71.032637,42.2558740000001,3354.0,Robertson St @ Adams St
+217,3354,0.1,0.1,3.3,time_period_06,-71.032637,42.2558740000001,3354.0,Robertson St @ Adams St
+217,3355,0.5,0.0,14.0,time_period_02,-71.033465,42.256313,3355.0,Adams St @ Beale St
+217,3355,0.3,0.0,22.8,time_period_03,-71.033465,42.256313,3355.0,Adams St @ Beale St
+217,3355,0.0,0.1,4.1,time_period_05,-71.033465,42.256313,3355.0,Adams St @ Beale St
+217,3355,0.0,0.0,3.3,time_period_06,-71.033465,42.256313,3355.0,Adams St @ Beale St
+217,3489,0.5,0.0,14.4,time_period_02,-71.031551,42.2589320000001,3489.0,Beale St @ Forbes Hill Rd
+217,3489,0.0,0.1,22.8,time_period_03,-71.031551,42.2589320000001,3489.0,Beale St @ Forbes Hill Rd
+217,3489,0.0,0.0,4.1,time_period_05,-71.031551,42.2589320000001,3489.0,Beale St @ Forbes Hill Rd
+217,3489,0.0,0.0,3.3,time_period_06,-71.031551,42.2589320000001,3489.0,Beale St @ Forbes Hill Rd
+217,3490,0.0,0.0,14.4,time_period_02,-71.030774,42.2595400000001,3490.0,Beale St @ Summit Ave
+217,3490,0.0,0.0,22.8,time_period_03,-71.030774,42.2595400000001,3490.0,Beale St @ Summit Ave
+217,3490,0.0,0.0,4.1,time_period_05,-71.030774,42.2595400000001,3490.0,Beale St @ Summit Ave
+217,3490,0.0,0.0,3.3,time_period_06,-71.030774,42.2595400000001,3490.0,Beale St @ Summit Ave
+217,3491,0.0,0.0,14.4,time_period_02,-71.027955,42.260588,3491.0,Beale St @ Pine St
+217,3491,0.0,0.0,22.8,time_period_03,-71.027955,42.260588,3491.0,Beale St @ Pine St
+217,3491,0.0,0.0,4.1,time_period_05,-71.027955,42.260588,3491.0,Beale St @ Pine St
+217,3491,0.0,0.0,3.3,time_period_06,-71.027955,42.260588,3491.0,Beale St @ Pine St
+217,3493,0.6,0.0,15.0,time_period_02,-71.024958,42.261731,3493.0,Beale St @ S Central Ave
+217,3493,0.0,0.0,22.8,time_period_03,-71.024958,42.261731,3493.0,Beale St @ S Central Ave
+217,3493,0.0,0.0,4.1,time_period_05,-71.024958,42.261731,3493.0,Beale St @ S Central Ave
+217,3493,0.0,0.2,3.1,time_period_06,-71.024958,42.261731,3493.0,Beale St @ S Central Ave
+217,3106,0.4,0.3,15.2,time_period_02,-71.025796,42.2647830000001,3106.0,Highland Ave @ Elmwood Ave
+217,3106,1.8,0.1,24.5,time_period_03,-71.025796,42.2647830000001,3106.0,Highland Ave @ Elmwood Ave
+217,3106,0.0,0.1,4.0,time_period_05,-71.025796,42.2647830000001,3106.0,Highland Ave @ Elmwood Ave
+217,3106,0.0,0.0,3.1,time_period_06,-71.025796,42.2647830000001,3106.0,Highland Ave @ Elmwood Ave
+217,3107,0.3,0.0,15.5,time_period_02,-71.027157,42.266065,3107.0,Highland Ave @ N Central Ave
+217,3107,0.2,0.0,24.6,time_period_03,-71.027157,42.266065,3107.0,Highland Ave @ N Central Ave
+217,3107,0.0,0.0,4.0,time_period_05,-71.027157,42.266065,3107.0,Highland Ave @ N Central Ave
+217,3107,0.0,0.0,3.1,time_period_06,-71.027157,42.266065,3107.0,Highland Ave @ N Central Ave
+217,3108,0.1,0.0,15.6,time_period_02,-71.028405,42.2672250000001,3108.0,Highland Ave @ Hobart Ave
+217,3108,0.3,0.0,25.0,time_period_03,-71.028405,42.2672250000001,3108.0,Highland Ave @ Hobart Ave
+217,3108,0.0,0.0,4.0,time_period_05,-71.028405,42.2672250000001,3108.0,Highland Ave @ Hobart Ave
+217,3108,0.0,0.0,3.1,time_period_06,-71.028405,42.2672250000001,3108.0,Highland Ave @ Hobart Ave
+217,3109,0.2,0.0,15.6,time_period_02,-71.029685,42.2684350000001,3109.0,Highland Ave @ Wilson Ave
+217,3109,0.1,0.0,25.0,time_period_03,-71.029685,42.2684350000001,3109.0,Highland Ave @ Wilson Ave
+217,3109,0.0,0.0,4.0,time_period_05,-71.029685,42.2684350000001,3109.0,Highland Ave @ Wilson Ave
+217,3109,0.0,0.0,3.1,time_period_06,-71.029685,42.2684350000001,3109.0,Highland Ave @ Wilson Ave
+217,3110,0.0,0.0,15.6,time_period_02,-71.0303069999999,42.268246,3110.0,Wilson Ave @ Belmont St
+217,3110,0.0,0.0,25.0,time_period_03,-71.0303069999999,42.268246,3110.0,Wilson Ave @ Belmont St
+217,3110,0.0,0.0,4.0,time_period_05,-71.0303069999999,42.268246,3110.0,Wilson Ave @ Belmont St
+217,3110,0.0,0.0,3.1,time_period_06,-71.0303069999999,42.268246,3110.0,Wilson Ave @ Belmont St
+217,3111,0.0,0.0,15.6,time_period_02,-71.031124,42.2677610000001,3111.0,Wilson Ave opp Mascoma St
+217,3111,0.0,0.0,25.0,time_period_03,-71.031124,42.2677610000001,3111.0,Wilson Ave opp Mascoma St
+217,3111,0.0,0.0,4.0,time_period_05,-71.031124,42.2677610000001,3111.0,Wilson Ave opp Mascoma St
+217,3111,0.0,0.0,3.1,time_period_06,-71.031124,42.2677610000001,3111.0,Wilson Ave opp Mascoma St
+217,3113,0.0,0.0,15.6,time_period_02,-71.03309,42.2666380000001,3113.0,Wilson Ave @ Bowdoin Ave
+217,3113,0.1,0.0,25.1,time_period_03,-71.03309,42.2666380000001,3113.0,Wilson Ave @ Bowdoin Ave
+217,3113,0.0,0.0,4.0,time_period_05,-71.03309,42.2666380000001,3113.0,Wilson Ave @ Bowdoin Ave
+217,3113,0.0,0.1,3.1,time_period_06,-71.03309,42.2666380000001,3113.0,Wilson Ave @ Bowdoin Ave
+217,3114,0.3,0.0,15.8,time_period_02,-71.034622,42.265788,3114.0,Wilson Ave @ Harvard St
+217,3114,3.1,0.3,27.9,time_period_03,-71.034622,42.265788,3114.0,Wilson Ave @ Harvard St
+217,3114,0.0,0.0,4.0,time_period_05,-71.034622,42.265788,3114.0,Wilson Ave @ Harvard St
+217,3114,0.0,0.0,3.1,time_period_06,-71.034622,42.265788,3114.0,Wilson Ave @ Harvard St
+217,3115,0.4,0.0,16.3,time_period_02,-71.035195,42.2662920000001,3115.0,Harvard St @ Hamilton Ave
+217,3115,0.1,0.0,28.0,time_period_03,-71.035195,42.2662920000001,3115.0,Harvard St @ Hamilton Ave
+217,3115,0.0,0.0,4.0,time_period_05,-71.035195,42.2662920000001,3115.0,Harvard St @ Hamilton Ave
+217,3115,0.0,0.0,3.1,time_period_06,-71.035195,42.2662920000001,3115.0,Harvard St @ Hamilton Ave
+217,3116,0.0,0.0,16.3,time_period_02,-71.03587,42.266943,3116.0,Harvard St @ Elliot Ave
+217,3116,0.0,0.0,28.1,time_period_03,-71.03587,42.266943,3116.0,Harvard St @ Elliot Ave
+217,3116,0.0,0.0,4.0,time_period_05,-71.03587,42.266943,3116.0,Harvard St @ Elliot Ave
+217,3116,0.0,0.0,3.1,time_period_06,-71.03587,42.266943,3116.0,Harvard St @ Elliot Ave
+217,3117,0.3,0.0,16.6,time_period_02,-71.03649,42.267541,3117.0,Harvard St @ Holbrook Rd.
+217,3117,4.0,0.4,31.7,time_period_03,-71.03649,42.267541,3117.0,Harvard St @ Holbrook Rd.
+217,3117,0.0,0.0,4.0,time_period_05,-71.03649,42.267541,3117.0,Harvard St @ Holbrook Rd.
+217,3117,0.0,0.0,3.0,time_period_06,-71.03649,42.267541,3117.0,Harvard St @ Holbrook Rd.
+217,3118,0.2,0.0,17.0,time_period_02,-71.0372879999999,42.2684990000001,3118.0,W Squantum St @ Harvard St
+217,3118,1.0,0.1,32.6,time_period_03,-71.0372879999999,42.2684990000001,3118.0,W Squantum St @ Harvard St
+217,3118,0.0,0.0,4.0,time_period_05,-71.0372879999999,42.2684990000001,3118.0,W Squantum St @ Harvard St
+217,3118,0.0,0.0,3.0,time_period_06,-71.0372879999999,42.2684990000001,3118.0,W Squantum St @ Harvard St
+217,3119,0.1,0.0,17.1,time_period_02,-71.035811,42.2689820000001,3119.0,W Squantum St @ Bowdoin St
+217,3119,0.2,0.0,32.8,time_period_03,-71.035811,42.2689820000001,3119.0,W Squantum St @ Bowdoin St
+217,3119,0.0,0.0,4.0,time_period_05,-71.035811,42.2689820000001,3119.0,W Squantum St @ Bowdoin St
+217,3119,0.0,0.0,3.0,time_period_06,-71.035811,42.2689820000001,3119.0,W Squantum St @ Bowdoin St
+217,3121,0.4,0.0,17.3,time_period_02,-71.0335439999999,42.2701720000001,3121.0,W Squantum St opp Harriet Ave
+217,3121,0.6,0.0,33.4,time_period_03,-71.0335439999999,42.2701720000001,3121.0,W Squantum St opp Harriet Ave
+217,3121,1.2,0.0,5.2,time_period_05,-71.0335439999999,42.2701720000001,3121.0,W Squantum St opp Harriet Ave
+217,3121,0.1,0.0,3.1,time_period_06,-71.0335439999999,42.2701720000001,3121.0,W Squantum St opp Harriet Ave
+217,3122,0.5,0.0,17.8,time_period_02,-71.032749,42.2708210000001,3122.0,W Squantun St opp Division St
+217,3122,0.2,0.0,33.5,time_period_03,-71.032749,42.2708210000001,3122.0,W Squantun St opp Division St
+217,3122,0.1,0.0,5.3,time_period_05,-71.032749,42.2708210000001,3122.0,W Squantun St opp Division St
+217,3122,0.0,0.0,3.1,time_period_06,-71.032749,42.2708210000001,3122.0,W Squantun St opp Division St
+217,3123,0.0,0.0,17.8,time_period_02,-71.0320129999999,42.2715910000001,3123.0,W Squantum @ Small St
+217,3123,0.1,0.0,33.6,time_period_03,-71.0320129999999,42.2715910000001,3123.0,W Squantum @ Small St
+217,3123,0.0,0.0,5.3,time_period_05,-71.0320129999999,42.2715910000001,3123.0,W Squantum @ Small St
+217,3123,0.0,0.0,3.1,time_period_06,-71.0320129999999,42.2715910000001,3123.0,W Squantum @ Small St
+217,3124,0.0,0.0,18.1,time_period_02,-71.0310919999999,42.2730040000001,3124.0,W Squantum St @ Farrington St
+217,3124,0.2,0.1,33.8,time_period_03,-71.0310919999999,42.2730040000001,3124.0,W Squantum St @ Farrington St
+217,3124,0.0,0.0,5.2,time_period_05,-71.0310919999999,42.2730040000001,3124.0,W Squantum St @ Farrington St
+217,3124,0.1,0.0,3.1,time_period_06,-71.0310919999999,42.2730040000001,3124.0,W Squantum St @ Farrington St
+217,3126,0.0,0.3,26.0,time_period_03,-71.027749,42.2759350000001,3126.0,E Squantum St @ Hancock St
+217,3128,0.1,0.1,25.9,time_period_03,-71.027252,42.2781370000001,3128.0,E Squantum St @ Newbury Ave
+217,3129,0.2,0.9,25.2,time_period_03,-71.0249949999999,42.279996,3129.0,E Squantum St @ Faxon Rd.
+217,93129,0.3,20.2,5.4,time_period_03,,,,
+217,93130,0.0,0.0,5.3,time_period_03,-71.02546,42.276597,93130.0,Hollis Ave @ Newbury Ave
+217,3125,0.3,14.7,3.7,time_period_02,-71.0287519999999,42.275585,3125.0,North Quincy
+217,3125,0.7,4.5,15.9,time_period_03,-71.0287519999999,42.275585,3125.0,North Quincy
+217,3125,1.5,0.9,5.9,time_period_05,-71.0287519999999,42.275585,3125.0,North Quincy
+217,3125,1.3,0.9,3.5,time_period_06,-71.0287519999999,42.275585,3125.0,North Quincy
+217,3218,0.0,0.0,3.7,time_period_02,-71.027883,42.274248,3218.0,Holmes St opp Moscow St
+217,3218,0.0,0.0,5.3,time_period_03,-71.027883,42.274248,3218.0,Holmes St opp Moscow St
+217,3218,0.0,0.5,5.4,time_period_05,-71.027883,42.274248,3218.0,Holmes St opp Moscow St
+217,3218,0.0,0.0,3.5,time_period_06,-71.027883,42.274248,3218.0,Holmes St opp Moscow St
+217,3219,0.0,0.0,3.6,time_period_02,-71.026403,42.272996,3219.0,Holmes St @ Billings Rd
+217,3219,0.0,0.0,5.3,time_period_03,-71.026403,42.272996,3219.0,Holmes St @ Billings Rd
+217,3219,0.0,0.7,4.8,time_period_05,-71.026403,42.272996,3219.0,Holmes St @ Billings Rd
+217,3219,0.1,0.1,3.5,time_period_06,-71.026403,42.272996,3219.0,Holmes St @ Billings Rd
+217,3221,0.0,0.0,3.6,time_period_02,-71.0235959999999,42.2744230000001,3221.0,Billings Rd @ Lunt St
+217,3221,0.1,0.0,5.4,time_period_03,-71.0235959999999,42.2744230000001,3221.0,Billings Rd @ Lunt St
+217,3221,0.0,0.2,4.6,time_period_05,-71.0235959999999,42.2744230000001,3221.0,Billings Rd @ Lunt St
+217,3221,0.0,0.1,3.4,time_period_06,-71.0235959999999,42.2744230000001,3221.0,Billings Rd @ Lunt St
+217,3222,0.0,0.0,3.6,time_period_02,-71.022219,42.275243,3222.0,Billings Rd @ Tyler St
+217,3222,0.1,0.0,5.4,time_period_03,-71.022219,42.275243,3222.0,Billings Rd @ Tyler St
+217,3222,0.0,0.1,4.4,time_period_05,-71.022219,42.275243,3222.0,Billings Rd @ Tyler St
+217,3222,0.0,0.0,3.3,time_period_06,-71.022219,42.275243,3222.0,Billings Rd @ Tyler St
+217,3223,0.4,0.0,4.0,time_period_02,-71.021532,42.275654,3223.0,Billings Rd @ Freeman St
+217,3223,0.0,0.0,5.5,time_period_03,-71.021532,42.275654,3223.0,Billings Rd @ Freeman St
+217,3223,0.0,0.0,4.5,time_period_05,-71.021532,42.275654,3223.0,Billings Rd @ Freeman St
+217,3223,0.0,0.2,3.2,time_period_06,-71.021532,42.275654,3223.0,Billings Rd @ Freeman St
+217,3224,0.0,0.0,4.0,time_period_02,-71.020136,42.276463,3224.0,Billings Rd @ Royal St
+217,3224,0.0,0.0,5.5,time_period_03,-71.020136,42.276463,3224.0,Billings Rd @ Royal St
+217,3224,0.0,0.1,4.4,time_period_05,-71.020136,42.276463,3224.0,Billings Rd @ Royal St
+217,3224,0.0,0.4,2.9,time_period_06,-71.020136,42.276463,3224.0,Billings Rd @ Royal St
+217,3225,0.2,0.0,4.2,time_period_02,-71.0183739999999,42.276961,3225.0,Billings Rd @ Calumet St
+217,3225,0.2,0.0,5.7,time_period_03,-71.0183739999999,42.276961,3225.0,Billings Rd @ Calumet St
+217,3225,0.0,0.1,4.3,time_period_05,-71.0183739999999,42.276961,3225.0,Billings Rd @ Calumet St
+217,3225,0.0,0.2,2.7,time_period_06,-71.0183739999999,42.276961,3225.0,Billings Rd @ Calumet St
+217,3226,0.6,0.0,4.8,time_period_02,-71.01616,42.276548,3226.0,Billings Rd @ Vassal St
+217,3226,0.0,0.0,5.7,time_period_03,-71.01616,42.276548,3226.0,Billings Rd @ Vassal St
+217,3226,0.0,0.0,4.3,time_period_05,-71.01616,42.276548,3226.0,Billings Rd @ Vassal St
+217,3226,0.0,0.1,2.6,time_period_06,-71.01616,42.276548,3226.0,Billings Rd @ Vassal St
+217,3227,0.1,0.0,4.9,time_period_02,-71.014087,42.276081,3227.0,Billings Rd @ Beach St
+217,3227,0.4,0.0,6.1,time_period_03,-71.014087,42.276081,3227.0,Billings Rd @ Beach St
+217,3227,0.0,0.0,4.2,time_period_05,-71.014087,42.276081,3227.0,Billings Rd @ Beach St
+217,3227,0.0,0.0,2.6,time_period_06,-71.014087,42.276081,3227.0,Billings Rd @ Beach St
+217,3228,0.1,0.0,5.0,time_period_02,-71.011825,42.2755970000001,3228.0,Billings Rd @ W Elm Ave
+217,3228,0.2,0.2,6.2,time_period_03,-71.011825,42.2755970000001,3228.0,Billings Rd @ W Elm Ave
+217,3228,0.0,0.1,4.2,time_period_05,-71.011825,42.2755970000001,3228.0,Billings Rd @ W Elm Ave
+217,3228,0.1,0.1,2.6,time_period_06,-71.011825,42.2755970000001,3228.0,Billings Rd @ W Elm Ave
+217,3229,0.0,0.0,5.0,time_period_02,-71.012177,42.274528,3229.0,W Elm Ave opp Franklin Ave
+217,3229,0.0,0.0,6.2,time_period_03,-71.012177,42.274528,3229.0,W Elm Ave opp Franklin Ave
+217,3229,0.0,0.0,4.2,time_period_05,-71.012177,42.274528,3229.0,W Elm Ave opp Franklin Ave
+217,3229,0.0,0.1,2.5,time_period_06,-71.012177,42.274528,3229.0,W Elm Ave opp Franklin Ave
+217,3230,0.5,0.0,5.5,time_period_02,-71.012354,42.2741260000001,3230.0,W Elm Ave @ Mason St
+217,3230,0.0,0.0,6.2,time_period_03,-71.012354,42.2741260000001,3230.0,W Elm Ave @ Mason St
+217,3230,0.0,0.0,4.2,time_period_05,-71.012354,42.2741260000001,3230.0,W Elm Ave @ Mason St
+217,3230,0.0,0.0,2.5,time_period_06,-71.012354,42.2741260000001,3230.0,W Elm Ave @ Mason St
+217,3231,0.1,0.0,5.5,time_period_02,-71.013165,42.272005,3231.0,W Elm Ave @ Gould St
+217,3231,0.0,0.0,6.2,time_period_03,-71.013165,42.272005,3231.0,W Elm Ave @ Gould St
+217,3231,0.0,0.0,4.2,time_period_05,-71.013165,42.272005,3231.0,W Elm Ave @ Gould St
+217,3231,0.0,0.0,2.5,time_period_06,-71.013165,42.272005,3231.0,W Elm Ave @ Gould St
+217,3232,0.9,0.0,6.4,time_period_02,-71.013404,42.271098,3232.0,Elm Ave @ Staunton St
+217,3232,0.1,0.0,6.3,time_period_03,-71.013404,42.271098,3232.0,Elm Ave @ Staunton St
+217,3232,0.0,0.0,4.1,time_period_05,-71.013404,42.271098,3232.0,Elm Ave @ Staunton St
+217,3232,0.0,0.0,2.5,time_period_06,-71.013404,42.271098,3232.0,Elm Ave @ Staunton St
+217,3234,0.2,0.0,6.6,time_period_02,-71.013731,42.269052,3234.0,Elm Ave @ Marlboro St
+217,3234,0.0,0.0,6.3,time_period_03,-71.013731,42.269052,3234.0,Elm Ave @ Marlboro St
+217,3234,0.0,0.0,4.1,time_period_05,-71.013731,42.269052,3234.0,Elm Ave @ Marlboro St
+217,3234,0.0,0.0,2.5,time_period_06,-71.013731,42.269052,3234.0,Elm Ave @ Marlboro St
+217,3235,3.2,0.0,9.7,time_period_02,-71.0140979999999,42.267835,3235.0,Elm Ave opp Greene St
+217,3235,0.0,0.0,6.3,time_period_03,-71.0140979999999,42.267835,3235.0,Elm Ave opp Greene St
+217,3235,0.0,0.0,4.1,time_period_05,-71.0140979999999,42.267835,3235.0,Elm Ave opp Greene St
+217,3235,0.1,0.0,2.6,time_period_06,-71.0140979999999,42.267835,3235.0,Elm Ave opp Greene St
+217,3236,0.1,0.0,9.7,time_period_02,-71.014428,42.266736,3236.0,Elm Ave @ Hancock St
+217,3236,0.0,0.0,6.3,time_period_03,-71.014428,42.266736,3236.0,Elm Ave @ Hancock St
+217,3236,0.0,0.0,4.1,time_period_05,-71.014428,42.266736,3236.0,Elm Ave @ Hancock St
+217,3236,0.0,0.0,2.5,time_period_06,-71.014428,42.266736,3236.0,Elm Ave @ Hancock St
+217,3027,0.3,0.0,10.1,time_period_02,-71.014316,42.266379,3027.0,Hancock St @ Wentworth Rd
+217,3027,0.0,0.0,6.4,time_period_03,-71.014316,42.266379,3027.0,Hancock St @ Wentworth Rd
+217,3027,0.2,0.1,4.2,time_period_05,-71.014316,42.266379,3027.0,Hancock St @ Wentworth Rd
+217,3027,0.0,0.0,2.5,time_period_06,-71.014316,42.266379,3027.0,Hancock St @ Wentworth Rd
+217,3028,0.0,0.0,10.1,time_period_02,-71.0138899999999,42.26565,3028.0,757 Hancock St
+217,3028,0.0,0.0,6.4,time_period_03,-71.0138899999999,42.26565,3028.0,757 Hancock St
+217,3028,0.0,0.0,4.2,time_period_05,-71.0138899999999,42.26565,3028.0,757 Hancock St
+217,3028,0.0,0.0,2.5,time_period_06,-71.0138899999999,42.26565,3028.0,757 Hancock St
+217,3029,0.0,0.0,10.1,time_period_02,-71.013047,42.2642080000001,3029.0,Hancock St @ Clay St
+217,3029,0.0,0.0,6.3,time_period_03,-71.013047,42.2642080000001,3029.0,Hancock St @ Clay St
+217,3029,0.0,0.0,4.2,time_period_05,-71.013047,42.2642080000001,3029.0,Hancock St @ Clay St
+217,3029,0.0,0.0,2.5,time_period_06,-71.013047,42.2642080000001,3029.0,Hancock St @ Clay St
+217,3031,0.0,0.2,9.9,time_period_02,-71.0112559999999,42.2612290000001,3031.0,Hancock St @ Saint Anns Rd
+217,3031,0.1,2.8,3.6,time_period_03,-71.0112559999999,42.2612290000001,3031.0,Hancock St @ Saint Anns Rd
+217,3031,0.1,0.7,3.6,time_period_05,-71.0112559999999,42.2612290000001,3031.0,Hancock St @ Saint Anns Rd
+217,3031,0.0,0.0,2.5,time_period_06,-71.0112559999999,42.2612290000001,3031.0,Hancock St @ Saint Anns Rd
+217,3032,0.1,0.0,10.0,time_period_02,-71.009528,42.2592270000001,3032.0,Hancock St @ Carruth St
+217,3032,0.2,0.0,3.8,time_period_03,-71.009528,42.2592270000001,3032.0,Hancock St @ Carruth St
+217,3032,0.0,0.0,3.6,time_period_05,-71.009528,42.2592270000001,3032.0,Hancock St @ Carruth St
+217,3032,0.0,0.3,2.3,time_period_06,-71.009528,42.2592270000001,3032.0,Hancock St @ Carruth St
+217,3033,0.0,0.0,10.0,time_period_02,-71.008775,42.2582150000001,3033.0,Hancock St @ Furnace Brook Pkwy
+217,3033,0.0,0.0,3.8,time_period_03,-71.008775,42.2582150000001,3033.0,Hancock St @ Furnace Brook Pkwy
+217,3033,0.0,0.0,3.6,time_period_05,-71.008775,42.2582150000001,3033.0,Hancock St @ Furnace Brook Pkwy
+217,3033,0.0,0.0,2.3,time_period_06,-71.008775,42.2582150000001,3033.0,Hancock St @ Furnace Brook Pkwy
+217,3034,0.9,0.0,10.9,time_period_02,-71.0081939999999,42.2574450000001,3034.0,Hancock St opp Butler Rd
+217,3034,0.4,0.0,4.1,time_period_03,-71.0081939999999,42.2574450000001,3034.0,Hancock St opp Butler Rd
+217,3034,0.0,0.1,3.6,time_period_05,-71.0081939999999,42.2574450000001,3034.0,Hancock St opp Butler Rd
+217,3034,0.0,0.0,2.2,time_period_06,-71.0081939999999,42.2574450000001,3034.0,Hancock St opp Butler Rd
+217,3035,0.2,0.0,11.1,time_period_02,-71.0071839999999,42.256168,3035.0,Hancock St opp Merrymount Rd
+217,3035,0.2,0.0,4.3,time_period_03,-71.0071839999999,42.256168,3035.0,Hancock St opp Merrymount Rd
+217,3035,0.0,0.0,3.6,time_period_05,-71.0071839999999,42.256168,3035.0,Hancock St opp Merrymount Rd
+217,3035,0.0,0.7,1.6,time_period_06,-71.0071839999999,42.256168,3035.0,Hancock St opp Merrymount Rd
+217,3036,0.0,0.0,11.1,time_period_02,-71.0064379999999,42.255179,3036.0,Hancock St opp Greenleaf St
+217,3036,0.0,0.0,4.3,time_period_03,-71.0064379999999,42.255179,3036.0,Hancock St opp Greenleaf St
+217,3036,0.0,0.0,3.6,time_period_05,-71.0064379999999,42.255179,3036.0,Hancock St opp Greenleaf St
+217,3036,0.0,0.0,1.6,time_period_06,-71.0064379999999,42.255179,3036.0,Hancock St opp Greenleaf St
+217,32001,0.0,11.1,0.0,time_period_02,,,,
+217,32001,0.0,4.1,0.2,time_period_03,,,,
+217,32001,0.0,3.5,0.1,time_period_05,,,,
+217,32001,0.0,1.5,0.0,time_period_06,,,,

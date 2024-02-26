@@ -1,0 +1,81 @@
+route_id,stop_id,average_ons,average_offs,average_load,time_period_id,X,Y,Stop_ID,Stop_Name
+424,15795,14.88,0.0,14.88,time_period_06,-70.9968304,42.4135781,15795.0,Wonderland Busway
+424,15795,10.2,0.0,10.3,time_period_07,-70.9968304,42.4135781,15795.0,Wonderland Busway
+424,5700,0.14,0.14,15.0,time_period_06,-70.99241,42.418681,5700.0,Revere St @ Ford St
+424,5700,0.1,0.0,10.2,time_period_07,-70.99241,42.418681,5700.0,Revere St @ Ford St
+424,5701,0.04,0.34,14.86,time_period_06,-70.9959739999999,42.418573,5701.0,Revere St @ Bosson St
+424,5701,0.0,0.2,10.2,time_period_07,-70.9959739999999,42.418573,5701.0,Revere St @ Bosson St
+424,5703,0.06,0.58,14.36,time_period_06,-70.998769,42.4184940000001,5703.0,Revere St @ Bates St
+424,5703,0.0,0.4,9.8,time_period_07,-70.998769,42.4184940000001,5703.0,Revere St @ Bates St
+424,5704,0.56,0.48,14.54,time_period_06,-71.000738,42.417444,5704.0,Revere St @ Breed St
+424,5704,0.0,0.3,9.5,time_period_07,-71.000738,42.417444,5704.0,Revere St @ Breed St
+424,35704,0.94,0.8,14.8,time_period_06,-71.002017,42.4165540000001,35704.0,Revere St @ Stowers St
+424,35704,0.3,0.3,9.6,time_period_07,-71.002017,42.4165540000001,35704.0,Revere St @ Stowers St
+424,4512,1.0,0.08,15.8,time_period_06,-71.003166,42.4164170000001,4512.0,American Legion Hwy @ Revere St
+424,4512,0.1,0.0,9.6,time_period_07,-71.003166,42.4164170000001,4512.0,American Legion Hwy @ Revere St
+424,4513,0.0,0.04,15.7,time_period_06,-71.001931,42.4188780000001,4513.0,American Legion Hwy @ Hutchinson St
+424,4513,0.0,0.0,9.5,time_period_07,-71.001931,42.4188780000001,4513.0,American Legion Hwy @ Hutchinson St
+424,4515,0.96,0.56,15.96,time_period_06,-71.00354,42.4209500000001,4515.0,Brown Circle Rotary
+424,4515,0.1,0.1,9.4,time_period_07,-71.00354,42.4209500000001,4515.0,Brown Circle Rotary
+424,4516,0.0,0.02,15.94,time_period_06,-70.980563,42.4493560000001,4516.0,Salem Tnpk @ Ballard St
+424,4516,0.0,0.0,9.4,time_period_07,-70.980563,42.4493560000001,4516.0,Salem Tnpk @ Ballard St
+424,4518,0.16,0.24,15.84,time_period_06,-70.975717,42.453688,4518.0,Western Ave opp Cooper St
+424,4518,0.0,0.1,9.3,time_period_07,-70.975717,42.453688,4518.0,Western Ave opp Cooper St
+424,4520,0.02,0.24,15.62,time_period_06,-70.974024,42.45513,4520.0,Western Ave opp Lynn Garage
+424,4520,0.0,0.0,9.3,time_period_07,-70.974024,42.45513,4520.0,Western Ave opp Lynn Garage
+424,45211,0.02,0.22,15.44,time_period_06,-70.9730479999999,42.456007,45211.0,Western Ave opp Ida St
+424,45211,0.0,0.2,9.2,time_period_07,-70.9730479999999,42.456007,45211.0,Western Ave opp Ida St
+424,4521,0.14,1.08,14.52,time_period_06,-70.9712749999999,42.457568,4521.0,Western Ave @ Minot St
+424,4521,0.0,0.4,8.8,time_period_07,-70.9712749999999,42.457568,4521.0,Western Ave @ Minot St
+424,4522,0.16,2.08,12.68,time_period_06,-70.969956,42.458675,4522.0,Western Ave @ Summer St
+424,4522,0.3,0.8,8.3,time_period_07,-70.969956,42.458675,4522.0,Western Ave @ Summer St
+424,4523,0.06,1.12,11.68,time_period_06,-70.967777,42.460699,4523.0,Western Ave @ Walden St
+424,4523,0.0,0.4,7.9,time_period_07,-70.967777,42.460699,4523.0,Western Ave @ Walden St
+424,4524,0.12,0.34,11.52,time_period_06,-70.966197,42.462157,4524.0,760 Western Ave
+424,4524,0.0,0.1,7.8,time_period_07,-70.966197,42.462157,4524.0,760 Western Ave
+424,4527,1.1,1.86,10.8,time_period_06,-70.964687,42.4632320000001,4527.0,Western Ave @ Market Square
+424,4527,0.3,1.5,6.6,time_period_07,-70.964687,42.4632320000001,4527.0,Western Ave @ Market Square
+424,4528,0.1,1.02,9.92,time_period_06,-70.962324,42.465172,4528.0,Western Ave opp Barrett St
+424,4528,0.0,0.7,5.9,time_period_07,-70.962324,42.465172,4528.0,Western Ave opp Barrett St
+424,4529,0.0,0.12,9.8,time_period_06,-70.961686,42.465737,4529.0,Western Ave @ Park St
+424,4529,0.0,0.0,5.9,time_period_07,-70.961686,42.465737,4529.0,Western Ave @ Park St
+424,4530,0.38,1.38,8.88,time_period_06,-70.9599719999999,42.467158,4530.0,Western Ave @ Brimblecom St
+424,4530,0.0,0.6,5.3,time_period_07,-70.9599719999999,42.467158,4530.0,Western Ave @ Brimblecom St
+424,4531,0.1,0.96,8.02,time_period_06,-70.958405,42.468438,4531.0,Western Ave @ Franklin St
+424,4531,0.1,0.7,4.7,time_period_07,-70.958405,42.468438,4531.0,Western Ave @ Franklin St
+424,4532,0.26,0.68,7.64,time_period_06,-70.956926,42.4696680000001,4532.0,Western Ave @ Washington St
+424,4532,0.1,0.7,4.2,time_period_07,-70.956926,42.4696680000001,4532.0,Western Ave @ Washington St
+424,7246,0.02,0.6,7.14,time_period_06,-70.955235,42.471057,7246.0,Western Ave @ Lawton Ave
+424,7246,0.0,0.3,3.9,time_period_07,-70.955235,42.471057,7246.0,Western Ave @ Lawton Ave
+424,7247,0.0,0.18,6.92,time_period_06,-70.954444,42.4717180000001,7247.0,Western Ave @ Bellair St
+424,7247,0.0,0.1,3.8,time_period_07,-70.954444,42.4717180000001,7247.0,Western Ave @ Bellair St
+424,7248,0.0,0.0,6.9,time_period_06,-70.95363,42.4723890000001,7248.0,Western Ave @ Nichols Ave
+424,7248,0.0,0.0,3.8,time_period_07,-70.95363,42.4723890000001,7248.0,Western Ave @ Nichols Ave
+424,7249,0.04,0.9,6.1,time_period_06,-70.952218,42.473666,7249.0,Western Ave @ Bayview Ave
+424,7249,0.0,0.6,3.3,time_period_07,-70.952218,42.473666,7249.0,Western Ave @ Bayview Ave
+424,7250,0.0,0.3,5.78,time_period_06,-70.9508939999999,42.475043,7250.0,Western Ave @ Linden Terr
+424,7250,0.0,0.1,3.2,time_period_07,-70.9508939999999,42.475043,7250.0,Western Ave @ Linden Terr
+424,7251,0.02,0.28,5.54,time_period_06,-70.9500889999999,42.475895,7251.0,Western Ave @ Rockingham St
+424,7251,0.0,0.1,3.1,time_period_07,-70.9500889999999,42.475895,7251.0,Western Ave @ Rockingham St
+424,7252,0.08,0.56,5.08,time_period_06,-70.9489599999999,42.477064,7252.0,Western Ave @ Chestnut St
+424,7252,0.0,0.3,2.9,time_period_07,-70.9489599999999,42.477064,7252.0,Western Ave @ Chestnut St
+424,4533,0.0,0.48,4.64,time_period_06,-70.947107,42.479026,4533.0,Western Ave @ West Colony Rd
+424,4533,0.0,0.1,2.7,time_period_07,-70.947107,42.479026,4533.0,Western Ave @ West Colony Rd
+424,4534,0.02,0.34,4.3,time_period_06,-70.946292,42.4798750000001,4534.0,Western Ave @ Tracy Ave
+424,4534,0.0,0.1,2.7,time_period_07,-70.946292,42.4798750000001,4534.0,Western Ave @ Tracy Ave
+424,4535,0.02,0.62,3.74,time_period_06,-70.9452219999999,42.4810140000001,4535.0,Western Ave @ Chatham St
+424,4535,0.0,0.6,2.1,time_period_07,-70.9452219999999,42.4810140000001,4535.0,Western Ave @ Chatham St
+424,7214,0.1,0.26,3.62,time_period_06,-70.942404,42.483959,7214.0,Waitt Ave @ President St
+424,7214,0.0,0.1,2.0,time_period_07,-70.942404,42.483959,7214.0,Waitt Ave @ President St
+424,7217,0.02,0.34,3.3,time_period_06,-70.9382209999999,42.4824980000001,7217.0,Eastern Ave @ Glenwood St
+424,7217,0.0,0.1,1.8,time_period_07,-70.9382209999999,42.4824980000001,7217.0,Eastern Ave @ Glenwood St
+424,7218,0.04,0.92,2.46,time_period_06,-70.936131,42.481072,7218.0,Eastern Ave @ Oakwood Ave
+424,7218,0.0,0.2,1.6,time_period_07,-70.936131,42.481072,7218.0,Eastern Ave @ Oakwood Ave
+424,7219,0.0,0.12,2.32,time_period_06,-70.934337,42.479781,7219.0,460 Eastern Ave
+424,7219,0.0,0.2,1.4,time_period_07,-70.934337,42.479781,7219.0,460 Eastern Ave
+424,7220,0.12,0.58,1.92,time_period_06,-70.933146,42.478705,7220.0,Eastern Ave @ Lambert Ave
+424,7220,0.0,0.1,1.3,time_period_07,-70.933146,42.478705,7220.0,Eastern Ave @ Lambert Ave
+424,7222,0.08,0.54,1.44,time_period_06,-70.9304099999999,42.4762170000001,7222.0,294 Eastern Ave
+424,7222,0.0,0.3,0.9,time_period_07,-70.9304099999999,42.4762170000001,7222.0,294 Eastern Ave
+424,7223,0.0,0.72,0.72,time_period_06,-70.92929,42.475177,7223.0,Eastern Ave @ Sheldon St
+424,7223,0.0,0.9,0.0,time_period_07,-70.92929,42.475177,7223.0,Eastern Ave @ Sheldon St

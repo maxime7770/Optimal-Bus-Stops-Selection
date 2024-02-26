@@ -1,0 +1,171 @@
+route_id,stop_id,average_ons,average_offs,average_load,time_period_id,X,Y,Stop_ID,Stop_Name
+18,13,1.6,0.0,1.6,time_period_03,,,,
+18,13,2.075,0.0,2.1,time_period_04,,,,
+18,13,4.35,0.0,4.35,time_period_05,,,,
+18,13,4.4,0.0,4.45,time_period_06,,,,
+18,13,2.13,0.0,2.2,time_period_10,,,,
+18,2905,0.1,0.0,1.65,time_period_03,-71.057733,42.3284590000001,2905.0,Boston St @ Ellery St
+18,2905,0.2,0.0,2.275,time_period_04,-71.057733,42.3284590000001,2905.0,Boston St @ Ellery St
+18,2905,0.1,0.0,4.45,time_period_05,-71.057733,42.3284590000001,2905.0,Boston St @ Ellery St
+18,2905,0.0,0.0,4.45,time_period_06,-71.057733,42.3284590000001,2905.0,Boston St @ Ellery St
+18,2905,0.03,0.0,2.22,time_period_10,-71.057733,42.3284590000001,2905.0,Boston St @ Ellery St
+18,2906,0.0,0.0,1.7,time_period_03,-71.0589649999999,42.325805,2906.0,Boston St opp Washburn St
+18,2906,0.025,0.05,2.3,time_period_04,-71.0589649999999,42.325805,2906.0,Boston St opp Washburn St
+18,2906,0.05,0.0,4.5,time_period_05,-71.0589649999999,42.325805,2906.0,Boston St opp Washburn St
+18,2906,0.05,0.0,4.5,time_period_06,-71.0589649999999,42.325805,2906.0,Boston St opp Washburn St
+18,2906,0.01,0.0,2.23,time_period_10,-71.0589649999999,42.325805,2906.0,Boston St opp Washburn St
+18,2907,0.05,0.0,1.7,time_period_03,-71.059251,42.325142,2907.0,Boston St @ W Howell St
+18,2907,0.175,0.1,2.375,time_period_04,-71.059251,42.325142,2907.0,Boston St @ W Howell St
+18,2907,0.2,0.1,4.6,time_period_05,-71.059251,42.325142,2907.0,Boston St @ W Howell St
+18,2907,0.35,0.4,4.45,time_period_06,-71.059251,42.325142,2907.0,Boston St @ W Howell St
+18,2907,0.16,0.05,2.32,time_period_10,-71.059251,42.325142,2907.0,Boston St @ W Howell St
+18,2908,0.0,0.0,1.75,time_period_03,-71.060353,42.3235240000001,2908.0,Boston St opp Harvest St
+18,2908,0.0,0.025,2.325,time_period_04,-71.060353,42.3235240000001,2908.0,Boston St opp Harvest St
+18,2908,0.0,0.2,4.45,time_period_05,-71.060353,42.3235240000001,2908.0,Boston St opp Harvest St
+18,2908,0.05,0.15,4.35,time_period_06,-71.060353,42.3235240000001,2908.0,Boston St opp Harvest St
+18,2908,0.02,0.01,2.33,time_period_10,-71.060353,42.3235240000001,2908.0,Boston St opp Harvest St
+18,2909,0.1,0.35,1.55,time_period_03,-71.061187,42.322139,2909.0,Boston St opp Mayhew St
+18,2909,0.2,0.05,2.45,time_period_04,-71.061187,42.322139,2909.0,Boston St opp Mayhew St
+18,2909,0.1,0.2,4.35,time_period_05,-71.061187,42.322139,2909.0,Boston St opp Mayhew St
+18,2909,0.15,0.45,4.1,time_period_06,-71.061187,42.322139,2909.0,Boston St opp Mayhew St
+18,2909,0.24,0.15,2.42,time_period_10,-71.061187,42.322139,2909.0,Boston St opp Mayhew St
+18,135,0.0,0.1,1.45,time_period_03,-71.059926,42.3199470000001,135.0,Columbia Rd @ Pond St
+18,135,0.05,0.075,2.4,time_period_04,-71.059926,42.3199470000001,135.0,Columbia Rd @ Pond St
+18,135,0.0,0.0,4.35,time_period_05,-71.059926,42.3199470000001,135.0,Columbia Rd @ Pond St
+18,135,0.0,0.1,4.0,time_period_06,-71.059926,42.3199470000001,135.0,Columbia Rd @ Pond St
+18,135,0.04,0.1,2.36,time_period_10,-71.059926,42.3199470000001,135.0,Columbia Rd @ Pond St
+18,303,0.1,0.0,1.55,time_period_03,-71.0568239999999,42.3199270000001,303.0,Dorchester Ave @ Edison Green
+18,303,0.1,0.05,2.475,time_period_04,-71.0568239999999,42.3199270000001,303.0,Dorchester Ave @ Edison Green
+18,303,0.0,0.0,4.3,time_period_05,-71.0568239999999,42.3199270000001,303.0,Dorchester Ave @ Edison Green
+18,303,0.25,0.25,4.25,time_period_06,-71.0568239999999,42.3199270000001,303.0,Dorchester Ave @ Edison Green
+18,303,0.09,0.0,2.44,time_period_10,-71.0568239999999,42.3199270000001,303.0,Dorchester Ave @ Edison Green
+18,304,1.75,0.05,3.25,time_period_03,-71.0567849999999,42.31861,304.0,Dorchester Ave @ Cottage St
+18,304,0.975,0.1,3.35,time_period_04,-71.0567849999999,42.31861,304.0,Dorchester Ave @ Cottage St
+18,304,0.3,0.0,4.6,time_period_05,-71.0567849999999,42.31861,304.0,Dorchester Ave @ Cottage St
+18,304,0.4,0.1,4.5,time_period_06,-71.0567849999999,42.31861,304.0,Dorchester Ave @ Cottage St
+18,304,0.51,0.04,2.91,time_period_10,-71.0567849999999,42.31861,304.0,Dorchester Ave @ Cottage St
+18,305,0.15,0.0,3.4,time_period_03,-71.056787,42.317797,305.0,Dorchster Ave @ Howes St
+18,305,0.2,0.0,3.575,time_period_04,-71.056787,42.317797,305.0,Dorchster Ave @ Howes St
+18,305,0.05,0.1,4.5,time_period_05,-71.056787,42.317797,305.0,Dorchster Ave @ Howes St
+18,305,0.15,0.05,4.6,time_period_06,-71.056787,42.317797,305.0,Dorchster Ave @ Howes St
+18,305,0.13,0.05,2.98,time_period_10,-71.056787,42.317797,305.0,Dorchster Ave @ Howes St
+18,306,0.2,0.0,3.6,time_period_03,-71.0567379999999,42.316398,306.0,Dorchester Ave @ Mayfield St
+18,306,0.125,0.05,3.6,time_period_04,-71.0567379999999,42.316398,306.0,Dorchester Ave @ Mayfield St
+18,306,0.35,0.35,4.5,time_period_05,-71.0567379999999,42.316398,306.0,Dorchester Ave @ Mayfield St
+18,306,0.2,0.15,4.6,time_period_06,-71.0567379999999,42.316398,306.0,Dorchester Ave @ Mayfield St
+18,306,0.14,0.05,3.08,time_period_10,-71.0567379999999,42.316398,306.0,Dorchester Ave @ Mayfield St
+18,308,0.3,0.2,3.65,time_period_03,-71.056864,42.3147240000001,308.0,Dorchester Ave @ Pearl St
+18,308,0.125,0.075,3.675,time_period_04,-71.056864,42.3147240000001,308.0,Dorchester Ave @ Pearl St
+18,308,0.2,0.05,4.65,time_period_05,-71.056864,42.3147240000001,308.0,Dorchester Ave @ Pearl St
+18,308,0.05,0.05,4.6,time_period_06,-71.056864,42.3147240000001,308.0,Dorchester Ave @ Pearl St
+18,308,0.02,0.06,3.05,time_period_10,-71.056864,42.3147240000001,308.0,Dorchester Ave @ Pearl St
+18,309,0.3,0.05,4.0,time_period_03,-71.057082,42.313795,309.0,Dorchester Ave @ Thornley Rd
+18,309,0.2,0.175,3.675,time_period_04,-71.057082,42.313795,309.0,Dorchester Ave @ Thornley Rd
+18,309,0.35,0.05,4.9,time_period_05,-71.057082,42.313795,309.0,Dorchester Ave @ Thornley Rd
+18,309,0.2,0.05,4.7,time_period_06,-71.057082,42.313795,309.0,Dorchester Ave @ Thornley Rd
+18,309,0.09,0.16,2.99,time_period_10,-71.057082,42.313795,309.0,Dorchester Ave @ Thornley Rd
+18,90311,0.4,0.0,4.35,time_period_03,-71.05752,42.311856,90311.0,Dorchester Ave @ Melvinside Ter
+18,90311,0.2,0.05,3.8,time_period_04,-71.05752,42.311856,90311.0,Dorchester Ave @ Melvinside Ter
+18,90311,0.65,0.15,5.45,time_period_05,-71.05752,42.311856,90311.0,Dorchester Ave @ Melvinside Ter
+18,90311,0.2,0.05,4.8,time_period_06,-71.05752,42.311856,90311.0,Dorchester Ave @ Melvinside Ter
+18,90311,0.08,0.06,3.04,time_period_10,-71.05752,42.311856,90311.0,Dorchester Ave @ Melvinside Ter
+18,180,0.5,0.0,4.85,time_period_03,-71.056723,42.311134,180.0,Bay St @ Auckland St
+18,180,0.125,0.025,3.9,time_period_04,-71.056723,42.311134,180.0,Bay St @ Auckland St
+18,180,0.05,0.0,5.5,time_period_05,-71.056723,42.311134,180.0,Bay St @ Auckland St
+18,180,0.0,0.0,4.85,time_period_06,-71.056723,42.311134,180.0,Bay St @ Auckland St
+18,180,0.09,0.02,3.09,time_period_10,-71.056723,42.311134,180.0,Bay St @ Auckland St
+18,312,0.7,0.15,5.4,time_period_03,-71.056946,42.309914,312.0,Auckland St @ Dewar St
+18,312,0.225,0.15,3.975,time_period_04,-71.056946,42.309914,312.0,Auckland St @ Dewar St
+18,312,0.1,0.15,5.4,time_period_05,-71.056946,42.309914,312.0,Auckland St @ Dewar St
+18,312,0.35,0.05,5.1,time_period_06,-71.056946,42.309914,312.0,Auckland St @ Dewar St
+18,312,0.09,0.24,2.93,time_period_10,-71.056946,42.309914,312.0,Auckland St @ Dewar St
+18,13121,0.0,0.0,5.4,time_period_03,-71.057763,42.309967,13121.0,Dewar St @ Dorchester Ave
+18,13121,0.025,0.0,4.0,time_period_04,-71.057763,42.309967,13121.0,Dewar St @ Dorchester Ave
+18,13121,0.05,0.0,5.4,time_period_05,-71.057763,42.309967,13121.0,Dewar St @ Dorchester Ave
+18,13121,0.0,0.0,5.1,time_period_06,-71.057763,42.309967,13121.0,Dewar St @ Dorchester Ave
+18,13121,0.03,0.0,2.95,time_period_10,-71.057763,42.309967,13121.0,Dewar St @ Dorchester Ave
+18,317,0.7,0.05,6.0,time_period_03,-71.0583589999999,42.3081940000001,317.0,Dorchester Ave @ Hancock St
+18,317,0.25,0.2,4.05,time_period_04,-71.0583589999999,42.3081940000001,317.0,Dorchester Ave @ Hancock St
+18,317,0.4,0.35,5.5,time_period_05,-71.0583589999999,42.3081940000001,317.0,Dorchester Ave @ Hancock St
+18,317,0.2,0.1,5.25,time_period_06,-71.0583589999999,42.3081940000001,317.0,Dorchester Ave @ Hancock St
+18,317,0.18,0.14,2.99,time_period_10,-71.0583589999999,42.3081940000001,317.0,Dorchester Ave @ Hancock St
+18,3176,1.35,0.0,7.4,time_period_03,-71.058617,42.3071170000001,3176.0,Dorchester Ave @ Hecla St
+18,3176,0.175,0.1,4.1,time_period_04,-71.058617,42.3071170000001,3176.0,Dorchester Ave @ Hecla St
+18,3176,0.1,0.15,5.45,time_period_05,-71.058617,42.3071170000001,3176.0,Dorchester Ave @ Hecla St
+18,3176,0.15,0.35,5.0,time_period_06,-71.058617,42.3071170000001,3176.0,Dorchester Ave @ Hecla St
+18,3176,0.11,0.09,3.01,time_period_10,-71.058617,42.3071170000001,3176.0,Dorchester Ave @ Hecla St
+18,318,0.05,0.0,7.45,time_period_03,-71.058836,42.306096,318.0,Dorchester Ave @ Linden St
+18,318,0.1,0.075,4.15,time_period_04,-71.058836,42.306096,318.0,Dorchester Ave @ Linden St
+18,318,0.2,0.1,5.55,time_period_05,-71.058836,42.306096,318.0,Dorchester Ave @ Linden St
+18,318,0.05,0.1,5.0,time_period_06,-71.058836,42.306096,318.0,Dorchester Ave @ Linden St
+18,318,0.13,0.04,3.11,time_period_10,-71.058836,42.306096,318.0,Dorchester Ave @ Linden St
+18,319,1.45,0.8,8.05,time_period_03,-71.0592139999999,42.304333,319.0,Dorchester Ave @ Ellet St
+18,319,0.7,0.675,4.175,time_period_04,-71.0592139999999,42.304333,319.0,Dorchester Ave @ Ellet St
+18,319,1.1,0.4,6.3,time_period_05,-71.0592139999999,42.304333,319.0,Dorchester Ave @ Ellet St
+18,319,0.15,0.4,4.75,time_period_06,-71.0592139999999,42.304333,319.0,Dorchester Ave @ Ellet St
+18,319,0.3,0.27,3.17,time_period_10,-71.0592139999999,42.304333,319.0,Dorchester Ave @ Ellet St
+18,320,0.15,0.6,7.6,time_period_03,-71.059816,42.3016480000001,320.0,Dorchester Ave @ Adams St
+18,320,0.225,0.5,3.85,time_period_04,-71.059816,42.3016480000001,320.0,Dorchester Ave @ Adams St
+18,320,0.45,0.45,6.25,time_period_05,-71.059816,42.3016480000001,320.0,Dorchester Ave @ Adams St
+18,320,0.1,0.5,4.35,time_period_06,-71.059816,42.3016480000001,320.0,Dorchester Ave @ Adams St
+18,320,0.19,0.37,2.99,time_period_10,-71.059816,42.3016480000001,320.0,Dorchester Ave @ Adams St
+18,323,0.4,1.05,6.95,time_period_03,-71.0647573,42.2989063,323.0,Fields Corner Busway
+18,323,1.025,0.725,4.175,time_period_04,-71.0647573,42.2989063,323.0,Fields Corner Busway
+18,323,1.0,0.75,6.45,time_period_05,-71.0647573,42.2989063,323.0,Fields Corner Busway
+18,323,0.35,0.25,4.4,time_period_06,-71.0647573,42.2989063,323.0,Fields Corner Busway
+18,323,0.29,0.23,3.07,time_period_10,-71.0647573,42.2989063,323.0,Fields Corner Busway
+18,55600,0.15,0.2,6.9,time_period_03,-71.063789,42.299024,55600.0,Fields Corner Sta @ Geneva Ave
+18,55600,0.3,0.2,4.275,time_period_04,-71.063789,42.299024,55600.0,Fields Corner Sta @ Geneva Ave
+18,55600,0.35,0.3,6.5,time_period_05,-71.063789,42.299024,55600.0,Fields Corner Sta @ Geneva Ave
+18,55600,0.1,0.05,4.45,time_period_06,-71.063789,42.299024,55600.0,Fields Corner Sta @ Geneva Ave
+18,55600,0.04,0.06,3.06,time_period_10,-71.063789,42.299024,55600.0,Fields Corner Sta @ Geneva Ave
+18,325,1.3,1.3,6.9,time_period_03,-71.060935,42.298249,325.0,Park St Busway @ Dorchester Ave
+18,325,0.95,0.3,4.9,time_period_04,-71.060935,42.298249,325.0,Park St Busway @ Dorchester Ave
+18,325,1.3,0.4,7.45,time_period_05,-71.060935,42.298249,325.0,Park St Busway @ Dorchester Ave
+18,325,0.85,0.35,4.95,time_period_06,-71.060935,42.298249,325.0,Park St Busway @ Dorchester Ave
+18,325,0.61,0.44,3.27,time_period_10,-71.060935,42.298249,325.0,Park St Busway @ Dorchester Ave
+18,326,0.05,0.25,6.6,time_period_03,-71.0610819999999,42.297293,326.0,Dorchester Ave opp Gibson St
+18,326,0.025,0.0,4.9,time_period_04,-71.0610819999999,42.297293,326.0,Dorchester Ave opp Gibson St
+18,326,0.05,0.1,7.4,time_period_05,-71.0610819999999,42.297293,326.0,Dorchester Ave opp Gibson St
+18,326,0.1,0.05,4.95,time_period_06,-71.0610819999999,42.297293,326.0,Dorchester Ave opp Gibson St
+18,326,0.07,0.02,3.29,time_period_10,-71.0610819999999,42.297293,326.0,Dorchester Ave opp Gibson St
+18,327,0.15,0.1,6.7,time_period_03,-71.0613999999999,42.2961560000001,327.0,Dorchester Ave @ Melville Ave
+18,327,0.05,0.0,4.95,time_period_04,-71.0613999999999,42.2961560000001,327.0,Dorchester Ave @ Melville Ave
+18,327,0.15,0.05,7.5,time_period_05,-71.0613999999999,42.2961560000001,327.0,Dorchester Ave @ Melville Ave
+18,327,0.05,0.0,5.0,time_period_06,-71.0613999999999,42.2961560000001,327.0,Dorchester Ave @ Melville Ave
+18,327,0.05,0.02,3.32,time_period_10,-71.0613999999999,42.2961560000001,327.0,Dorchester Ave @ Melville Ave
+18,328,1.4,0.1,8.0,time_period_03,-71.061707,42.2951550000001,328.0,1621 Dorchester Ave opp Dix St
+18,328,0.075,0.075,5.0,time_period_04,-71.061707,42.2951550000001,328.0,1621 Dorchester Ave opp Dix St
+18,328,0.1,0.25,7.35,time_period_05,-71.061707,42.2951550000001,328.0,1621 Dorchester Ave opp Dix St
+18,328,0.05,0.1,4.9,time_period_06,-71.061707,42.2951550000001,328.0,1621 Dorchester Ave opp Dix St
+18,328,0.03,0.12,3.25,time_period_10,-71.061707,42.2951550000001,328.0,1621 Dorchester Ave opp Dix St
+18,329,0.7,0.75,7.9,time_period_03,-71.062127,42.2937440000001,329.0,Dorchester Ave @ Centre St
+18,329,0.025,0.25,4.75,time_period_04,-71.062127,42.2937440000001,329.0,Dorchester Ave @ Centre St
+18,329,0.05,0.7,6.7,time_period_05,-71.062127,42.2937440000001,329.0,Dorchester Ave @ Centre St
+18,329,0.05,0.35,4.6,time_period_06,-71.062127,42.2937440000001,329.0,Dorchester Ave @ Centre St
+18,329,0.11,0.26,3.08,time_period_10,-71.062127,42.2937440000001,329.0,Dorchester Ave @ Centre St
+18,330,0.0,0.05,7.85,time_period_03,-71.062532,42.2922990000001,330.0,Dorchester Ave @ Cheverus Rd
+18,330,0.0,0.15,4.6,time_period_04,-71.062532,42.2922990000001,330.0,Dorchester Ave @ Cheverus Rd
+18,330,0.1,0.35,6.45,time_period_05,-71.062532,42.2922990000001,330.0,Dorchester Ave @ Cheverus Rd
+18,330,0.0,0.2,4.45,time_period_06,-71.062532,42.2922990000001,330.0,Dorchester Ave @ Cheverus Rd
+18,330,0.01,0.23,2.86,time_period_10,-71.062532,42.2922990000001,330.0,Dorchester Ave @ Cheverus Rd
+18,331,0.15,0.05,7.95,time_period_03,-71.063344,42.2894220000001,331.0,Dorchester Ave opp Shepton St
+18,331,0.075,0.275,4.4,time_period_04,-71.063344,42.2894220000001,331.0,Dorchester Ave opp Shepton St
+18,331,0.15,0.6,6.05,time_period_05,-71.063344,42.2894220000001,331.0,Dorchester Ave opp Shepton St
+18,331,0.0,0.75,3.7,time_period_06,-71.063344,42.2894220000001,331.0,Dorchester Ave opp Shepton St
+18,331,0.04,0.25,2.64,time_period_10,-71.063344,42.2894220000001,331.0,Dorchester Ave opp Shepton St
+18,332,0.0,0.05,7.95,time_period_03,-71.063639,42.2883130000001,332.0,Dorchester Ave @ Banton St
+18,332,0.025,0.4,4.025,time_period_04,-71.063639,42.2883130000001,332.0,Dorchester Ave @ Banton St
+18,332,0.0,0.3,5.65,time_period_05,-71.063639,42.2883130000001,332.0,Dorchester Ave @ Banton St
+18,332,0.0,0.35,3.35,time_period_06,-71.063639,42.2883130000001,332.0,Dorchester Ave @ Banton St
+18,332,0.02,0.2,2.47,time_period_10,-71.063639,42.2883130000001,332.0,Dorchester Ave @ Banton St
+18,8717,0.0,0.8,7.15,time_period_03,-71.063999,42.2870140000001,8717.0,Dorchester Ave @ Talbot Ave
+18,8717,0.0,0.8,3.25,time_period_04,-71.063999,42.2870140000001,8717.0,Dorchester Ave @ Talbot Ave
+18,8717,0.0,0.85,4.85,time_period_05,-71.063999,42.2870140000001,8717.0,Dorchester Ave @ Talbot Ave
+18,8717,0.0,0.35,3.05,time_period_06,-71.063999,42.2870140000001,8717.0,Dorchester Ave @ Talbot Ave
+18,8717,0.0,0.27,2.2,time_period_10,-71.063999,42.2870140000001,8717.0,Dorchester Ave @ Talbot Ave
+18,334,0.0,6.55,0.6,time_period_03,-71.0733149,42.2845163,334.0,Ashmont Busway
+18,334,0.0,3.2,0.05,time_period_04,-71.0733149,42.2845163,334.0,Ashmont Busway
+18,334,0.0,4.85,0.05,time_period_05,-71.0733149,42.2845163,334.0,Ashmont Busway
+18,334,0.0,2.85,0.25,time_period_06,-71.0733149,42.2845163,334.0,Ashmont Busway
+18,334,0.0,2.01,0.2,time_period_10,-71.0733149,42.2845163,334.0,Ashmont Busway

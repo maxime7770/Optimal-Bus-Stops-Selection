@@ -1,0 +1,192 @@
+route_id,stop_id,average_ons,average_offs,average_load,time_period_id,X,Y,Stop_ID,Stop_Name
+451,37150,1.8,0.2,1.8,time_period_01,,,,
+451,37150,3.05,0.0,3.1,time_period_03,,,,
+451,37150,2.0,0.1,1.9,time_period_05,,,,
+451,37150,2.0,0.0,2.2,time_period_06,,,,
+451,37150,1.6,0.0,1.6,time_period_07,,,,
+451,4453,0.0,0.0,1.8,time_period_01,-70.898872,42.522587,4453.0,North St opp Lynde St
+451,4453,1.45,0.0,4.6,time_period_03,-70.898872,42.522587,4453.0,North St opp Lynde St
+451,4453,0.1,0.0,1.9,time_period_05,-70.898872,42.522587,4453.0,North St opp Lynde St
+451,4453,0.1,0.0,2.3,time_period_06,-70.898872,42.522587,4453.0,North St opp Lynde St
+451,4453,0.0,0.1,1.6,time_period_07,-70.898872,42.522587,4453.0,North St opp Lynde St
+451,6103,3.0,0.0,4.8,time_period_01,-70.8941129999999,42.5194310000001,6103.0,New Derby St opp Klop Alley
+451,6103,1.2,0.0,5.75,time_period_03,-70.8941129999999,42.5194310000001,6103.0,New Derby St opp Klop Alley
+451,6103,1.2,0.1,3.1,time_period_05,-70.8941129999999,42.5194310000001,6103.0,New Derby St opp Klop Alley
+451,6103,0.8,0.0,3.1,time_period_06,-70.8941129999999,42.5194310000001,6103.0,New Derby St opp Klop Alley
+451,6103,0.3,0.1,1.8,time_period_07,-70.8941129999999,42.5194310000001,6103.0,New Derby St opp Klop Alley
+451,17153,0.0,0.0,4.9,time_period_01,-70.8900859999999,42.5208420000001,17153.0,Hawthorne Blvd @ Derby St
+451,17153,0.05,0.0,5.8,time_period_03,-70.8900859999999,42.5208420000001,17153.0,Hawthorne Blvd @ Derby St
+451,17153,0.1,0.1,3.2,time_period_05,-70.8900859999999,42.5208420000001,17153.0,Hawthorne Blvd @ Derby St
+451,17153,0.0,0.0,3.1,time_period_06,-70.8900859999999,42.5208420000001,17153.0,Hawthorne Blvd @ Derby St
+451,17153,0.0,0.0,1.8,time_period_07,-70.8900859999999,42.5208420000001,17153.0,Hawthorne Blvd @ Derby St
+451,17154,0.0,0.0,4.9,time_period_01,-70.890528,42.5228540000001,17154.0,Hawthorne Blvd @ Washington Sq S
+451,17154,0.3,0.05,6.1,time_period_03,-70.890528,42.5228540000001,17154.0,Hawthorne Blvd @ Washington Sq S
+451,17154,0.3,0.0,3.5,time_period_05,-70.890528,42.5228540000001,17154.0,Hawthorne Blvd @ Washington Sq S
+451,17154,0.1,0.0,3.2,time_period_06,-70.890528,42.5228540000001,17154.0,Hawthorne Blvd @ Washington Sq S
+451,17154,0.0,0.0,1.8,time_period_07,-70.890528,42.5228540000001,17154.0,Hawthorne Blvd @ Washington Sq S
+451,17156,0.1,0.0,4.9,time_period_01,-70.8909839999999,42.526637,17156.0,Winter St @ Bridge St
+451,17156,0.05,0.0,6.1,time_period_03,-70.8909839999999,42.526637,17156.0,Winter St @ Bridge St
+451,17156,0.0,0.0,3.4,time_period_05,-70.8909839999999,42.526637,17156.0,Winter St @ Bridge St
+451,17156,0.0,0.0,3.2,time_period_06,-70.8909839999999,42.526637,17156.0,Winter St @ Bridge St
+451,17156,0.0,0.0,1.8,time_period_07,-70.8909839999999,42.526637,17156.0,Winter St @ Bridge St
+451,7162,0.0,0.0,5.0,time_period_01,-70.888611,42.531824,7162.0,Bridge St @ Cromwell St
+451,7162,0.2,0.0,6.35,time_period_03,-70.888611,42.531824,7162.0,Bridge St @ Cromwell St
+451,7162,0.0,0.0,3.4,time_period_05,-70.888611,42.531824,7162.0,Bridge St @ Cromwell St
+451,7162,0.0,0.3,2.9,time_period_06,-70.888611,42.531824,7162.0,Bridge St @ Cromwell St
+451,7162,0.0,0.2,1.7,time_period_07,-70.888611,42.531824,7162.0,Bridge St @ Cromwell St
+451,7163,0.0,0.0,5.0,time_period_01,-70.888384,42.532317,7163.0,Bridge St @ Osgood St
+451,7163,0.0,0.0,6.35,time_period_03,-70.888384,42.532317,7163.0,Bridge St @ Osgood St
+451,7163,0.0,0.0,3.4,time_period_05,-70.888384,42.532317,7163.0,Bridge St @ Osgood St
+451,7163,0.0,0.0,2.9,time_period_06,-70.888384,42.532317,7163.0,Bridge St @ Osgood St
+451,7163,0.0,0.0,1.6,time_period_07,-70.888384,42.532317,7163.0,Bridge St @ Osgood St
+451,7164,0.0,0.0,5.0,time_period_01,-70.8869089999999,42.535553,7164.0,11 Bridge St
+451,7164,0.0,0.0,6.35,time_period_03,-70.8869089999999,42.535553,7164.0,11 Bridge St
+451,7164,0.0,0.0,3.4,time_period_05,-70.8869089999999,42.535553,7164.0,11 Bridge St
+451,7164,0.0,0.8,2.1,time_period_06,-70.8869089999999,42.535553,7164.0,11 Bridge St
+451,7164,0.0,0.1,1.6,time_period_07,-70.8869089999999,42.535553,7164.0,11 Bridge St
+451,17166,0.0,0.1,4.9,time_period_01,-70.883524,42.542877,17166.0,Cabot St @ Stone St
+451,17166,0.0,0.5,5.8,time_period_03,-70.883524,42.542877,17166.0,Cabot St @ Stone St
+451,17166,0.0,0.1,3.3,time_period_05,-70.883524,42.542877,17166.0,Cabot St @ Stone St
+451,17166,0.0,0.0,2.1,time_period_06,-70.883524,42.542877,17166.0,Cabot St @ Stone St
+451,17166,0.1,0.0,1.6,time_period_07,-70.883524,42.542877,17166.0,Cabot St @ Stone St
+451,7168,0.0,0.0,4.9,time_period_01,-70.880413,42.545306,7168.0,Cabot St opp Highland Ave
+451,7168,0.0,0.0,5.85,time_period_03,-70.880413,42.545306,7168.0,Cabot St opp Highland Ave
+451,7168,0.1,0.6,2.8,time_period_05,-70.880413,42.545306,7168.0,Cabot St opp Highland Ave
+451,7168,0.0,0.2,2.0,time_period_06,-70.880413,42.545306,7168.0,Cabot St opp Highland Ave
+451,7168,0.0,0.1,1.5,time_period_07,-70.880413,42.545306,7168.0,Cabot St opp Highland Ave
+451,7169,0.0,0.0,4.9,time_period_01,-70.8799759999999,42.5459950000001,7169.0,Cabot St @ Franklin Pl
+451,7169,0.0,0.0,5.8,time_period_03,-70.8799759999999,42.5459950000001,7169.0,Cabot St @ Franklin Pl
+451,7169,0.0,0.2,2.6,time_period_05,-70.8799759999999,42.5459950000001,7169.0,Cabot St @ Franklin Pl
+451,7169,0.0,0.0,1.9,time_period_06,-70.8799759999999,42.5459950000001,7169.0,Cabot St @ Franklin Pl
+451,7169,0.0,0.0,1.5,time_period_07,-70.8799759999999,42.5459950000001,7169.0,Cabot St @ Franklin Pl
+451,7170,0.0,0.0,4.9,time_period_01,-70.879067,42.547444,7170.0,Cabot St @ Thorndike St
+451,7170,0.0,0.05,5.7,time_period_03,-70.879067,42.547444,7170.0,Cabot St @ Thorndike St
+451,7170,0.0,0.1,2.6,time_period_05,-70.879067,42.547444,7170.0,Cabot St @ Thorndike St
+451,7170,0.0,0.1,1.8,time_period_06,-70.879067,42.547444,7170.0,Cabot St @ Thorndike St
+451,7170,0.0,0.0,1.5,time_period_07,-70.879067,42.547444,7170.0,Cabot St @ Thorndike St
+451,17170,0.0,0.0,5.0,time_period_01,-70.878059,42.5491680000001,17170.0,Cabot St @ Essex St
+451,17170,0.05,0.2,5.55,time_period_03,-70.878059,42.5491680000001,17170.0,Cabot St @ Essex St
+451,17170,0.0,0.2,2.4,time_period_05,-70.878059,42.5491680000001,17170.0,Cabot St @ Essex St
+451,17170,0.1,0.2,1.7,time_period_06,-70.878059,42.5491680000001,17170.0,Cabot St @ Essex St
+451,17170,0.0,0.1,1.4,time_period_07,-70.878059,42.5491680000001,17170.0,Cabot St @ Essex St
+451,7172,0.0,0.0,5.0,time_period_01,-70.878664,42.551919,7172.0,Cabot St @ Dane St
+451,7172,0.0,0.1,5.4,time_period_03,-70.878664,42.551919,7172.0,Cabot St @ Dane St
+451,7172,0.0,0.0,2.3,time_period_05,-70.878664,42.551919,7172.0,Cabot St @ Dane St
+451,7172,0.0,0.0,1.7,time_period_06,-70.878664,42.551919,7172.0,Cabot St @ Dane St
+451,7172,0.0,0.0,1.4,time_period_07,-70.878664,42.551919,7172.0,Cabot St @ Dane St
+451,7173,0.0,0.0,4.9,time_period_01,-70.8785589999999,42.5534230000001,7173.0,Cabot St opp Elliot St
+451,7173,0.0,0.05,5.35,time_period_03,-70.8785589999999,42.5534230000001,7173.0,Cabot St opp Elliot St
+451,7173,0.0,0.2,2.1,time_period_05,-70.8785589999999,42.5534230000001,7173.0,Cabot St opp Elliot St
+451,7173,0.0,0.1,1.6,time_period_06,-70.8785589999999,42.5534230000001,7173.0,Cabot St opp Elliot St
+451,7173,0.0,0.1,1.3,time_period_07,-70.8785589999999,42.5534230000001,7173.0,Cabot St opp Elliot St
+451,47170,0.0,1.2,3.7,time_period_01,-70.886985,42.557438,47170.0,Cummings Center @ 101U South Dr
+451,47170,0.05,3.05,2.4,time_period_03,-70.886985,42.557438,47170.0,Cummings Center @ 101U South Dr
+451,47170,0.0,0.2,2.0,time_period_05,-70.886985,42.557438,47170.0,Cummings Center @ 101U South Dr
+451,47170,0.1,0.2,1.5,time_period_06,-70.886985,42.557438,47170.0,Cummings Center @ 101U South Dr
+451,47170,0.2,0.1,1.4,time_period_07,-70.886985,42.557438,47170.0,Cummings Center @ 101U South Dr
+451,7126,0.0,0.0,3.7,time_period_01,-70.881493,42.554402,7126.0,Elliot St @ Rantoul St
+451,7126,0.0,0.0,2.4,time_period_03,-70.881493,42.554402,7126.0,Elliot St @ Rantoul St
+451,7126,0.1,0.0,2.0,time_period_05,-70.881493,42.554402,7126.0,Elliot St @ Rantoul St
+451,7126,0.0,0.0,1.5,time_period_06,-70.881493,42.554402,7126.0,Elliot St @ Rantoul St
+451,7126,0.0,0.0,1.4,time_period_07,-70.881493,42.554402,7126.0,Elliot St @ Rantoul St
+451,7127,0.0,0.0,3.7,time_period_01,-70.880264,42.554001,7127.0,Elliot St @ Mechanic St
+451,7127,0.0,0.0,2.35,time_period_03,-70.880264,42.554001,7127.0,Elliot St @ Mechanic St
+451,7127,0.0,0.0,2.0,time_period_05,-70.880264,42.554001,7127.0,Elliot St @ Mechanic St
+451,7127,0.0,0.0,1.5,time_period_06,-70.880264,42.554001,7127.0,Elliot St @ Mechanic St
+451,7127,0.0,0.0,1.4,time_period_07,-70.880264,42.554001,7127.0,Elliot St @ Mechanic St
+451,7174,0.0,0.0,3.7,time_period_01,-70.8783539999999,42.5546410000001,7174.0,Cabot St opp Chestnut St
+451,7174,0.0,0.0,2.4,time_period_03,-70.8783539999999,42.5546410000001,7174.0,Cabot St opp Chestnut St
+451,7174,0.0,0.0,2.0,time_period_05,-70.8783539999999,42.5546410000001,7174.0,Cabot St opp Chestnut St
+451,7174,0.0,0.0,1.5,time_period_06,-70.8783539999999,42.5546410000001,7174.0,Cabot St opp Chestnut St
+451,7174,0.1,0.0,1.5,time_period_07,-70.8783539999999,42.5546410000001,7174.0,Cabot St opp Chestnut St
+451,7175,0.0,0.0,3.7,time_period_01,-70.878211,42.555573,7175.0,Cabot St opp Summer St
+451,7175,0.0,0.0,2.4,time_period_03,-70.878211,42.555573,7175.0,Cabot St opp Summer St
+451,7175,0.0,0.0,2.0,time_period_05,-70.878211,42.555573,7175.0,Cabot St opp Summer St
+451,7175,0.0,0.0,1.5,time_period_06,-70.878211,42.555573,7175.0,Cabot St opp Summer St
+451,7175,0.0,0.0,1.5,time_period_07,-70.878211,42.555573,7175.0,Cabot St opp Summer St
+451,7176,0.0,0.0,3.7,time_period_01,-70.8782889999999,42.5566850000001,7176.0,Cabot St @ Pickett St
+451,7176,0.0,0.0,2.4,time_period_03,-70.8782889999999,42.5566850000001,7176.0,Cabot St @ Pickett St
+451,7176,0.0,0.0,2.0,time_period_05,-70.8782889999999,42.5566850000001,7176.0,Cabot St @ Pickett St
+451,7176,0.0,0.0,1.5,time_period_06,-70.8782889999999,42.5566850000001,7176.0,Cabot St @ Pickett St
+451,7176,0.0,0.0,1.4,time_period_07,-70.8782889999999,42.5566850000001,7176.0,Cabot St @ Pickett St
+451,7177,0.0,0.4,3.3,time_period_01,-70.880051,42.5577270000001,7177.0,Cabot St @ Rantoul St
+451,7177,0.0,0.0,2.4,time_period_03,-70.880051,42.5577270000001,7177.0,Cabot St @ Rantoul St
+451,7177,0.0,0.0,2.0,time_period_05,-70.880051,42.5577270000001,7177.0,Cabot St @ Rantoul St
+451,7177,0.0,0.0,1.5,time_period_06,-70.880051,42.5577270000001,7177.0,Cabot St @ Rantoul St
+451,7177,0.0,0.0,1.4,time_period_07,-70.880051,42.5577270000001,7177.0,Cabot St @ Rantoul St
+451,8318,0.0,0.0,3.3,time_period_01,-70.8796809999999,42.55976,8318.0,7 Sohier Rd
+451,8318,0.0,0.0,2.4,time_period_03,-70.8796809999999,42.55976,8318.0,7 Sohier Rd
+451,8319,0.0,0.3,3.1,time_period_01,-70.879216,42.562822,8319.0,Sohier Rd @ Story Ave
+451,8319,0.25,0.8,1.85,time_period_03,-70.879216,42.562822,8319.0,Sohier Rd @ Story Ave
+451,8320,0.0,0.0,3.1,time_period_01,-70.8790319999999,42.564177,8320.0,Sohier Rd @ Beverly High School
+451,8320,0.0,0.05,1.8,time_period_03,-70.8790319999999,42.564177,8320.0,Sohier Rd @ Beverly High School
+451,18351,0.0,0.0,3.1,time_period_01,-70.878926,42.5670050000001,18351.0,Sohier Rd @ Tozer Rd
+451,18351,0.0,0.0,1.8,time_period_03,-70.878926,42.5670050000001,18351.0,Sohier Rd @ Tozer Rd
+451,7178,0.0,0.1,1.9,time_period_05,-70.8820689999999,42.5588450000001,7178.0,Cabot St opp Simon St
+451,7178,0.0,0.0,1.5,time_period_06,-70.8820689999999,42.5588450000001,7178.0,Cabot St opp Simon St
+451,7178,0.0,0.1,1.3,time_period_07,-70.8820689999999,42.5588450000001,7178.0,Cabot St opp Simon St
+451,7180,0.0,0.0,1.9,time_period_05,-70.883707,42.5617540000001,7180.0,Cabot St @ Herrick St
+451,7180,0.0,0.1,1.4,time_period_06,-70.883707,42.5617540000001,7180.0,Cabot St @ Herrick St
+451,7180,0.0,0.0,1.3,time_period_07,-70.883707,42.5617540000001,7180.0,Cabot St @ Herrick St
+451,7181,0.0,0.0,1.9,time_period_05,-70.8840299999999,42.562489,7181.0,Cabot St opp Balch St
+451,7181,0.0,0.0,1.4,time_period_06,-70.8840299999999,42.562489,7181.0,Cabot St opp Balch St
+451,7181,0.0,0.0,1.3,time_period_07,-70.8840299999999,42.562489,7181.0,Cabot St opp Balch St
+451,7182,0.0,0.0,1.9,time_period_05,-70.885186,42.5646080000001,7182.0,Cabot St @ Russell St
+451,7182,0.0,0.0,1.4,time_period_06,-70.885186,42.5646080000001,7182.0,Cabot St @ Russell St
+451,7182,0.0,0.0,1.3,time_period_07,-70.885186,42.5646080000001,7182.0,Cabot St @ Russell St
+451,7183,0.0,0.0,1.9,time_period_05,-70.885939,42.565435,7183.0,497 Cabot St
+451,7183,0.0,0.0,1.4,time_period_06,-70.885939,42.565435,7183.0,497 Cabot St
+451,7183,0.0,0.0,1.3,time_period_07,-70.885939,42.565435,7183.0,497 Cabot St
+451,7184,0.0,0.0,1.9,time_period_05,-70.887326,42.5667480000001,7184.0,Cabot St @ Roosevelt Ave
+451,7184,0.0,0.0,1.4,time_period_06,-70.887326,42.5667480000001,7184.0,Cabot St @ Roosevelt Ave
+451,7184,0.0,0.0,1.3,time_period_07,-70.887326,42.5667480000001,7184.0,Cabot St @ Roosevelt Ave
+451,7185,0.0,0.0,1.9,time_period_05,-70.888526,42.567781,7185.0,Cabot St opp Columbia Rd
+451,7185,0.0,0.0,1.4,time_period_06,-70.888526,42.567781,7185.0,Cabot St opp Columbia Rd
+451,7185,0.0,0.0,1.3,time_period_07,-70.888526,42.567781,7185.0,Cabot St opp Columbia Rd
+451,7186,0.0,0.0,1.9,time_period_05,-70.8892729999999,42.568433,7186.0,545 Cabot St
+451,7186,0.0,0.0,1.4,time_period_06,-70.8892729999999,42.568433,7186.0,545 Cabot St
+451,7186,0.0,0.0,1.3,time_period_07,-70.8892729999999,42.568433,7186.0,545 Cabot St
+451,7187,0.0,0.0,1.9,time_period_05,-70.8902419999999,42.5692500000001,7187.0,Cabot St @ Lexington Dr
+451,7187,0.0,0.0,1.4,time_period_06,-70.8902419999999,42.5692500000001,7187.0,Cabot St @ Lexington Dr
+451,7187,0.0,0.0,1.3,time_period_07,-70.8902419999999,42.5692500000001,7187.0,Cabot St @ Lexington Dr
+451,7188,0.0,0.0,1.9,time_period_05,-70.891022,42.569957,7188.0,Cabot St @ Hill St
+451,7188,0.0,0.0,1.4,time_period_06,-70.891022,42.569957,7188.0,Cabot St @ Hill St
+451,7188,0.0,0.0,1.3,time_period_07,-70.891022,42.569957,7188.0,Cabot St @ Hill St
+451,7189,0.0,0.0,1.9,time_period_05,-70.891984,42.5706940000001,7189.0,Cabot St @ Country Dr
+451,7189,0.0,0.0,1.4,time_period_06,-70.891984,42.5706940000001,7189.0,Cabot St @ Country Dr
+451,7189,0.0,0.0,1.3,time_period_07,-70.891984,42.5706940000001,7189.0,Cabot St @ Country Dr
+451,7190,0.0,0.0,1.9,time_period_05,-70.893019,42.5723800000001,7190.0,Dodge St @ Longmeadow Rd
+451,7190,0.0,0.0,1.5,time_period_06,-70.893019,42.5723800000001,7190.0,Dodge St @ Longmeadow Rd
+451,7190,0.0,0.1,1.3,time_period_07,-70.893019,42.5723800000001,7190.0,Dodge St @ Longmeadow Rd
+451,7191,0.0,0.1,1.8,time_period_05,-70.890863,42.576832,7191.0,Dodge St opp Conant St
+451,7191,0.0,0.0,1.5,time_period_06,-70.890863,42.576832,7191.0,Dodge St opp Conant St
+451,7191,0.0,0.1,1.3,time_period_07,-70.890863,42.576832,7191.0,Dodge St opp Conant St
+451,7192,0.0,0.0,1.8,time_period_05,-70.888684,42.5783020000001,7192.0,Dodge St @ Longwood Ave
+451,7192,0.0,0.0,1.5,time_period_06,-70.888684,42.5783020000001,7192.0,Dodge St @ Longwood Ave
+451,7192,0.0,0.0,1.3,time_period_07,-70.888684,42.5783020000001,7192.0,Dodge St @ Longwood Ave
+451,7193,0.0,0.0,1.8,time_period_05,-70.887558,42.5791,7193.0,Dodge St opp Raymond Ave
+451,7193,0.0,0.0,1.5,time_period_06,-70.887558,42.5791,7193.0,Dodge St opp Raymond Ave
+451,7193,0.0,0.0,1.3,time_period_07,-70.887558,42.5791,7193.0,Dodge St opp Raymond Ave
+451,7194,0.0,0.0,1.8,time_period_05,-70.8864589999999,42.5802550000001,7194.0,Dodge St @ Tozer Rd
+451,7194,0.0,0.0,1.5,time_period_06,-70.8864589999999,42.5802550000001,7194.0,Dodge St @ Tozer Rd
+451,7194,0.0,0.0,1.3,time_period_07,-70.8864589999999,42.5802550000001,7194.0,Dodge St @ Tozer Rd
+451,17100,0.0,0.1,3.0,time_period_01,-70.884449,42.582568,17100.0,Dodge St @ Enon St
+451,17100,0.0,0.25,1.55,time_period_03,-70.884449,42.582568,17100.0,Dodge St @ Enon St
+451,17100,0.0,0.0,1.8,time_period_05,-70.884449,42.582568,17100.0,Dodge St @ Enon St
+451,17100,0.0,0.0,1.5,time_period_06,-70.884449,42.582568,17100.0,Dodge St @ Enon St
+451,17100,0.0,0.0,1.3,time_period_07,-70.884449,42.582568,17100.0,Dodge St @ Enon St
+451,17101,0.0,0.7,2.3,time_period_01,-70.884574,42.584688,17101.0,Opp 22 Enon St
+451,17101,0.0,0.05,1.5,time_period_03,-70.884574,42.584688,17101.0,Opp 22 Enon St
+451,17101,0.4,0.5,1.8,time_period_05,-70.884574,42.584688,17101.0,Opp 22 Enon St
+451,17101,0.4,0.6,1.4,time_period_06,-70.884574,42.584688,17101.0,Opp 22 Enon St
+451,17101,0.3,0.3,1.3,time_period_07,-70.884574,42.584688,17101.0,Opp 22 Enon St
+451,7101,2.5,2.3,2.5,time_period_01,-70.884737,42.587435,7101.0,Enon St @ Super Stop + Shop
+451,7101,1.3,1.25,1.55,time_period_03,-70.884737,42.587435,7101.0,Enon St @ Super Stop + Shop
+451,7101,0.7,0.5,2.0,time_period_05,-70.884737,42.587435,7101.0,Enon St @ Super Stop + Shop
+451,7101,1.4,0.3,2.6,time_period_06,-70.884737,42.587435,7101.0,Enon St @ Super Stop + Shop
+451,7101,0.4,0.5,1.2,time_period_07,-70.884737,42.587435,7101.0,Enon St @ Super Stop + Shop
+451,17102,0.0,1.9,0.0,time_period_01,-70.884687,42.5846110000001,17102.0,Enon St @ Lakeview Ave
+451,17102,0.0,1.05,0.0,time_period_03,-70.884687,42.5846110000001,17102.0,Enon St @ Lakeview Ave
+451,17102,0.0,1.4,0.0,time_period_05,-70.884687,42.5846110000001,17102.0,Enon St @ Lakeview Ave
+451,17102,0.0,1.8,0.0,time_period_06,-70.884687,42.5846110000001,17102.0,Enon St @ Lakeview Ave
+451,17102,0.0,0.9,0.0,time_period_07,-70.884687,42.5846110000001,17102.0,Enon St @ Lakeview Ave

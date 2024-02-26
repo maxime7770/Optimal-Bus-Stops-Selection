@@ -1,0 +1,295 @@
+route_id,stop_id,average_ons,average_offs,average_load,time_period_id,X,Y,Stop_ID,Stop_Name
+554,903,5.1,0.0,5.2,time_period_02,-71.185943,42.357134,903.0,Washington St @ Bacon St
+554,903,5.0,0.0,5.0,time_period_03,-71.185943,42.357134,903.0,Washington St @ Bacon St
+554,903,2.9,0.0,3.0,time_period_04,-71.185943,42.357134,903.0,Washington St @ Bacon St
+554,903,2.4,0.0,2.4,time_period_05,-71.185943,42.357134,903.0,Washington St @ Bacon St
+554,903,5.2,0.0,5.2,time_period_06,-71.185943,42.357134,903.0,Washington St @ Bacon St
+554,903,3.2,0.0,3.3,time_period_07,-71.185943,42.357134,903.0,Washington St @ Bacon St
+554,7640,0.9,0.1,6.0,time_period_02,-71.190037,42.3559950000001,7640.0,Washington St @ Hovey St
+554,7640,0.3,0.0,5.3,time_period_03,-71.190037,42.3559950000001,7640.0,Washington St @ Hovey St
+554,7640,0.0,0.0,3.0,time_period_04,-71.190037,42.3559950000001,7640.0,Washington St @ Hovey St
+554,7640,0.0,0.1,2.4,time_period_05,-71.190037,42.3559950000001,7640.0,Washington St @ Hovey St
+554,7640,0.2,0.1,5.4,time_period_06,-71.190037,42.3559950000001,7640.0,Washington St @ Hovey St
+554,7640,0.1,0.0,3.4,time_period_07,-71.190037,42.3559950000001,7640.0,Washington St @ Hovey St
+554,7641,0.0,0.0,6.0,time_period_02,-71.191748,42.355577,7641.0,Washington St @ Jewett St
+554,7641,0.1,0.0,5.4,time_period_03,-71.191748,42.355577,7641.0,Washington St @ Jewett St
+554,7641,0.0,0.0,3.2,time_period_04,-71.191748,42.355577,7641.0,Washington St @ Jewett St
+554,7641,0.0,0.0,2.4,time_period_05,-71.191748,42.355577,7641.0,Washington St @ Jewett St
+554,7641,0.0,0.0,5.4,time_period_06,-71.191748,42.355577,7641.0,Washington St @ Jewett St
+554,7641,0.0,0.0,3.4,time_period_07,-71.191748,42.355577,7641.0,Washington St @ Jewett St
+554,7642,0.0,0.0,6.0,time_period_02,-71.195895,42.3548500000001,7642.0,Washington St @ Adams St
+554,7642,0.2,0.2,5.4,time_period_03,-71.195895,42.3548500000001,7642.0,Washington St @ Adams St
+554,7642,0.0,0.1,3.1,time_period_04,-71.195895,42.3548500000001,7642.0,Washington St @ Adams St
+554,7642,0.0,0.3,2.0,time_period_05,-71.195895,42.3548500000001,7642.0,Washington St @ Adams St
+554,7642,0.1,0.1,5.3,time_period_06,-71.195895,42.3548500000001,7642.0,Washington St @ Adams St
+554,7642,0.1,0.1,3.3,time_period_07,-71.195895,42.3548500000001,7642.0,Washington St @ Adams St
+554,7643,0.1,0.0,6.1,time_period_02,-71.199044,42.353978,7643.0,Washington St @ Craft St
+554,7643,0.0,0.2,5.2,time_period_03,-71.199044,42.353978,7643.0,Washington St @ Craft St
+554,7643,0.8,0.1,3.8,time_period_04,-71.199044,42.353978,7643.0,Washington St @ Craft St
+554,7643,0.1,0.1,2.1,time_period_05,-71.199044,42.353978,7643.0,Washington St @ Craft St
+554,7643,0.3,0.2,5.4,time_period_06,-71.199044,42.353978,7643.0,Washington St @ Craft St
+554,7643,0.1,0.2,3.3,time_period_07,-71.199044,42.353978,7643.0,Washington St @ Craft St
+554,7644,0.0,0.1,6.0,time_period_02,-71.202143,42.3527920000001,7644.0,Washington St @ Court St
+554,7644,0.0,0.0,5.2,time_period_03,-71.202143,42.3527920000001,7644.0,Washington St @ Court St
+554,7644,0.0,0.1,3.7,time_period_04,-71.202143,42.3527920000001,7644.0,Washington St @ Court St
+554,7644,0.2,0.1,2.2,time_period_05,-71.202143,42.3527920000001,7644.0,Washington St @ Court St
+554,7644,0.2,0.1,5.5,time_period_06,-71.202143,42.3527920000001,7644.0,Washington St @ Court St
+554,7644,0.0,0.1,3.2,time_period_07,-71.202143,42.3527920000001,7644.0,Washington St @ Court St
+554,7645,0.0,0.0,6.1,time_period_02,-71.207212,42.3516880000001,7645.0,Washington St @ Walnut St
+554,7645,1.9,0.2,6.9,time_period_03,-71.207212,42.3516880000001,7645.0,Washington St @ Walnut St
+554,7645,0.8,0.6,3.9,time_period_04,-71.207212,42.3516880000001,7645.0,Washington St @ Walnut St
+554,7645,0.6,0.3,2.6,time_period_05,-71.207212,42.3516880000001,7645.0,Washington St @ Walnut St
+554,7645,0.6,0.3,5.8,time_period_06,-71.207212,42.3516880000001,7645.0,Washington St @ Walnut St
+554,7645,0.8,0.6,3.5,time_period_07,-71.207212,42.3516880000001,7645.0,Washington St @ Walnut St
+554,17645,0.0,0.0,6.1,time_period_02,-71.2105109999999,42.351093,17645.0,Washington St @ Lowell Ave
+554,17645,0.1,0.1,6.9,time_period_03,-71.2105109999999,42.351093,17645.0,Washington St @ Lowell Ave
+554,17645,0.2,0.0,4.1,time_period_04,-71.2105109999999,42.351093,17645.0,Washington St @ Lowell Ave
+554,17645,0.1,0.0,2.6,time_period_05,-71.2105109999999,42.351093,17645.0,Washington St @ Lowell Ave
+554,17645,0.1,0.7,5.2,time_period_06,-71.2105109999999,42.351093,17645.0,Washington St @ Lowell Ave
+554,17645,0.2,0.1,3.5,time_period_07,-71.2105109999999,42.351093,17645.0,Washington St @ Lowell Ave
+554,7646,0.0,0.0,6.1,time_period_02,-71.2128319999999,42.3509310000001,7646.0,Washington St @ Walker St
+554,7646,0.0,0.0,7.0,time_period_03,-71.2128319999999,42.3509310000001,7646.0,Washington St @ Walker St
+554,7646,0.0,0.0,4.1,time_period_04,-71.2128319999999,42.3509310000001,7646.0,Washington St @ Walker St
+554,7646,0.0,0.0,2.6,time_period_05,-71.2128319999999,42.3509310000001,7646.0,Washington St @ Walker St
+554,7646,0.0,0.4,4.9,time_period_06,-71.2128319999999,42.3509310000001,7646.0,Washington St @ Walker St
+554,7646,0.1,0.0,3.6,time_period_07,-71.2128319999999,42.3509310000001,7646.0,Washington St @ Walker St
+554,7647,0.4,0.0,6.5,time_period_02,-71.215749,42.350376,7647.0,Washington St @ Eddy St
+554,7647,0.0,0.0,6.9,time_period_03,-71.215749,42.350376,7647.0,Washington St @ Eddy St
+554,7647,0.0,0.1,4.0,time_period_04,-71.215749,42.350376,7647.0,Washington St @ Eddy St
+554,7647,0.0,0.0,2.6,time_period_05,-71.215749,42.350376,7647.0,Washington St @ Eddy St
+554,7647,0.0,0.4,4.5,time_period_06,-71.215749,42.350376,7647.0,Washington St @ Eddy St
+554,7647,0.0,0.2,3.4,time_period_07,-71.215749,42.350376,7647.0,Washington St @ Eddy St
+554,7648,0.0,0.0,6.5,time_period_02,-71.218249,42.349839,7648.0,Washington St @ Cross St
+554,7648,0.0,0.0,6.9,time_period_03,-71.218249,42.349839,7648.0,Washington St @ Cross St
+554,7648,0.0,0.0,4.0,time_period_04,-71.218249,42.349839,7648.0,Washington St @ Cross St
+554,7648,0.0,0.0,2.6,time_period_05,-71.218249,42.349839,7648.0,Washington St @ Cross St
+554,7648,0.1,0.1,4.5,time_period_06,-71.218249,42.349839,7648.0,Washington St @ Cross St
+554,7648,0.0,0.0,3.4,time_period_07,-71.218249,42.349839,7648.0,Washington St @ Cross St
+554,7649,0.0,0.6,5.9,time_period_02,-71.2196079999999,42.3495350000001,7649.0,Washington St @ Armory St
+554,7649,0.0,0.0,6.9,time_period_03,-71.2196079999999,42.3495350000001,7649.0,Washington St @ Armory St
+554,7649,0.0,0.0,4.0,time_period_04,-71.2196079999999,42.3495350000001,7649.0,Washington St @ Armory St
+554,7649,0.2,0.0,2.8,time_period_05,-71.2196079999999,42.3495350000001,7649.0,Washington St @ Armory St
+554,7649,0.1,0.1,4.5,time_period_06,-71.2196079999999,42.3495350000001,7649.0,Washington St @ Armory St
+554,7649,0.0,0.0,3.4,time_period_07,-71.2196079999999,42.3495350000001,7649.0,Washington St @ Armory St
+554,7650,0.0,0.0,5.9,time_period_02,-71.226141,42.3494460000001,7650.0,Washington St @ Watertown St
+554,7650,0.0,1.1,5.7,time_period_03,-71.226141,42.3494460000001,7650.0,Washington St @ Watertown St
+554,7650,0.0,0.3,3.6,time_period_04,-71.226141,42.3494460000001,7650.0,Washington St @ Watertown St
+554,7650,0.2,0.0,3.0,time_period_05,-71.226141,42.3494460000001,7650.0,Washington St @ Watertown St
+554,7650,0.0,0.2,4.3,time_period_06,-71.226141,42.3494460000001,7650.0,Washington St @ Watertown St
+554,7650,0.0,0.0,3.4,time_period_07,-71.226141,42.3494460000001,7650.0,Washington St @ Watertown St
+554,7651,0.0,0.0,5.9,time_period_02,-71.228067,42.3490560000001,7651.0,Washington St @ Cherry St
+554,7651,0.0,0.2,5.5,time_period_03,-71.228067,42.3490560000001,7651.0,Washington St @ Cherry St
+554,7651,0.0,0.0,3.7,time_period_04,-71.228067,42.3490560000001,7651.0,Washington St @ Cherry St
+554,7651,0.0,0.1,2.8,time_period_05,-71.228067,42.3490560000001,7651.0,Washington St @ Cherry St
+554,7651,0.1,0.0,4.4,time_period_06,-71.228067,42.3490560000001,7651.0,Washington St @ Cherry St
+554,7651,0.0,0.4,3.0,time_period_07,-71.228067,42.3490560000001,7651.0,Washington St @ Cherry St
+554,7652,0.0,0.0,5.9,time_period_02,-71.229052,42.3487640000001,7652.0,Elm St @ Washington St
+554,7652,0.2,0.0,5.7,time_period_03,-71.229052,42.3487640000001,7652.0,Elm St @ Washington St
+554,7652,0.0,0.4,3.3,time_period_04,-71.229052,42.3487640000001,7652.0,Elm St @ Washington St
+554,7652,0.1,0.0,2.9,time_period_05,-71.229052,42.3487640000001,7652.0,Elm St @ Washington St
+554,7652,0.3,0.1,4.6,time_period_06,-71.229052,42.3487640000001,7652.0,Elm St @ Washington St
+554,7652,0.0,0.0,3.0,time_period_07,-71.229052,42.3487640000001,7652.0,Elm St @ Washington St
+554,7653,0.1,0.5,5.5,time_period_02,-71.229883,42.350015,7653.0,Elm St @ Webster St
+554,7653,0.1,0.1,5.7,time_period_03,-71.229883,42.350015,7653.0,Elm St @ Webster St
+554,7653,0.1,0.0,3.4,time_period_04,-71.229883,42.350015,7653.0,Elm St @ Webster St
+554,7653,0.0,0.0,2.9,time_period_05,-71.229883,42.350015,7653.0,Elm St @ Webster St
+554,7653,0.0,0.0,4.6,time_period_06,-71.229883,42.350015,7653.0,Elm St @ Webster St
+554,7653,0.0,0.0,3.0,time_period_07,-71.229883,42.350015,7653.0,Elm St @ Webster St
+554,7654,0.0,0.0,5.5,time_period_02,-71.231055,42.352586,7654.0,Elm St @ River St
+554,7654,0.2,0.0,5.8,time_period_03,-71.231055,42.352586,7654.0,Elm St @ River St
+554,7654,0.0,0.0,3.4,time_period_04,-71.231055,42.352586,7654.0,Elm St @ River St
+554,7654,0.0,0.2,2.7,time_period_05,-71.231055,42.352586,7654.0,Elm St @ River St
+554,7654,0.1,0.1,4.6,time_period_06,-71.231055,42.352586,7654.0,Elm St @ River St
+554,7654,0.0,0.0,3.0,time_period_07,-71.231055,42.352586,7654.0,Elm St @ River St
+554,7655,0.0,0.0,5.5,time_period_02,-71.233436,42.3539200000001,7655.0,River St @ Mague Ave
+554,7655,0.0,0.0,5.8,time_period_03,-71.233436,42.3539200000001,7655.0,River St @ Mague Ave
+554,7655,0.0,0.0,3.4,time_period_04,-71.233436,42.3539200000001,7655.0,River St @ Mague Ave
+554,7655,0.0,0.0,2.8,time_period_05,-71.233436,42.3539200000001,7655.0,River St @ Mague Ave
+554,7655,0.0,0.0,4.6,time_period_06,-71.233436,42.3539200000001,7655.0,River St @ Mague Ave
+554,7655,0.1,0.0,3.0,time_period_07,-71.233436,42.3539200000001,7655.0,River St @ Mague Ave
+554,7656,0.0,0.0,5.5,time_period_02,-71.23524,42.355148,7656.0,River St @ Sheridan St
+554,7656,0.1,0.0,6.0,time_period_03,-71.23524,42.355148,7656.0,River St @ Sheridan St
+554,7656,0.1,0.0,3.5,time_period_04,-71.23524,42.355148,7656.0,River St @ Sheridan St
+554,7656,0.0,0.1,2.8,time_period_05,-71.23524,42.355148,7656.0,River St @ Sheridan St
+554,7656,0.0,0.1,4.6,time_period_06,-71.23524,42.355148,7656.0,River St @ Sheridan St
+554,7656,0.0,0.0,3.0,time_period_07,-71.23524,42.355148,7656.0,River St @ Sheridan St
+554,76561,0.0,0.0,5.5,time_period_02,-71.236797,42.3561910000001,76561.0,River St @ William St
+554,76561,0.5,0.0,6.4,time_period_03,-71.236797,42.3561910000001,76561.0,River St @ William St
+554,76561,0.0,0.0,3.5,time_period_04,-71.236797,42.3561910000001,76561.0,River St @ William St
+554,76561,0.0,0.0,2.8,time_period_05,-71.236797,42.3561910000001,76561.0,River St @ William St
+554,76561,0.0,0.0,4.5,time_period_06,-71.236797,42.3561910000001,76561.0,River St @ William St
+554,76561,0.0,0.0,3.0,time_period_07,-71.236797,42.3561910000001,76561.0,River St @ William St
+554,7657,0.0,0.0,5.5,time_period_02,-71.238343,42.3571420000001,7657.0,River St @ James St
+554,7657,0.0,0.0,6.4,time_period_03,-71.238343,42.3571420000001,7657.0,River St @ James St
+554,7657,0.0,0.0,3.5,time_period_04,-71.238343,42.3571420000001,7657.0,River St @ James St
+554,7657,0.0,0.0,2.8,time_period_05,-71.238343,42.3571420000001,7657.0,River St @ James St
+554,7657,0.0,0.0,4.5,time_period_06,-71.238343,42.3571420000001,7657.0,River St @ James St
+554,7657,0.0,0.0,3.0,time_period_07,-71.238343,42.3571420000001,7657.0,River St @ James St
+554,7658,0.1,0.4,5.2,time_period_02,-71.239495,42.3577950000001,7658.0,River St @ Lexington St
+554,7658,0.3,0.0,6.7,time_period_03,-71.239495,42.3577950000001,7658.0,River St @ Lexington St
+554,7658,0.0,0.1,3.5,time_period_04,-71.239495,42.3577950000001,7658.0,River St @ Lexington St
+554,7658,0.0,0.0,2.8,time_period_05,-71.239495,42.3577950000001,7658.0,River St @ Lexington St
+554,7658,0.1,0.1,4.6,time_period_06,-71.239495,42.3577950000001,7658.0,River St @ Lexington St
+554,7658,0.0,0.2,2.9,time_period_07,-71.239495,42.3577950000001,7658.0,River St @ Lexington St
+554,7659,0.0,0.0,5.1,time_period_02,-71.239345,42.3591690000001,7659.0,Lexington St @ Whitlowe Rd
+554,7659,0.0,0.1,6.7,time_period_03,-71.239345,42.3591690000001,7659.0,Lexington St @ Whitlowe Rd
+554,7659,0.0,0.0,3.4,time_period_04,-71.239345,42.3591690000001,7659.0,Lexington St @ Whitlowe Rd
+554,7659,0.0,0.0,2.9,time_period_05,-71.239345,42.3591690000001,7659.0,Lexington St @ Whitlowe Rd
+554,7659,0.1,0.0,4.6,time_period_06,-71.239345,42.3591690000001,7659.0,Lexington St @ Whitlowe Rd
+554,7659,0.0,0.1,2.8,time_period_07,-71.239345,42.3591690000001,7659.0,Lexington St @ Whitlowe Rd
+554,76592,0.0,0.0,5.2,time_period_02,-71.23902,42.3616220000001,76592.0,Moody St @ Underwood Pk
+554,76592,0.2,0.0,6.9,time_period_03,-71.23902,42.3616220000001,76592.0,Moody St @ Underwood Pk
+554,76592,0.1,0.0,3.5,time_period_04,-71.23902,42.3616220000001,76592.0,Moody St @ Underwood Pk
+554,76592,0.1,0.0,2.9,time_period_05,-71.23902,42.3616220000001,76592.0,Moody St @ Underwood Pk
+554,76592,0.0,0.0,4.6,time_period_06,-71.23902,42.3616220000001,76592.0,Moody St @ Underwood Pk
+554,76592,0.0,0.0,2.7,time_period_07,-71.23902,42.3616220000001,76592.0,Moody St @ Underwood Pk
+554,76593,0.2,0.0,5.3,time_period_02,-71.238784,42.363169,76593.0,Moody St @ Washington Ave
+554,76593,1.0,0.0,7.9,time_period_03,-71.238784,42.363169,76593.0,Moody St @ Washington Ave
+554,76593,0.8,0.0,4.3,time_period_04,-71.238784,42.363169,76593.0,Moody St @ Washington Ave
+554,76593,0.1,0.0,3.0,time_period_05,-71.238784,42.363169,76593.0,Moody St @ Washington Ave
+554,76593,0.1,0.1,4.6,time_period_06,-71.238784,42.363169,76593.0,Moody St @ Washington Ave
+554,76593,0.0,0.2,2.5,time_period_07,-71.238784,42.363169,76593.0,Moody St @ Washington Ave
+554,7660,0.1,0.0,5.5,time_period_02,-71.238487,42.364485,7660.0,Moody St @ Robbins St
+554,7660,0.3,0.0,8.1,time_period_03,-71.238487,42.364485,7660.0,Moody St @ Robbins St
+554,7660,0.3,0.0,4.5,time_period_04,-71.238487,42.364485,7660.0,Moody St @ Robbins St
+554,7660,0.0,0.0,3.0,time_period_05,-71.238487,42.364485,7660.0,Moody St @ Robbins St
+554,7660,0.2,0.4,4.3,time_period_06,-71.238487,42.364485,7660.0,Moody St @ Robbins St
+554,7660,0.1,0.1,2.5,time_period_07,-71.238487,42.364485,7660.0,Moody St @ Robbins St
+554,76594,0.0,0.1,5.3,time_period_02,-71.2380889999999,42.365733,76594.0,Moody St @ Ash St
+554,76594,0.4,0.2,8.4,time_period_03,-71.2380889999999,42.365733,76594.0,Moody St @ Ash St
+554,76594,0.5,0.3,4.7,time_period_04,-71.2380889999999,42.365733,76594.0,Moody St @ Ash St
+554,76594,0.1,0.5,2.5,time_period_05,-71.2380889999999,42.365733,76594.0,Moody St @ Ash St
+554,76594,0.1,1.3,3.2,time_period_06,-71.2380889999999,42.365733,76594.0,Moody St @ Ash St
+554,76594,0.1,0.7,1.8,time_period_07,-71.2380889999999,42.365733,76594.0,Moody St @ Ash St
+554,7845,0.1,0.8,5.3,time_period_02,-71.242263,42.3685360000001,7845.0,Crescent St @ Maple St
+554,7845,0.1,0.1,8.0,time_period_03,-71.242263,42.3685360000001,7845.0,Crescent St @ Maple St
+554,7845,0.0,0.1,4.6,time_period_04,-71.242263,42.3685360000001,7845.0,Crescent St @ Maple St
+554,7845,0.0,0.1,2.5,time_period_05,-71.242263,42.3685360000001,7845.0,Crescent St @ Maple St
+554,7845,0.0,0.2,3.1,time_period_06,-71.242263,42.3685360000001,7845.0,Crescent St @ Maple St
+554,7845,0.0,0.1,1.7,time_period_07,-71.242263,42.3685360000001,7845.0,Crescent St @ Maple St
+554,7846,0.0,0.1,4.8,time_period_02,-71.2405689999999,42.370165,7846.0,Crescent St @ Walnut St
+554,7846,0.4,0.0,8.7,time_period_03,-71.2405689999999,42.370165,7846.0,Crescent St @ Walnut St
+554,7846,0.3,0.0,4.9,time_period_04,-71.2405689999999,42.370165,7846.0,Crescent St @ Walnut St
+554,7846,0.2,0.0,2.6,time_period_05,-71.2405689999999,42.370165,7846.0,Crescent St @ Walnut St
+554,7846,0.0,0.1,2.9,time_period_06,-71.2405689999999,42.370165,7846.0,Crescent St @ Walnut St
+554,7846,0.0,0.0,1.7,time_period_07,-71.2405689999999,42.370165,7846.0,Crescent St @ Walnut St
+554,17846,0.0,0.0,4.6,time_period_02,,,,
+554,17846,0.0,0.0,8.7,time_period_03,,,,
+554,17846,0.0,0.0,4.9,time_period_04,,,,
+554,17846,0.0,0.0,2.6,time_period_05,,,,
+554,17846,0.0,0.1,2.9,time_period_06,,,,
+554,17846,0.0,0.1,1.7,time_period_07,,,,
+554,76597,0.1,0.0,4.7,time_period_02,-71.236758,42.371852,76597.0,Moody St @ Pine St
+554,76597,0.1,0.2,8.6,time_period_03,-71.236758,42.371852,76597.0,Moody St @ Pine St
+554,76597,0.4,0.0,5.2,time_period_04,-71.236758,42.371852,76597.0,Moody St @ Pine St
+554,76597,0.1,0.1,2.6,time_period_05,-71.236758,42.371852,76597.0,Moody St @ Pine St
+554,76597,0.1,0.3,2.8,time_period_06,-71.236758,42.371852,76597.0,Moody St @ Pine St
+554,76597,0.2,0.3,1.6,time_period_07,-71.236758,42.371852,76597.0,Moody St @ Pine St
+554,86971,0.0,0.0,4.7,time_period_02,-71.2366059999999,42.3726500000001,86971.0,Moody St @ Carter St
+554,86971,0.0,0.9,7.8,time_period_03,-71.2366059999999,42.3726500000001,86971.0,Moody St @ Carter St
+554,86971,0.0,0.0,5.2,time_period_04,-71.2366059999999,42.3726500000001,86971.0,Moody St @ Carter St
+554,86971,0.1,0.2,2.5,time_period_05,-71.2366059999999,42.3726500000001,86971.0,Moody St @ Carter St
+554,86971,0.0,0.2,2.6,time_period_06,-71.2366059999999,42.3726500000001,86971.0,Moody St @ Carter St
+554,86971,0.0,0.1,1.5,time_period_07,-71.2366059999999,42.3726500000001,86971.0,Moody St @ Carter St
+554,86944,0.2,1.0,3.8,time_period_02,-71.234544,42.3746870000001,86944.0,Carter St @ Waltham Comm Rail Sta
+554,86944,0.2,2.2,5.7,time_period_03,-71.234544,42.3746870000001,86944.0,Carter St @ Waltham Comm Rail Sta
+554,86944,0.7,0.4,5.6,time_period_04,-71.234544,42.3746870000001,86944.0,Carter St @ Waltham Comm Rail Sta
+554,86944,0.5,0.6,2.3,time_period_05,-71.234544,42.3746870000001,86944.0,Carter St @ Waltham Comm Rail Sta
+554,86944,0.2,0.6,2.2,time_period_06,-71.234544,42.3746870000001,86944.0,Carter St @ Waltham Comm Rail Sta
+554,86944,0.2,0.1,1.6,time_period_07,-71.234544,42.3746870000001,86944.0,Carter St @ Waltham Comm Rail Sta
+554,7859,0.0,0.0,3.8,time_period_02,-71.2355919999999,42.37802,7859.0,School St @ Lexington St
+554,7859,0.1,0.2,5.5,time_period_03,-71.2355919999999,42.37802,7859.0,School St @ Lexington St
+554,7859,0.0,0.1,5.5,time_period_04,-71.2355919999999,42.37802,7859.0,School St @ Lexington St
+554,7859,0.1,0.1,2.3,time_period_05,-71.2355919999999,42.37802,7859.0,School St @ Lexington St
+554,7859,0.1,0.2,2.1,time_period_06,-71.2355919999999,42.37802,7859.0,School St @ Lexington St
+554,7859,0.1,0.1,1.6,time_period_07,-71.2355919999999,42.37802,7859.0,School St @ Lexington St
+554,7861,0.0,0.0,3.8,time_period_02,-71.236188,42.3807550000001,7861.0,Lexington St opp Shopping Plaza
+554,7861,0.4,0.0,6.0,time_period_03,-71.236188,42.3807550000001,7861.0,Lexington St opp Shopping Plaza
+554,7861,0.1,0.0,5.5,time_period_04,-71.236188,42.3807550000001,7861.0,Lexington St opp Shopping Plaza
+554,7861,0.1,0.1,2.3,time_period_05,-71.236188,42.3807550000001,7861.0,Lexington St opp Shopping Plaza
+554,7861,0.0,0.6,1.6,time_period_06,-71.236188,42.3807550000001,7861.0,Lexington St opp Shopping Plaza
+554,7861,0.0,0.1,1.5,time_period_07,-71.236188,42.3807550000001,7861.0,Lexington St opp Shopping Plaza
+554,7865,0.0,0.0,3.8,time_period_02,-71.231663,42.3845700000001,7865.0,Beaver St @ Valley View Rd
+554,7865,0.0,0.1,5.9,time_period_03,-71.231663,42.3845700000001,7865.0,Beaver St @ Valley View Rd
+554,7865,0.0,0.0,5.5,time_period_04,-71.231663,42.3845700000001,7865.0,Beaver St @ Valley View Rd
+554,7865,0.0,0.0,2.3,time_period_05,-71.231663,42.3845700000001,7865.0,Beaver St @ Valley View Rd
+554,7865,0.0,0.0,1.6,time_period_06,-71.231663,42.3845700000001,7865.0,Beaver St @ Valley View Rd
+554,7865,0.0,0.0,1.5,time_period_07,-71.231663,42.3845700000001,7865.0,Beaver St @ Valley View Rd
+554,7497,0.4,0.1,4.1,time_period_02,-71.226104,42.385547,7497.0,Beaver St opp Forest St
+554,7497,0.0,0.8,5.2,time_period_03,-71.226104,42.385547,7497.0,Beaver St opp Forest St
+554,7497,0.0,0.4,5.2,time_period_04,-71.226104,42.385547,7497.0,Beaver St opp Forest St
+554,7497,0.0,0.1,2.2,time_period_05,-71.226104,42.385547,7497.0,Beaver St opp Forest St
+554,7497,0.0,0.1,1.5,time_period_06,-71.226104,42.385547,7497.0,Beaver St opp Forest St
+554,7497,0.0,0.0,1.5,time_period_07,-71.226104,42.385547,7497.0,Beaver St opp Forest St
+554,7498,0.0,0.0,4.1,time_period_02,-71.2233869999999,42.38534,7498.0,Beaver St @ Field Rd
+554,7498,0.0,1.3,3.9,time_period_03,-71.2233869999999,42.38534,7498.0,Beaver St @ Field Rd
+554,7498,0.0,1.5,3.6,time_period_04,-71.2233869999999,42.38534,7498.0,Beaver St @ Field Rd
+554,7498,0.1,0.4,1.8,time_period_05,-71.2233869999999,42.38534,7498.0,Beaver St @ Field Rd
+554,7498,0.1,0.1,1.5,time_period_06,-71.2233869999999,42.38534,7498.0,Beaver St @ Field Rd
+554,7498,0.1,0.1,1.5,time_period_07,-71.2233869999999,42.38534,7498.0,Beaver St @ Field Rd
+554,74981,0.0,0.0,4.1,time_period_02,-71.216619,42.384918,74981.0,Beaver St @ Linden St
+554,74981,0.0,0.0,3.9,time_period_03,-71.216619,42.384918,74981.0,Beaver St @ Linden St
+554,74981,0.1,0.0,3.7,time_period_04,-71.216619,42.384918,74981.0,Beaver St @ Linden St
+554,74981,0.0,0.0,1.8,time_period_05,-71.216619,42.384918,74981.0,Beaver St @ Linden St
+554,74981,0.0,0.0,1.5,time_period_06,-71.216619,42.384918,74981.0,Beaver St @ Linden St
+554,74981,0.0,0.0,1.5,time_period_07,-71.216619,42.384918,74981.0,Beaver St @ Linden St
+554,7578,0.0,0.1,4.0,time_period_02,-71.209921,42.3837540000001,7578.0,Beaver St @ Waverley Oaks Rd
+554,7578,0.0,0.0,3.9,time_period_03,-71.209921,42.3837540000001,7578.0,Beaver St @ Waverley Oaks Rd
+554,7578,0.0,0.1,3.6,time_period_04,-71.209921,42.3837540000001,7578.0,Beaver St @ Waverley Oaks Rd
+554,7578,0.0,0.1,1.7,time_period_05,-71.209921,42.3837540000001,7578.0,Beaver St @ Waverley Oaks Rd
+554,7578,0.0,0.1,1.4,time_period_06,-71.209921,42.3837540000001,7578.0,Beaver St @ Waverley Oaks Rd
+554,7578,0.0,0.0,1.5,time_period_07,-71.209921,42.3837540000001,7578.0,Beaver St @ Waverley Oaks Rd
+554,78632,0.0,0.0,4.0,time_period_02,-71.2085069999999,42.383073,78632.0,opp 135 Beaver St
+554,78632,0.7,1.2,3.4,time_period_03,-71.2085069999999,42.383073,78632.0,opp 135 Beaver St
+554,78632,0.0,1.2,2.3,time_period_04,-71.2085069999999,42.383073,78632.0,opp 135 Beaver St
+554,78632,0.1,0.0,1.8,time_period_05,-71.2085069999999,42.383073,78632.0,opp 135 Beaver St
+554,78632,0.0,0.0,1.4,time_period_06,-71.2085069999999,42.383073,78632.0,opp 135 Beaver St
+554,78632,0.0,0.1,1.4,time_period_07,-71.2085069999999,42.383073,78632.0,opp 135 Beaver St
+554,7579,0.0,0.0,4.0,time_period_02,-71.2032849999999,42.3812590000001,7579.0,Beaver St @ Warren St
+554,7579,0.0,0.0,3.4,time_period_03,-71.2032849999999,42.3812590000001,7579.0,Beaver St @ Warren St
+554,7579,0.0,0.0,2.3,time_period_04,-71.2032849999999,42.3812590000001,7579.0,Beaver St @ Warren St
+554,7579,0.0,0.1,1.7,time_period_05,-71.2032849999999,42.3812590000001,7579.0,Beaver St @ Warren St
+554,7579,0.0,0.0,1.4,time_period_06,-71.2032849999999,42.3812590000001,7579.0,Beaver St @ Warren St
+554,7579,0.0,0.0,1.4,time_period_07,-71.2032849999999,42.3812590000001,7579.0,Beaver St @ Warren St
+554,75791,1.2,0.0,5.2,time_period_02,-71.2012369999999,42.3816600000001,75791.0,Warren St @ Webster Rd
+554,75791,0.0,0.0,3.4,time_period_03,-71.2012369999999,42.3816600000001,75791.0,Warren St @ Webster Rd
+554,75791,0.0,0.1,2.3,time_period_04,-71.2012369999999,42.3816600000001,75791.0,Warren St @ Webster Rd
+554,75791,0.0,0.0,1.7,time_period_05,-71.2012369999999,42.3816600000001,75791.0,Warren St @ Webster Rd
+554,75791,0.0,0.0,1.4,time_period_06,-71.2012369999999,42.3816600000001,75791.0,Warren St @ Webster Rd
+554,75791,0.0,0.0,1.4,time_period_07,-71.2012369999999,42.3816600000001,75791.0,Warren St @ Webster Rd
+554,7705,0.0,0.0,5.2,time_period_02,-71.1987349999999,42.382367,7705.0,Warren St @ Brookline St
+554,7705,0.0,0.3,3.2,time_period_03,-71.1987349999999,42.382367,7705.0,Warren St @ Brookline St
+554,7705,0.0,0.3,2.0,time_period_04,-71.1987349999999,42.382367,7705.0,Warren St @ Brookline St
+554,7705,0.0,0.0,1.7,time_period_05,-71.1987349999999,42.382367,7705.0,Warren St @ Brookline St
+554,7705,0.0,0.0,1.4,time_period_06,-71.1987349999999,42.382367,7705.0,Warren St @ Brookline St
+554,7705,0.0,0.0,1.4,time_period_07,-71.1987349999999,42.382367,7705.0,Warren St @ Brookline St
+554,77051,0.0,0.0,5.2,time_period_02,-71.193252,42.381063,77051.0,Belmont St @ Duff St
+554,77051,0.0,0.0,3.2,time_period_03,-71.193252,42.381063,77051.0,Belmont St @ Duff St
+554,77051,0.6,0.0,2.6,time_period_04,-71.193252,42.381063,77051.0,Belmont St @ Duff St
+554,77051,0.1,0.0,1.8,time_period_05,-71.193252,42.381063,77051.0,Belmont St @ Duff St
+554,77051,0.0,0.1,1.4,time_period_06,-71.193252,42.381063,77051.0,Belmont St @ Duff St
+554,77051,0.0,0.0,1.4,time_period_07,-71.193252,42.381063,77051.0,Belmont St @ Duff St
+554,17711,0.0,0.0,5.2,time_period_02,-71.189509,42.3806300000001,17711.0,Belmont St @ Lexington St
+554,17711,0.0,0.0,3.2,time_period_03,-71.189509,42.3806300000001,17711.0,Belmont St @ Lexington St
+554,17711,0.0,0.0,2.6,time_period_04,-71.189509,42.3806300000001,17711.0,Belmont St @ Lexington St
+554,17711,0.0,0.0,1.7,time_period_05,-71.189509,42.3806300000001,17711.0,Belmont St @ Lexington St
+554,17711,0.0,0.1,1.3,time_period_06,-71.189509,42.3806300000001,17711.0,Belmont St @ Lexington St
+554,17711,0.0,0.1,1.4,time_period_07,-71.189509,42.3806300000001,17711.0,Belmont St @ Lexington St
+554,77152,0.0,0.0,5.2,time_period_02,-71.1893439999999,42.383942,77152.0,Lexington St @ Beech St
+554,77152,0.0,0.0,3.2,time_period_03,-71.1893439999999,42.383942,77152.0,Lexington St @ Beech St
+554,77152,0.0,0.4,2.2,time_period_04,-71.1893439999999,42.383942,77152.0,Lexington St @ Beech St
+554,77152,0.0,0.1,1.7,time_period_05,-71.1893439999999,42.383942,77152.0,Lexington St @ Beech St
+554,77152,0.0,0.1,1.2,time_period_06,-71.1893439999999,42.383942,77152.0,Lexington St @ Beech St
+554,77152,0.0,0.0,1.3,time_period_07,-71.1893439999999,42.383942,77152.0,Lexington St @ Beech St
+554,77053,0.0,0.1,5.1,time_period_02,-71.190568,42.3858470000001,77053.0,Lexington St @ Sycamore St
+554,77053,0.0,0.0,3.2,time_period_03,-71.190568,42.3858470000001,77053.0,Lexington St @ Sycamore St
+554,77053,0.0,0.2,2.0,time_period_04,-71.190568,42.3858470000001,77053.0,Lexington St @ Sycamore St
+554,77053,0.0,0.0,1.7,time_period_05,-71.190568,42.3858470000001,77053.0,Lexington St @ Sycamore St
+554,77053,0.0,0.0,1.2,time_period_06,-71.190568,42.3858470000001,77053.0,Lexington St @ Sycamore St
+554,77053,0.0,0.1,1.3,time_period_07,-71.190568,42.3858470000001,77053.0,Lexington St @ Sycamore St
+554,2099,0.0,4.9,0.2,time_period_02,-71.1899759999999,42.3875,2099.0,Trapelo Rd @ Church St
+554,2099,0.0,3.1,0.0,time_period_03,-71.1899759999999,42.3875,2099.0,Trapelo Rd @ Church St
+554,2099,0.0,1.9,0.1,time_period_04,-71.1899759999999,42.3875,2099.0,Trapelo Rd @ Church St
+554,2099,0.0,1.6,0.1,time_period_05,-71.1899759999999,42.3875,2099.0,Trapelo Rd @ Church St
+554,2099,0.0,1.2,0.0,time_period_06,-71.1899759999999,42.3875,2099.0,Trapelo Rd @ Church St
+554,2099,0.0,1.2,0.1,time_period_07,-71.1899759999999,42.3875,2099.0,Trapelo Rd @ Church St

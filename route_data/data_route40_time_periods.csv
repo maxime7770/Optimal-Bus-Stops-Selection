@@ -1,0 +1,360 @@
+route_id,stop_id,average_ons,average_offs,average_load,time_period_id,X,Y,Stop_ID,Stop_Name
+40,10642,0.25,0.0,0.25,time_period_01,-71.1146607,42.3006397,10642.0,Forest Hills Station
+40,10642,1.26666666666667,0.1,1.26666666666667,time_period_02,-71.1146607,42.3006397,10642.0,Forest Hills Station
+40,10642,6.26666666666667,0.0,6.26666666666667,time_period_03,-71.1146607,42.3006397,10642.0,Forest Hills Station
+40,10642,7.9,0.0,7.9,time_period_04,-71.1146607,42.3006397,10642.0,Forest Hills Station
+40,10642,6.625,0.0,6.625,time_period_04,-71.1146607,42.3006397,10642.0,Forest Hills Station
+40,10642,22.0,0.0,22.0,time_period_05,-71.1146607,42.3006397,10642.0,Forest Hills Station
+40,10642,23.5,0.0,23.5,time_period_06,-71.1146607,42.3006397,10642.0,Forest Hills Station
+40,10642,15.8,0.0,15.8,time_period_07,-71.1146607,42.3006397,10642.0,Forest Hills Station
+40,10642,12.05,0.0,12.05,time_period_07,-71.1146607,42.3006397,10642.0,Forest Hills Station
+40,10642,4.55833333333333,0.0,4.55833333333333,time_period_10,-71.1146607,42.3006397,10642.0,Forest Hills Station
+40,10642,12.65,0.0,12.65,time_period_10,-71.1146607,42.3006397,10642.0,Forest Hills Station
+40,10642,5.475,0.0,5.475,time_period_11,-71.1146607,42.3006397,10642.0,Forest Hills Station
+40,596,0.0,0.0,0.25,time_period_01,-71.117515,42.296502,596.0,3867 Washington St opp Tollgate Way
+40,596,0.0,0.0,1.26666666666667,time_period_02,-71.117515,42.296502,596.0,3867 Washington St opp Tollgate Way
+40,596,0.0333333333333333,0.0333333333333333,6.3,time_period_03,-71.117515,42.296502,596.0,3867 Washington St opp Tollgate Way
+40,596,0.0,0.0,7.9,time_period_04,-71.117515,42.296502,596.0,3867 Washington St opp Tollgate Way
+40,596,0.025,0.0,6.625,time_period_04,-71.117515,42.296502,596.0,3867 Washington St opp Tollgate Way
+40,596,0.08,0.06,22.02,time_period_05,-71.117515,42.296502,596.0,3867 Washington St opp Tollgate Way
+40,596,0.15,0.025,23.575,time_period_06,-71.117515,42.296502,596.0,3867 Washington St opp Tollgate Way
+40,596,0.0,0.0,15.8,time_period_07,-71.117515,42.296502,596.0,3867 Washington St opp Tollgate Way
+40,596,0.0,0.0,12.05,time_period_07,-71.117515,42.296502,596.0,3867 Washington St opp Tollgate Way
+40,596,0.0083333333333333,0.0,4.56666666666667,time_period_10,-71.117515,42.296502,596.0,3867 Washington St opp Tollgate Way
+40,596,0.075,0.0,12.725,time_period_10,-71.117515,42.296502,596.0,3867 Washington St opp Tollgate Way
+40,596,0.025,0.0,5.5125,time_period_11,-71.117515,42.296502,596.0,3867 Washington St opp Tollgate Way
+40,597,0.0,0.0,0.25,time_period_01,-71.11976,42.2943770000001,597.0,Washington St @ Lochdale Rd
+40,597,0.0,0.0,1.26666666666667,time_period_02,-71.11976,42.2943770000001,597.0,Washington St @ Lochdale Rd
+40,597,0.3,0.0,6.56666666666667,time_period_03,-71.11976,42.2943770000001,597.0,Washington St @ Lochdale Rd
+40,597,0.0,0.1,7.9,time_period_04,-71.11976,42.2943770000001,597.0,Washington St @ Lochdale Rd
+40,597,0.325,0.075,6.85,time_period_04,-71.11976,42.2943770000001,597.0,Washington St @ Lochdale Rd
+40,597,0.24,0.22,22.04,time_period_05,-71.11976,42.2943770000001,597.0,Washington St @ Lochdale Rd
+40,597,0.15,0.1,23.6,time_period_06,-71.11976,42.2943770000001,597.0,Washington St @ Lochdale Rd
+40,597,0.0,0.1,15.7,time_period_07,-71.11976,42.2943770000001,597.0,Washington St @ Lochdale Rd
+40,597,0.0,0.1,11.95,time_period_07,-71.11976,42.2943770000001,597.0,Washington St @ Lochdale Rd
+40,597,0.15,0.0916666666666667,4.63333333333333,time_period_10,-71.11976,42.2943770000001,597.0,Washington St @ Lochdale Rd
+40,597,0.175,0.225,12.65,time_period_10,-71.11976,42.2943770000001,597.0,Washington St @ Lochdale Rd
+40,597,0.0625,0.0125,5.55,time_period_11,-71.11976,42.2943770000001,597.0,Washington St @ Lochdale Rd
+40,598,0.0,0.0,0.25,time_period_01,-71.121366,42.292857,598.0,Washington St @ Archdale Rd
+40,598,0.0333333333333333,0.0,1.3,time_period_02,-71.121366,42.292857,598.0,Washington St @ Archdale Rd
+40,598,0.433333333333333,0.0333333333333333,7.0,time_period_03,-71.121366,42.292857,598.0,Washington St @ Archdale Rd
+40,598,0.1,0.1,7.9,time_period_04,-71.121366,42.292857,598.0,Washington St @ Archdale Rd
+40,598,0.55,0.15,7.275,time_period_04,-71.121366,42.292857,598.0,Washington St @ Archdale Rd
+40,598,0.38,0.2,22.2,time_period_05,-71.121366,42.292857,598.0,Washington St @ Archdale Rd
+40,598,0.275,0.2,23.65,time_period_06,-71.121366,42.292857,598.0,Washington St @ Archdale Rd
+40,598,0.4,0.2,16.0,time_period_07,-71.121366,42.292857,598.0,Washington St @ Archdale Rd
+40,598,0.1,0.15,11.95,time_period_07,-71.121366,42.292857,598.0,Washington St @ Archdale Rd
+40,598,0.216666666666667,0.0833333333333333,4.75833333333333,time_period_10,-71.121366,42.292857,598.0,Washington St @ Archdale Rd
+40,598,0.35,0.325,12.675,time_period_10,-71.121366,42.292857,598.0,Washington St @ Archdale Rd
+40,598,0.2375,0.05,5.725,time_period_11,-71.121366,42.292857,598.0,Washington St @ Archdale Rd
+40,599,0.0,0.0,0.25,time_period_01,-71.122671,42.2916200000001,599.0,Washington St @ Mosgrove Ave
+40,599,0.0,0.0,1.3,time_period_02,-71.122671,42.2916200000001,599.0,Washington St @ Mosgrove Ave
+40,599,0.0333333333333333,0.0,7.0,time_period_03,-71.122671,42.2916200000001,599.0,Washington St @ Mosgrove Ave
+40,599,0.0,0.0,7.9,time_period_04,-71.122671,42.2916200000001,599.0,Washington St @ Mosgrove Ave
+40,599,0.025,0.05,7.25,time_period_04,-71.122671,42.2916200000001,599.0,Washington St @ Mosgrove Ave
+40,599,0.14,0.06,22.28,time_period_05,-71.122671,42.2916200000001,599.0,Washington St @ Mosgrove Ave
+40,599,0.025,0.1,23.625,time_period_06,-71.122671,42.2916200000001,599.0,Washington St @ Mosgrove Ave
+40,599,0.2,0.0,16.1,time_period_07,-71.122671,42.2916200000001,599.0,Washington St @ Mosgrove Ave
+40,599,0.0,0.0,11.95,time_period_07,-71.122671,42.2916200000001,599.0,Washington St @ Mosgrove Ave
+40,599,0.0333333333333333,0.0083333333333333,4.775,time_period_10,-71.122671,42.2916200000001,599.0,Washington St @ Mosgrove Ave
+40,599,0.15,0.05,12.775,time_period_10,-71.122671,42.2916200000001,599.0,Washington St @ Mosgrove Ave
+40,599,0.075,0.0375,5.775,time_period_11,-71.122671,42.2916200000001,599.0,Washington St @ Mosgrove Ave
+40,600,0.0,0.0,0.25,time_period_01,-71.124116,42.290289,600.0,Washington St opp Granfield Ave
+40,600,0.0,0.0,1.3,time_period_02,-71.124116,42.290289,600.0,Washington St opp Granfield Ave
+40,600,0.0333333333333333,0.0,7.0,time_period_03,-71.124116,42.290289,600.0,Washington St opp Granfield Ave
+40,600,0.0,0.0,7.9,time_period_04,-71.124116,42.290289,600.0,Washington St opp Granfield Ave
+40,600,0.075,0.075,7.25,time_period_04,-71.124116,42.290289,600.0,Washington St opp Granfield Ave
+40,600,0.02,0.1,22.18,time_period_05,-71.124116,42.290289,600.0,Washington St opp Granfield Ave
+40,600,0.1,0.175,23.575,time_period_06,-71.124116,42.290289,600.0,Washington St opp Granfield Ave
+40,600,0.0,0.1,16.0,time_period_07,-71.124116,42.290289,600.0,Washington St opp Granfield Ave
+40,600,0.0,0.05,11.85,time_period_07,-71.124116,42.290289,600.0,Washington St opp Granfield Ave
+40,600,0.05,0.0833333333333333,4.75833333333333,time_period_10,-71.124116,42.290289,600.0,Washington St opp Granfield Ave
+40,600,0.025,0.325,12.45,time_period_10,-71.124116,42.290289,600.0,Washington St opp Granfield Ave
+40,600,0.0875,0.05,5.8,time_period_11,-71.124116,42.290289,600.0,Washington St opp Granfield Ave
+40,601,0.0,0.05,0.2,time_period_01,-71.125793,42.288708,601.0,Washington St @ South St
+40,601,0.0333333333333333,0.1,1.2,time_period_02,-71.125793,42.288708,601.0,Washington St @ South St
+40,601,0.5,0.133333333333333,7.36666666666667,time_period_03,-71.125793,42.288708,601.0,Washington St @ South St
+40,601,0.1,0.2,7.9,time_period_04,-71.125793,42.288708,601.0,Washington St @ South St
+40,601,0.25,0.4,7.1,time_period_04,-71.125793,42.288708,601.0,Washington St @ South St
+40,601,0.56,0.4,22.36,time_period_05,-71.125793,42.288708,601.0,Washington St @ South St
+40,601,0.65,0.35,23.9,time_period_06,-71.125793,42.288708,601.0,Washington St @ South St
+40,601,0.6,0.3,16.3,time_period_07,-71.125793,42.288708,601.0,Washington St @ South St
+40,601,0.3,0.2,11.95,time_period_07,-71.125793,42.288708,601.0,Washington St @ South St
+40,601,0.341666666666667,0.133333333333333,4.975,time_period_10,-71.125793,42.288708,601.0,Washington St @ South St
+40,601,0.525,0.4,12.55,time_period_10,-71.125793,42.288708,601.0,Washington St @ South St
+40,601,0.25,0.2125,5.8625,time_period_11,-71.125793,42.288708,601.0,Washington St @ South St
+40,6022,0.05,0.05,0.2,time_period_01,-71.1289439999999,42.2857660000001,6022.0,Poplar St @ South St
+40,6022,0.7,0.166666666666667,1.73333333333333,time_period_02,-71.1289439999999,42.2857660000001,6022.0,Poplar St @ South St
+40,6022,1.8,0.366666666666667,8.76666666666667,time_period_03,-71.1289439999999,42.2857660000001,6022.0,Poplar St @ South St
+40,6022,2.8,0.4,10.3,time_period_04,-71.1289439999999,42.2857660000001,6022.0,Poplar St @ South St
+40,6022,2.175,1.575,7.7,time_period_04,-71.1289439999999,42.2857660000001,6022.0,Poplar St @ South St
+40,6022,4.24,1.04,25.54,time_period_05,-71.1289439999999,42.2857660000001,6022.0,Poplar St @ South St
+40,6022,4.175,0.8,27.3,time_period_06,-71.1289439999999,42.2857660000001,6022.0,Poplar St @ South St
+40,6022,2.5,0.3,18.4,time_period_07,-71.1289439999999,42.2857660000001,6022.0,Poplar St @ South St
+40,6022,2.65,0.4,14.2,time_period_07,-71.1289439999999,42.2857660000001,6022.0,Poplar St @ South St
+40,6022,1.74166666666667,1.075,5.63333333333333,time_period_10,-71.1289439999999,42.2857660000001,6022.0,Poplar St @ South St
+40,6022,3.925,0.7,15.45,time_period_10,-71.1289439999999,42.2857660000001,6022.0,Poplar St @ South St
+40,6022,2.675,0.25,8.2875,time_period_11,-71.1289439999999,42.2857660000001,6022.0,Poplar St @ South St
+40,603,0.0,0.05,0.2,time_period_01,-71.131363,42.283507,603.0,Washington St @ Albano St
+40,603,0.0666666666666667,0.0333333333333333,1.76666666666667,time_period_02,-71.131363,42.283507,603.0,Washington St @ Albano St
+40,603,0.3,0.133333333333333,8.93333333333333,time_period_03,-71.131363,42.283507,603.0,Washington St @ Albano St
+40,603,0.1,0.2,10.2,time_period_04,-71.131363,42.283507,603.0,Washington St @ Albano St
+40,603,0.075,0.175,7.575,time_period_04,-71.131363,42.283507,603.0,Washington St @ Albano St
+40,603,0.18,0.44,25.26,time_period_05,-71.131363,42.283507,603.0,Washington St @ Albano St
+40,603,0.225,0.5,27.025,time_period_06,-71.131363,42.283507,603.0,Washington St @ Albano St
+40,603,0.0,0.3,18.2,time_period_07,-71.131363,42.283507,603.0,Washington St @ Albano St
+40,603,0.1,0.15,14.15,time_period_07,-71.131363,42.283507,603.0,Washington St @ Albano St
+40,603,0.0083333333333333,0.133333333333333,5.50833333333333,time_period_10,-71.131363,42.283507,603.0,Washington St @ Albano St
+40,603,0.1,0.35,15.225,time_period_10,-71.131363,42.283507,603.0,Washington St @ Albano St
+40,603,0.0375,0.225,8.1375,time_period_11,-71.131363,42.283507,603.0,Washington St @ Albano St
+40,10603,0.0,0.0,0.2,time_period_01,-71.132671,42.282287,10603.0,Washington St @ Durnell Ave
+40,10603,0.0,0.0,1.76666666666667,time_period_02,-71.132671,42.282287,10603.0,Washington St @ Durnell Ave
+40,10603,0.0666666666666667,0.0,9.03333333333333,time_period_03,-71.132671,42.282287,10603.0,Washington St @ Durnell Ave
+40,10603,0.0,0.1,10.1,time_period_04,-71.132671,42.282287,10603.0,Washington St @ Durnell Ave
+40,10603,0.025,0.1,7.525,time_period_04,-71.132671,42.282287,10603.0,Washington St @ Durnell Ave
+40,10603,0.16,0.22,25.2,time_period_05,-71.132671,42.282287,10603.0,Washington St @ Durnell Ave
+40,10603,0.05,0.25,26.825,time_period_06,-71.132671,42.282287,10603.0,Washington St @ Durnell Ave
+40,10603,0.0,0.1,18.1,time_period_07,-71.132671,42.282287,10603.0,Washington St @ Durnell Ave
+40,10603,0.0,0.15,14.0,time_period_07,-71.132671,42.282287,10603.0,Washington St @ Durnell Ave
+40,10603,0.0166666666666667,0.0833333333333333,5.45,time_period_10,-71.132671,42.282287,10603.0,Washington St @ Durnell Ave
+40,10603,0.0,0.05,15.175,time_period_10,-71.132671,42.282287,10603.0,Washington St @ Durnell Ave
+40,10603,0.025,0.175,7.975,time_period_11,-71.132671,42.282287,10603.0,Washington St @ Durnell Ave
+40,604,0.0,0.0,0.2,time_period_01,-71.1335139999999,42.2814940000001,604.0,Washington St @ Metropolitan Ave
+40,604,0.0333333333333333,0.0333333333333333,1.76666666666667,time_period_02,-71.1335139999999,42.2814940000001,604.0,Washington St @ Metropolitan Ave
+40,604,0.0666666666666667,0.0666666666666667,9.03333333333333,time_period_03,-71.1335139999999,42.2814940000001,604.0,Washington St @ Metropolitan Ave
+40,604,0.0,0.2,9.9,time_period_04,-71.1335139999999,42.2814940000001,604.0,Washington St @ Metropolitan Ave
+40,604,0.05,0.3,7.3,time_period_04,-71.1335139999999,42.2814940000001,604.0,Washington St @ Metropolitan Ave
+40,604,0.34,0.34,25.2,time_period_05,-71.1335139999999,42.2814940000001,604.0,Washington St @ Metropolitan Ave
+40,604,0.275,0.6,26.5,time_period_06,-71.1335139999999,42.2814940000001,604.0,Washington St @ Metropolitan Ave
+40,604,0.2,0.5,17.7,time_period_07,-71.1335139999999,42.2814940000001,604.0,Washington St @ Metropolitan Ave
+40,604,0.0,0.2,13.8,time_period_07,-71.1335139999999,42.2814940000001,604.0,Washington St @ Metropolitan Ave
+40,604,0.05,0.166666666666667,5.34166666666667,time_period_10,-71.1335139999999,42.2814940000001,604.0,Washington St @ Metropolitan Ave
+40,604,0.625,0.375,15.4,time_period_10,-71.1335139999999,42.2814940000001,604.0,Washington St @ Metropolitan Ave
+40,604,0.15,0.375,7.7625,time_period_11,-71.1335139999999,42.2814940000001,604.0,Washington St @ Metropolitan Ave
+40,605,0.0,0.0,0.2,time_period_01,-71.1355129999999,42.279637,605.0,Washington St @ Cornell St
+40,605,0.0,0.0666666666666667,1.73333333333333,time_period_02,-71.1355129999999,42.279637,605.0,Washington St @ Cornell St
+40,605,0.0,0.1,8.9,time_period_03,-71.1355129999999,42.279637,605.0,Washington St @ Cornell St
+40,605,0.0,0.2,9.8,time_period_04,-71.1355129999999,42.279637,605.0,Washington St @ Cornell St
+40,605,0.05,0.175,7.15,time_period_04,-71.1355129999999,42.279637,605.0,Washington St @ Cornell St
+40,605,0.18,0.94,24.42,time_period_05,-71.1355129999999,42.279637,605.0,Washington St @ Cornell St
+40,605,0.125,1.05,25.6,time_period_06,-71.1355129999999,42.279637,605.0,Washington St @ Cornell St
+40,605,0.1,1.0,16.8,time_period_07,-71.1355129999999,42.279637,605.0,Washington St @ Cornell St
+40,605,0.05,0.3,13.6,time_period_07,-71.1355129999999,42.279637,605.0,Washington St @ Cornell St
+40,605,0.141666666666667,0.325,5.16666666666667,time_period_10,-71.1355129999999,42.279637,605.0,Washington St @ Cornell St
+40,605,0.1,0.425,15.05,time_period_10,-71.1355129999999,42.279637,605.0,Washington St @ Cornell St
+40,605,0.0625,0.4875,7.325,time_period_11,-71.1355129999999,42.279637,605.0,Washington St @ Cornell St
+40,606,0.0,0.05,0.15,time_period_01,-71.136949,42.278442,606.0,Washington St @ Walworth St
+40,606,0.0,0.133333333333333,1.6,time_period_02,-71.136949,42.278442,606.0,Washington St @ Walworth St
+40,606,0.133333333333333,0.366666666666667,8.66666666666667,time_period_03,-71.136949,42.278442,606.0,Washington St @ Walworth St
+40,606,0.0,0.4,9.4,time_period_04,-71.136949,42.278442,606.0,Washington St @ Walworth St
+40,606,0.025,0.575,6.625,time_period_04,-71.136949,42.278442,606.0,Washington St @ Walworth St
+40,606,0.2,1.34,23.28,time_period_05,-71.136949,42.278442,606.0,Washington St @ Walworth St
+40,606,0.15,1.025,24.7,time_period_06,-71.136949,42.278442,606.0,Washington St @ Walworth St
+40,606,0.1,0.8,16.1,time_period_07,-71.136949,42.278442,606.0,Washington St @ Walworth St
+40,606,0.2,0.85,12.9,time_period_07,-71.136949,42.278442,606.0,Washington St @ Walworth St
+40,606,0.0416666666666667,0.358333333333333,4.85833333333333,time_period_10,-71.136949,42.278442,606.0,Washington St @ Walworth St
+40,606,0.075,1.1,14.05,time_period_10,-71.136949,42.278442,606.0,Washington St @ Walworth St
+40,606,0.0375,0.75,6.625,time_period_11,-71.136949,42.278442,606.0,Washington St @ Walworth St
+40,607,0.0,0.0,0.15,time_period_01,-71.138618,42.276985,607.0,Washington St @ Liszt St
+40,607,0.0,0.133333333333333,1.46666666666667,time_period_02,-71.138618,42.276985,607.0,Washington St @ Liszt St
+40,607,1.16666666666667,0.3,9.6,time_period_03,-71.138618,42.276985,607.0,Washington St @ Liszt St
+40,607,0.3,0.7,9.1,time_period_04,-71.138618,42.276985,607.0,Washington St @ Liszt St
+40,607,0.1,0.825,5.9,time_period_04,-71.138618,42.276985,607.0,Washington St @ Liszt St
+40,607,0.24,2.84,20.7,time_period_05,-71.138618,42.276985,607.0,Washington St @ Liszt St
+40,607,0.375,1.975,23.125,time_period_06,-71.138618,42.276985,607.0,Washington St @ Liszt St
+40,607,0.2,2.0,14.2,time_period_07,-71.138618,42.276985,607.0,Washington St @ Liszt St
+40,607,0.2,0.75,12.4,time_period_07,-71.138618,42.276985,607.0,Washington St @ Liszt St
+40,607,0.133333333333333,0.5,4.48333333333333,time_period_10,-71.138618,42.276985,607.0,Washington St @ Liszt St
+40,607,0.425,1.45,13.0,time_period_10,-71.138618,42.276985,607.0,Washington St @ Liszt St
+40,607,0.125,0.5875,6.1625,time_period_11,-71.138618,42.276985,607.0,Washington St @ Liszt St
+40,608,0.05,0.05,0.15,time_period_01,-71.140573,42.275418,608.0,Washington St @ W Roxbury Pkwy
+40,608,0.0,0.0,1.43333333333333,time_period_02,-71.140573,42.275418,608.0,Washington St @ W Roxbury Pkwy
+40,608,0.433333333333333,0.333333333333333,9.73333333333333,time_period_03,-71.140573,42.275418,608.0,Washington St @ W Roxbury Pkwy
+40,608,0.2,0.1,9.2,time_period_04,-71.140573,42.275418,608.0,Washington St @ W Roxbury Pkwy
+40,608,0.1,0.175,5.85,time_period_04,-71.140573,42.275418,608.0,Washington St @ W Roxbury Pkwy
+40,608,0.36,0.44,20.62,time_period_05,-71.140573,42.275418,608.0,Washington St @ W Roxbury Pkwy
+40,608,0.275,0.55,22.85,time_period_06,-71.140573,42.275418,608.0,Washington St @ W Roxbury Pkwy
+40,608,0.1,0.3,14.0,time_period_07,-71.140573,42.275418,608.0,Washington St @ W Roxbury Pkwy
+40,608,0.15,0.35,12.25,time_period_07,-71.140573,42.275418,608.0,Washington St @ W Roxbury Pkwy
+40,608,0.0833333333333333,0.266666666666667,4.325,time_period_10,-71.140573,42.275418,608.0,Washington St @ W Roxbury Pkwy
+40,608,0.15,0.15,13.0,time_period_10,-71.140573,42.275418,608.0,Washington St @ W Roxbury Pkwy
+40,608,0.1,0.25,5.975,time_period_11,-71.140573,42.275418,608.0,Washington St @ W Roxbury Pkwy
+40,609,0.0,0.0,0.15,time_period_01,-71.143932,42.2728720000001,609.0,Washington St @ Lagrange St
+40,609,0.0,0.0,1.36666666666667,time_period_02,-71.143932,42.2728720000001,609.0,Washington St @ Lagrange St
+40,609,0.0,0.0333333333333333,9.7,time_period_03,-71.143932,42.2728720000001,609.0,Washington St @ Lagrange St
+40,609,0.0,0.1,9.1,time_period_04,-71.143932,42.2728720000001,609.0,Washington St @ Lagrange St
+40,609,0.0,0.05,5.8,time_period_04,-71.143932,42.2728720000001,609.0,Washington St @ Lagrange St
+40,609,0.0,0.12,20.42,time_period_05,-71.143932,42.2728720000001,609.0,Washington St @ Lagrange St
+40,609,0.0,0.175,22.65,time_period_06,-71.143932,42.2728720000001,609.0,Washington St @ Lagrange St
+40,609,0.0,0.2,13.8,time_period_07,-71.143932,42.2728720000001,609.0,Washington St @ Lagrange St
+40,609,0.0,0.1,12.1,time_period_07,-71.143932,42.2728720000001,609.0,Washington St @ Lagrange St
+40,609,0.025,0.025,4.31666666666667,time_period_10,-71.143932,42.2728720000001,609.0,Washington St @ Lagrange St
+40,609,0.05,0.15,12.925,time_period_10,-71.143932,42.2728720000001,609.0,Washington St @ Lagrange St
+40,609,0.0,0.0375,5.925,time_period_11,-71.143932,42.2728720000001,609.0,Washington St @ Lagrange St
+40,610,0.0,0.0,0.15,time_period_01,-71.145305,42.2718,610.0,Washington St @ Cowing St
+40,610,0.0,0.0,1.36666666666667,time_period_02,-71.145305,42.2718,610.0,Washington St @ Cowing St
+40,610,0.0,0.0,9.7,time_period_03,-71.145305,42.2718,610.0,Washington St @ Cowing St
+40,610,0.0,0.0,9.0,time_period_04,-71.145305,42.2718,610.0,Washington St @ Cowing St
+40,610,0.0,0.025,5.75,time_period_04,-71.145305,42.2718,610.0,Washington St @ Cowing St
+40,610,0.02,0.48,20.02,time_period_05,-71.145305,42.2718,610.0,Washington St @ Cowing St
+40,610,0.025,0.25,22.5,time_period_06,-71.145305,42.2718,610.0,Washington St @ Cowing St
+40,610,0.0,0.1,13.7,time_period_07,-71.145305,42.2718,610.0,Washington St @ Cowing St
+40,610,0.0,0.05,12.1,time_period_07,-71.145305,42.2718,610.0,Washington St @ Cowing St
+40,610,0.0083333333333333,0.0166666666666667,4.30833333333333,time_period_10,-71.145305,42.2718,610.0,Washington St @ Cowing St
+40,610,0.025,0.175,12.8,time_period_10,-71.145305,42.2718,610.0,Washington St @ Cowing St
+40,610,0.0,0.0125,5.9125,time_period_11,-71.145305,42.2718,610.0,Washington St @ Cowing St
+40,611,0.0,0.0,0.15,time_period_01,-71.1473579999999,42.2701440000001,611.0,Washington St @ Maplewood St
+40,611,0.0,0.0,1.36666666666667,time_period_02,-71.1473579999999,42.2701440000001,611.0,Washington St @ Maplewood St
+40,611,0.0,0.0666666666666667,9.63333333333333,time_period_03,-71.1473579999999,42.2701440000001,611.0,Washington St @ Maplewood St
+40,611,0.0,0.2,8.8,time_period_04,-71.1473579999999,42.2701440000001,611.0,Washington St @ Maplewood St
+40,611,0.0,0.15,5.65,time_period_04,-71.1473579999999,42.2701440000001,611.0,Washington St @ Maplewood St
+40,611,0.02,0.3,19.72,time_period_05,-71.1473579999999,42.2701440000001,611.0,Washington St @ Maplewood St
+40,611,0.05,0.25,22.35,time_period_06,-71.1473579999999,42.2701440000001,611.0,Washington St @ Maplewood St
+40,611,0.1,0.6,13.2,time_period_07,-71.1473579999999,42.2701440000001,611.0,Washington St @ Maplewood St
+40,611,0.0,0.05,12.0,time_period_07,-71.1473579999999,42.2701440000001,611.0,Washington St @ Maplewood St
+40,611,0.0083333333333333,0.2,4.125,time_period_10,-71.1473579999999,42.2701440000001,611.0,Washington St @ Maplewood St
+40,611,0.0,0.175,12.625,time_period_10,-71.1473579999999,42.2701440000001,611.0,Washington St @ Maplewood St
+40,611,0.05,0.0875,5.9,time_period_11,-71.1473579999999,42.2701440000001,611.0,Washington St @ Maplewood St
+40,612,0.05,0.0,0.15,time_period_01,-71.1490019999999,42.2687690000001,612.0,Washington St @ Heron St
+40,612,0.0,0.0,1.36666666666667,time_period_02,-71.1490019999999,42.2687690000001,612.0,Washington St @ Heron St
+40,612,0.0,0.0333333333333333,9.56666666666667,time_period_03,-71.1490019999999,42.2687690000001,612.0,Washington St @ Heron St
+40,612,0.0,0.0,8.8,time_period_04,-71.1490019999999,42.2687690000001,612.0,Washington St @ Heron St
+40,612,0.0,0.15,5.475,time_period_04,-71.1490019999999,42.2687690000001,612.0,Washington St @ Heron St
+40,612,0.06,0.26,19.52,time_period_05,-71.1490019999999,42.2687690000001,612.0,Washington St @ Heron St
+40,612,0.025,0.325,22.05,time_period_06,-71.1490019999999,42.2687690000001,612.0,Washington St @ Heron St
+40,612,0.0,0.7,12.5,time_period_07,-71.1490019999999,42.2687690000001,612.0,Washington St @ Heron St
+40,612,0.0,0.15,11.9,time_period_07,-71.1490019999999,42.2687690000001,612.0,Washington St @ Heron St
+40,612,0.0,0.175,3.95,time_period_10,-71.1490019999999,42.2687690000001,612.0,Washington St @ Heron St
+40,612,0.1,0.25,12.475,time_period_10,-71.1490019999999,42.2687690000001,612.0,Washington St @ Heron St
+40,612,0.0375,0.125,5.8125,time_period_11,-71.1490019999999,42.2687690000001,612.0,Washington St @ Heron St
+40,11613,0.0,0.05,0.1,time_period_01,-71.1499889999999,42.267432,11613.0,W Boundary Rd @ Washington St
+40,11613,0.0,0.0,1.36666666666667,time_period_02,-71.1499889999999,42.267432,11613.0,W Boundary Rd @ Washington St
+40,11613,0.0666666666666667,0.1,9.56666666666667,time_period_03,-71.1499889999999,42.267432,11613.0,W Boundary Rd @ Washington St
+40,11613,0.2,0.2,8.8,time_period_04,-71.1499889999999,42.267432,11613.0,W Boundary Rd @ Washington St
+40,11613,0.075,0.15,5.4,time_period_04,-71.1499889999999,42.267432,11613.0,W Boundary Rd @ Washington St
+40,11613,0.4,0.68,19.24,time_period_05,-71.1499889999999,42.267432,11613.0,W Boundary Rd @ Washington St
+40,11613,0.475,0.25,22.275,time_period_06,-71.1499889999999,42.267432,11613.0,W Boundary Rd @ Washington St
+40,11613,0.2,0.2,12.4,time_period_07,-71.1499889999999,42.267432,11613.0,W Boundary Rd @ Washington St
+40,11613,0.4,0.25,12.0,time_period_07,-71.1499889999999,42.267432,11613.0,W Boundary Rd @ Washington St
+40,11613,0.108333333333333,0.15,3.91666666666667,time_period_10,-71.1499889999999,42.267432,11613.0,W Boundary Rd @ Washington St
+40,11613,0.575,0.35,12.725,time_period_10,-71.1499889999999,42.267432,11613.0,W Boundary Rd @ Washington St
+40,11613,0.2,0.225,5.775,time_period_11,-71.1499889999999,42.267432,11613.0,W Boundary Rd @ Washington St
+40,1612,0.0,0.0,0.1,time_period_01,-71.146603,42.262345,1612.0,W Boundary Rd @ Cedarcrest Rd
+40,1612,0.0,0.0,1.36666666666667,time_period_02,-71.146603,42.262345,1612.0,W Boundary Rd @ Cedarcrest Rd
+40,1612,0.0,0.0666666666666667,9.5,time_period_03,-71.146603,42.262345,1612.0,W Boundary Rd @ Cedarcrest Rd
+40,1612,0.0,0.1,8.7,time_period_04,-71.146603,42.262345,1612.0,W Boundary Rd @ Cedarcrest Rd
+40,1612,0.0,0.025,5.375,time_period_04,-71.146603,42.262345,1612.0,W Boundary Rd @ Cedarcrest Rd
+40,1612,0.18,0.14,19.26,time_period_05,-71.146603,42.262345,1612.0,W Boundary Rd @ Cedarcrest Rd
+40,1612,0.0,0.2,22.075,time_period_06,-71.146603,42.262345,1612.0,W Boundary Rd @ Cedarcrest Rd
+40,1612,0.0,0.1,12.3,time_period_07,-71.146603,42.262345,1612.0,W Boundary Rd @ Cedarcrest Rd
+40,1612,0.0,0.0,12.0,time_period_07,-71.146603,42.262345,1612.0,W Boundary Rd @ Cedarcrest Rd
+40,1612,0.0,0.0333333333333333,3.89166666666667,time_period_10,-71.146603,42.262345,1612.0,W Boundary Rd @ Cedarcrest Rd
+40,1612,0.0,0.1,12.625,time_period_10,-71.146603,42.262345,1612.0,W Boundary Rd @ Cedarcrest Rd
+40,1612,0.0125,0.0125,5.775,time_period_11,-71.146603,42.262345,1612.0,W Boundary Rd @ Cedarcrest Rd
+40,1613,0.0,0.0,0.1,time_period_01,-71.147072,42.2610490000001,1613.0,W Boundary Rd @ Ohrenberger School
+40,1613,0.0,0.0333333333333333,1.33333333333333,time_period_02,-71.147072,42.2610490000001,1613.0,W Boundary Rd @ Ohrenberger School
+40,1613,0.0333333333333333,6.4,3.13333333333333,time_period_03,-71.147072,42.2610490000001,1613.0,W Boundary Rd @ Ohrenberger School
+40,1613,0.0,0.0,8.6,time_period_04,-71.147072,42.2610490000001,1613.0,W Boundary Rd @ Ohrenberger School
+40,1613,0.0,0.675,4.725,time_period_04,-71.147072,42.2610490000001,1613.0,W Boundary Rd @ Ohrenberger School
+40,1613,0.52,1.08,18.68,time_period_05,-71.147072,42.2610490000001,1613.0,W Boundary Rd @ Ohrenberger School
+40,1613,0.075,1.025,21.125,time_period_06,-71.147072,42.2610490000001,1613.0,W Boundary Rd @ Ohrenberger School
+40,1613,0.0,0.7,11.6,time_period_07,-71.147072,42.2610490000001,1613.0,W Boundary Rd @ Ohrenberger School
+40,1613,0.0,0.1,11.9,time_period_07,-71.147072,42.2610490000001,1613.0,W Boundary Rd @ Ohrenberger School
+40,1613,0.0166666666666667,0.225,3.68333333333333,time_period_10,-71.147072,42.2610490000001,1613.0,W Boundary Rd @ Ohrenberger School
+40,1613,0.025,0.25,12.45,time_period_10,-71.147072,42.2610490000001,1613.0,W Boundary Rd @ Ohrenberger School
+40,1613,0.025,0.1125,5.6875,time_period_11,-71.147072,42.2610490000001,1613.0,W Boundary Rd @ Ohrenberger School
+40,1614,0.0,0.0,0.1,time_period_01,-71.145549,42.2593150000001,1614.0,W Boundary Rd @ Georgetowne Dr
+40,1614,0.1,0.1,1.3,time_period_02,-71.145549,42.2593150000001,1614.0,W Boundary Rd @ Georgetowne Dr
+40,1614,0.0333333333333333,0.533333333333333,2.66666666666667,time_period_03,-71.145549,42.2593150000001,1614.0,W Boundary Rd @ Georgetowne Dr
+40,1614,0.3,1.4,7.6,time_period_04,-71.145549,42.2593150000001,1614.0,W Boundary Rd @ Georgetowne Dr
+40,1614,0.075,0.7,4.1,time_period_04,-71.145549,42.2593150000001,1614.0,W Boundary Rd @ Georgetowne Dr
+40,1614,0.12,2.46,16.34,time_period_05,-71.145549,42.2593150000001,1614.0,W Boundary Rd @ Georgetowne Dr
+40,1614,0.125,2.825,18.45,time_period_06,-71.145549,42.2593150000001,1614.0,W Boundary Rd @ Georgetowne Dr
+40,1614,0.0,1.9,9.8,time_period_07,-71.145549,42.2593150000001,1614.0,W Boundary Rd @ Georgetowne Dr
+40,1614,0.75,4.75,7.85,time_period_07,-71.145549,42.2593150000001,1614.0,W Boundary Rd @ Georgetowne Dr
+40,1614,0.075,0.6,3.15833333333333,time_period_10,-71.145549,42.2593150000001,1614.0,W Boundary Rd @ Georgetowne Dr
+40,1614,1.1,5.175,8.35,time_period_10,-71.145549,42.2593150000001,1614.0,W Boundary Rd @ Georgetowne Dr
+40,1614,2.3875,2.1375,5.9375,time_period_11,-71.145549,42.2593150000001,1614.0,W Boundary Rd @ Georgetowne Dr
+40,1615,0.15,0.05,0.2,time_period_01,-71.145226,42.2576050000001,1615.0,Georgetowne Dr @ Margaretta Dr
+40,1615,0.166666666666667,0.166666666666667,1.33333333333333,time_period_02,-71.145226,42.2576050000001,1615.0,Georgetowne Dr @ Margaretta Dr
+40,1615,0.0333333333333333,0.633333333333333,2.16666666666667,time_period_03,-71.145226,42.2576050000001,1615.0,Georgetowne Dr @ Margaretta Dr
+40,1615,0.2,2.1,5.6,time_period_04,-71.145226,42.2576050000001,1615.0,Georgetowne Dr @ Margaretta Dr
+40,1615,0.225,1.325,3.025,time_period_04,-71.145226,42.2576050000001,1615.0,Georgetowne Dr @ Margaretta Dr
+40,1615,0.2,2.96,13.62,time_period_05,-71.145226,42.2576050000001,1615.0,Georgetowne Dr @ Margaretta Dr
+40,1615,0.15,3.525,15.15,time_period_06,-71.145226,42.2576050000001,1615.0,Georgetowne Dr @ Margaretta Dr
+40,1615,0.1,1.8,8.1,time_period_07,-71.145226,42.2576050000001,1615.0,Georgetowne Dr @ Margaretta Dr
+40,1615,0.15,0.558333333333333,2.75,time_period_10,-71.145226,42.2576050000001,1615.0,Georgetowne Dr @ Margaretta Dr
+40,1616,0.3,2.2,3.8,time_period_04,-71.1463899999999,42.257411,1616.0,Margaretta Dr @ Crown Point Dr
+40,1616,0.36,3.12,10.9,time_period_05,-71.1463899999999,42.257411,1616.0,Margaretta Dr @ Crown Point Dr
+40,1616,0.1,3.95,11.325,time_period_06,-71.1463899999999,42.257411,1616.0,Margaretta Dr @ Crown Point Dr
+40,1616,0.1,2.1,6.1,time_period_07,-71.1463899999999,42.257411,1616.0,Margaretta Dr @ Crown Point Dr
+40,1616,0.266666666666667,0.875,2.175,time_period_10,-71.1463899999999,42.257411,1616.0,Margaretta Dr @ Crown Point Dr
+40,1617,0.2,0.4,3.9,time_period_04,-71.146429,42.257205,1617.0,Opp 67 Crown Point Dr
+40,1617,0.08,1.12,9.7,time_period_05,-71.146429,42.257205,1617.0,Opp 67 Crown Point Dr
+40,1617,0.0,2.025,9.5,time_period_06,-71.146429,42.257205,1617.0,Opp 67 Crown Point Dr
+40,1617,0.1,1.4,4.8,time_period_07,-71.146429,42.257205,1617.0,Opp 67 Crown Point Dr
+40,1617,0.225,0.3,2.04166666666667,time_period_10,-71.146429,42.257205,1617.0,Opp 67 Crown Point Dr
+40,11618,0.0,0.6,3.3,time_period_04,,,,
+40,11618,0.26,1.56,8.6,time_period_05,,,,
+40,11618,0.075,1.7,7.825,time_period_06,,,,
+40,11618,0.0,1.4,3.5,time_period_07,,,,
+40,11618,0.1,1.45,6.55,time_period_07,,,,
+40,11618,0.25,0.383333333333333,1.975,time_period_10,,,,
+40,11618,0.35,1.45,7.3,time_period_10,,,,
+40,11618,1.0125,0.6375,6.3125,time_period_11,,,,
+40,6523,0.0,0.0,3.1,time_period_04,-71.1434659999999,42.2545260000001,6523.0,Alwin St @ Dedham Pkwy
+40,6523,0.08,0.22,8.52,time_period_05,-71.1434659999999,42.2545260000001,6523.0,Alwin St @ Dedham Pkwy
+40,6523,0.0,0.3,7.55,time_period_06,-71.1434659999999,42.2545260000001,6523.0,Alwin St @ Dedham Pkwy
+40,6523,0.0,0.1,3.5,time_period_07,-71.1434659999999,42.2545260000001,6523.0,Alwin St @ Dedham Pkwy
+40,6523,0.0,0.05,6.5,time_period_07,-71.1434659999999,42.2545260000001,6523.0,Alwin St @ Dedham Pkwy
+40,6523,0.0166666666666667,0.025,1.98333333333333,time_period_10,-71.1434659999999,42.2545260000001,6523.0,Alwin St @ Dedham Pkwy
+40,6523,0.05,0.25,7.1,time_period_10,-71.1434659999999,42.2545260000001,6523.0,Alwin St @ Dedham Pkwy
+40,6523,0.2125,0.15,6.3625,time_period_11,-71.1434659999999,42.2545260000001,6523.0,Alwin St @ Dedham Pkwy
+40,6524,0.3,0.2,3.2,time_period_04,-71.1420199999999,42.253652,6524.0,Alwin St @ Leighton Rd
+40,6524,0.08,1.1,7.5,time_period_05,-71.1420199999999,42.253652,6524.0,Alwin St @ Leighton Rd
+40,6524,0.0,1.35,6.35,time_period_06,-71.1420199999999,42.253652,6524.0,Alwin St @ Leighton Rd
+40,6524,0.0,0.7,2.8,time_period_07,-71.1420199999999,42.253652,6524.0,Alwin St @ Leighton Rd
+40,6524,0.05,0.9,5.65,time_period_07,-71.1420199999999,42.253652,6524.0,Alwin St @ Leighton Rd
+40,6524,0.141666666666667,0.0666666666666667,2.04166666666667,time_period_10,-71.1420199999999,42.253652,6524.0,Alwin St @ Leighton Rd
+40,6524,0.05,0.35,6.8,time_period_10,-71.1420199999999,42.253652,6524.0,Alwin St @ Leighton Rd
+40,6524,0.4125,0.25,6.55,time_period_11,-71.1420199999999,42.253652,6524.0,Alwin St @ Leighton Rd
+40,6526,1.6,0.5,4.3,time_period_04,-71.139562,42.253877,6526.0,Alwin St @ Turtle Pond Pkwy
+40,6526,0.12,1.06,6.6,time_period_05,-71.139562,42.253877,6526.0,Alwin St @ Turtle Pond Pkwy
+40,6526,0.025,1.45,5.05,time_period_06,-71.139562,42.253877,6526.0,Alwin St @ Turtle Pond Pkwy
+40,6526,0.0,1.1,1.9,time_period_07,-71.139562,42.253877,6526.0,Alwin St @ Turtle Pond Pkwy
+40,6526,0.0,0.65,5.05,time_period_07,-71.139562,42.253877,6526.0,Alwin St @ Turtle Pond Pkwy
+40,6526,0.391666666666667,0.241666666666667,2.225,time_period_10,-71.139562,42.253877,6526.0,Alwin St @ Turtle Pond Pkwy
+40,6526,0.025,0.675,6.15,time_period_10,-71.139562,42.253877,6526.0,Alwin St @ Turtle Pond Pkwy
+40,6526,0.3125,0.175,6.6875,time_period_11,-71.139562,42.253877,6526.0,Alwin St @ Turtle Pond Pkwy
+40,6522,0.2,0.0,4.5,time_period_04,-71.1430829999999,42.255639,6522.0,Dedham Pkwy @ Georgetowne Dr
+40,6522,0.14,0.04,6.7,time_period_05,-71.1430829999999,42.255639,6522.0,Dedham Pkwy @ Georgetowne Dr
+40,6522,0.0,0.0,5.075,time_period_06,-71.1430829999999,42.255639,6522.0,Dedham Pkwy @ Georgetowne Dr
+40,6522,0.0,0.0,1.9,time_period_07,-71.1430829999999,42.255639,6522.0,Dedham Pkwy @ Georgetowne Dr
+40,6522,0.158333333333333,0.0,2.375,time_period_10,-71.1430829999999,42.255639,6522.0,Dedham Pkwy @ Georgetowne Dr
+40,1618,0.0,0.4,0.2,time_period_01,-71.145182,42.254718,1618.0,84 Georgetowne Pl
+40,1618,0.0,0.633333333333333,0.833333333333333,time_period_02,-71.145182,42.254718,1618.0,84 Georgetowne Pl
+40,1618,0.0,0.366666666666667,1.9,time_period_03,-71.145182,42.254718,1618.0,84 Georgetowne Pl
+40,1618,0.0,0.4,4.1,time_period_04,-71.145182,42.254718,1618.0,84 Georgetowne Pl
+40,1618,0.0,0.55,2.55,time_period_04,-71.145182,42.254718,1618.0,84 Georgetowne Pl
+40,1618,0.0,1.08,5.78,time_period_05,-71.145182,42.254718,1618.0,84 Georgetowne Pl
+40,1618,0.0,1.1,4.125,time_period_06,-71.145182,42.254718,1618.0,84 Georgetowne Pl
+40,1618,0.0,0.7,1.6,time_period_07,-71.145182,42.254718,1618.0,84 Georgetowne Pl
+40,1618,0.0,0.566666666666667,1.93333333333333,time_period_10,-71.145182,42.254718,1618.0,84 Georgetowne Pl
+40,6527,0.0,0.2,4.9,time_period_07,-71.134093,42.2542820000001,6527.0,272 Reservation Rd opp Brainard St
+40,6527,0.0,0.15,6.0,time_period_10,-71.134093,42.2542820000001,6527.0,272 Reservation Rd opp Brainard St
+40,6527,0.05,0.05,6.6875,time_period_11,-71.134093,42.2542820000001,6527.0,272 Reservation Rd opp Brainard St
+40,6528,0.0,0.05,4.95,time_period_07,-71.132125,42.253519,6528.0,Reservation Rd @ Thompson St
+40,6528,0.0,0.4,5.625,time_period_10,-71.132125,42.253519,6528.0,Reservation Rd @ Thompson St
+40,6528,0.075,0.0625,6.6875,time_period_11,-71.132125,42.253519,6528.0,Reservation Rd @ Thompson St
+40,6529,0.05,0.85,4.15,time_period_07,-71.131076,42.252264,6529.0,Reservation Rd @ River St
+40,6529,0.15,0.7,5.05,time_period_10,-71.131076,42.252264,6529.0,Reservation Rd @ River St
+40,6529,0.1125,0.2125,6.5875,time_period_11,-71.131076,42.252264,6529.0,Reservation Rd @ River St
+40,6530,0.0,0.1,4.0,time_period_07,-71.130004,42.25298,6530.0,River St @ Adams St
+40,6530,0.075,0.3,4.825,time_period_10,-71.130004,42.25298,6530.0,River St @ Adams St
+40,6530,0.2,0.2125,6.5625,time_period_11,-71.130004,42.25298,6530.0,River St @ Adams St
+40,6531,0.0,0.0,4.0,time_period_07,-71.128057,42.254935,6531.0,River St @ Radford Pl
+40,6531,0.0,0.025,4.775,time_period_10,-71.128057,42.254935,6531.0,River St @ Radford Pl
+40,6531,0.0,0.0125,6.5625,time_period_11,-71.128057,42.254935,6531.0,River St @ Radford Pl
+40,26531,0.0,0.4,3.65,time_period_07,-71.12424,42.255743,26531.0,River St @ Hyde Park Ave
+40,26531,0.0,0.85,4.5,time_period_10,-71.12424,42.255743,26531.0,River St @ Hyde Park Ave
+40,26531,0.0,1.2,5.4,time_period_11,-71.12424,42.255743,26531.0,River St @ Hyde Park Ave

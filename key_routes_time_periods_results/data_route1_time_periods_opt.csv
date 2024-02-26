@@ -1,0 +1,265 @@
+stop_id,average_ons,average_offs,average_load,time_period_id,X,Y,Stop_ID,Stop_Name,lambda_0.5,lambda_0.75
+64,10.375,0,10.45,time_period_01,-71.0846039,42.3289888,64,Nubian Station,1,1
+64,10.7,0,10.71428571,time_period_02,-71.0846039,42.3289888,64,Nubian Station,1,1
+64,12.9,0,12.94,time_period_03,-71.0846039,42.3289888,64,Nubian Station,1,1
+64,12.11785714,0,12.43214286,time_period_04,-71.0846039,42.3289888,64,Nubian Station,1,1
+64,10.56470588,0,10.97058824,time_period_05,-71.0846039,42.3289888,64,Nubian Station,1,1
+64,6.5875,0,6.75,time_period_06,-71.0846039,42.3289888,64,Nubian Station,1,1
+64,3.754545455,0,3.931818182,time_period_07,-71.0846039,42.3289888,64,Nubian Station,1,1
+64,2.955555556,0,3.155555556,time_period_08,-71.0846039,42.3289888,64,Nubian Station,1,1
+64,2.58,0,2.66,time_period_09,-71.0846039,42.3289888,64,Nubian Station,1,1
+64,6.630701754,0,6.752631579,time_period_10,-71.0846039,42.3289888,64,Nubian Station,1,1
+64,6.80617284,0,6.883950617,time_period_11,-71.0846039,42.3289888,64,Nubian Station,1,1
+1,0.15,0.0125,10.5875,time_period_01,-71.082754,42.330957,1,Washington St opp Ruggles St,0,0
+1,0.1,0,10.77142857,time_period_02,-71.082754,42.330957,1,Washington St opp Ruggles St,0,0
+1,0.246666667,0.02,13.16,time_period_03,-71.082754,42.330957,1,Washington St opp Ruggles St,0,0
+1,0.492857143,0.053571429,12.85714286,time_period_04,-71.082754,42.330957,1,Washington St opp Ruggles St,0,0
+1,0.447058824,0.047058824,11.40588235,time_period_05,-71.082754,42.330957,1,Washington St opp Ruggles St,0,0
+1,0.4125,0.0375,7.1625,time_period_06,-71.082754,42.330957,1,Washington St opp Ruggles St,0,0
+1,0.140909091,0.009090909,4.104545455,time_period_07,-71.082754,42.330957,1,Washington St opp Ruggles St,0,0
+1,0.066666667,0,3.311111111,time_period_08,-71.082754,42.330957,1,Washington St opp Ruggles St,0,0
+1,0.04,0,2.7,time_period_09,-71.082754,42.330957,1,Washington St opp Ruggles St,0,0
+1,0.188596491,0.026315789,6.91754386,time_period_10,-71.082754,42.330957,1,Washington St opp Ruggles St,0,0
+1,0.162962963,0.020987654,7.04691358,time_period_11,-71.082754,42.330957,1,Washington St opp Ruggles St,0,0
+2,0.175,0.6875,10.1,time_period_01,-71.081252,42.332324,2,Washington St @ Melnea Cass Blvd,0,0
+2,0.171428571,0.042857143,10.9,time_period_02,-71.081252,42.332324,2,Washington St @ Melnea Cass Blvd,0,0
+2,0.433333333,0.073333333,13.56666667,time_period_03,-71.081252,42.332324,2,Washington St @ Melnea Cass Blvd,0,0
+2,0.546428571,0.175,13.41071429,time_period_04,-71.081252,42.332324,2,Washington St @ Melnea Cass Blvd,0,1
+2,0.529411765,0.229411765,12.09411765,time_period_05,-71.081252,42.332324,2,Washington St @ Melnea Cass Blvd,0,1
+2,0.4875,0.175,7.53125,time_period_06,-71.081252,42.332324,2,Washington St @ Melnea Cass Blvd,0,1
+2,0.190909091,0.027272727,4.259090909,time_period_07,-71.081252,42.332324,2,Washington St @ Melnea Cass Blvd,0,0
+2,0.044444444,0.022222222,3.355555556,time_period_08,-71.081252,42.332324,2,Washington St @ Melnea Cass Blvd,0,0
+2,0,0.02,2.68,time_period_09,-71.081252,42.332324,2,Washington St @ Melnea Cass Blvd,0,0
+2,0.395614035,0.115789474,7.284210526,time_period_10,-71.081252,42.332324,2,Washington St @ Melnea Cass Blvd,0,1
+2,0.269135802,0.095061728,7.269135802,time_period_11,-71.081252,42.332324,2,Washington St @ Melnea Cass Blvd,0,1
+6,0.0125,0,10.1,time_period_01,-71.079576,42.332016,6,Melnea Cass Blvd @ Harrison Ave,0,0
+6,0.014285714,0.014285714,10.91428571,time_period_02,-71.079576,42.332016,6,Melnea Cass Blvd @ Harrison Ave,0,0
+6,0.026666667,0.046666667,13.56,time_period_03,-71.079576,42.332016,6,Melnea Cass Blvd @ Harrison Ave,0,0
+6,0.246428571,0.135714286,13.50714286,time_period_04,-71.079576,42.332016,6,Melnea Cass Blvd @ Harrison Ave,0,0
+6,0.247058824,0.129411765,12.21764706,time_period_05,-71.079576,42.332016,6,Melnea Cass Blvd @ Harrison Ave,0,0
+6,0.25,0.04375,7.76875,time_period_06,-71.079576,42.332016,6,Melnea Cass Blvd @ Harrison Ave,0,0
+6,0.036363636,0,4.290909091,time_period_07,-71.079576,42.332016,6,Melnea Cass Blvd @ Harrison Ave,0,0
+6,0,0,3.388888889,time_period_08,-71.079576,42.332016,6,Melnea Cass Blvd @ Harrison Ave,0,0
+6,0,0,2.68,time_period_09,-71.079576,42.332016,6,Melnea Cass Blvd @ Harrison Ave,0,0
+6,0.222807018,0.037719298,7.496491228,time_period_10,-71.079576,42.332016,6,Melnea Cass Blvd @ Harrison Ave,0,1
+6,0.037037037,0.02962963,7.286419753,time_period_11,-71.079576,42.332016,6,Melnea Cass Blvd @ Harrison Ave,0,1
+10003,0.2375,0.15,10.2,time_period_01,-71.076237,42.331591,10003,Albany St opp Randall St,0,1
+10003,0.385714286,0.228571429,11.02857143,time_period_02,-71.076237,42.331591,10003,Albany St opp Randall St,0,1
+10003,0.52,0.533333333,14.32,time_period_03,-71.076237,42.331591,10003,Albany St opp Randall St,1,1
+10003,0.271428571,0.235714286,14.17142857,time_period_04,-71.076237,42.331591,10003,Albany St opp Randall St,1,0
+10003,0.511764706,0.241176471,12.90588235,time_period_05,-71.076237,42.331591,10003,Albany St opp Randall St,0,0
+10003,0.55,0.16875,8.5125,time_period_06,-71.076237,42.331591,10003,Albany St opp Randall St,0,0
+10003,0.209090909,0.063636364,4.604545455,time_period_07,-71.076237,42.331591,10003,Albany St opp Randall St,0,0
+10003,0.033333333,0.055555556,3.311111111,time_period_08,-71.076237,42.331591,10003,Albany St opp Randall St,0,0
+10003,0.02,0.04,2.76,time_period_09,-71.076237,42.331591,10003,Albany St opp Randall St,0,0
+10003,0.259649123,0.090350877,7.715789474,time_period_10,-71.076237,42.331591,10003,Albany St opp Randall St,0,1
+10003,0.280246914,0.098765432,7.454320988,time_period_11,-71.076237,42.331591,10003,Albany St opp Randall St,0,1
+57,1.3125,1.5125,10.025,time_period_01,-71.073541,42.333825,57,Massachusetts Ave @ Albany St,1,1
+57,1.771428571,2.542857143,10.25714286,time_period_02,-71.073541,42.333825,57,Massachusetts Ave @ Albany St,1,1
+57,2.28,3.766666667,12.81333333,time_period_03,-71.073541,42.333825,57,Massachusetts Ave @ Albany St,1,1
+57,3.964285714,4.778571429,13.38571429,time_period_04,-71.073541,42.333825,57,Massachusetts Ave @ Albany St,1,1
+57,4.594117647,3.352941176,14.16470588,time_period_05,-71.073541,42.333825,57,Massachusetts Ave @ Albany St,1,1
+57,5.9125,1.7,12.71875,time_period_06,-71.073541,42.333825,57,Massachusetts Ave @ Albany St,1,1
+57,1.581818182,0.877272727,5.3,time_period_07,-71.073541,42.333825,57,Massachusetts Ave @ Albany St,1,1
+57,1.366666667,0.722222222,3.944444444,time_period_08,-71.073541,42.333825,57,Massachusetts Ave @ Albany St,1,1
+57,0.5,0.88,2.42,time_period_09,-71.073541,42.333825,57,Massachusetts Ave @ Albany St,1,1
+57,1.753508772,1.307017544,8.186842105,time_period_10,-71.073541,42.333825,57,Massachusetts Ave @ Albany St,1,1
+57,1.748148148,1.179012346,8.039506173,time_period_11,-71.073541,42.333825,57,Massachusetts Ave @ Albany St,1,1
+58,1.0875,0.8875,10.2375,time_period_01,-71.074931,42.334948,58,Massachusetts Ave @ Harrison Ave,1,1
+58,1.328571429,2.214285714,9.371428571,time_period_02,-71.074931,42.334948,58,Massachusetts Ave @ Harrison Ave,1,1
+58,2.66,2.32,13.16666667,time_period_03,-71.074931,42.334948,58,Massachusetts Ave @ Harrison Ave,1,1
+58,5.328571429,3.003571429,15.73928571,time_period_04,-71.074931,42.334948,58,Massachusetts Ave @ Harrison Ave,1,1
+58,6.182352941,2.047058824,18.29411765,time_period_05,-71.074931,42.334948,58,Massachusetts Ave @ Harrison Ave,1,1
+58,7.25,0.875,19.13125,time_period_06,-71.074931,42.334948,58,Massachusetts Ave @ Harrison Ave,1,1
+58,2.836363636,0.472727273,7.681818182,time_period_07,-71.074931,42.334948,58,Massachusetts Ave @ Harrison Ave,1,1
+58,1.766666667,0.211111111,5.522222222,time_period_08,-71.074931,42.334948,58,Massachusetts Ave @ Harrison Ave,1,1
+58,0.44,0.08,2.76,time_period_09,-71.074931,42.334948,58,Massachusetts Ave @ Harrison Ave,1,1
+58,1.989473684,0.669298246,9.495614035,time_period_10,-71.074931,42.334948,58,Massachusetts Ave @ Harrison Ave,1,1
+58,2.048148148,0.540740741,9.558024691,time_period_11,-71.074931,42.334948,58,Massachusetts Ave @ Harrison Ave,1,1
+10590,1.2875,0.1625,11.325,time_period_01,-71.076956,42.336621,10590,Massachusetts Ave @ Washington St,1,1
+10590,1.714285714,0.385714286,10.72857143,time_period_02,-71.076956,42.336621,10590,Massachusetts Ave @ Washington St,1,1
+10590,3.013333333,0.36,15.14666667,time_period_03,-71.076956,42.336621,10590,Massachusetts Ave @ Washington St,1,1
+10590,2.364285714,0.535714286,16.92142857,time_period_04,-71.076956,42.336621,10590,Massachusetts Ave @ Washington St,1,1
+10590,2.194117647,0.517647059,19.32941176,time_period_05,-71.076956,42.336621,10590,Massachusetts Ave @ Washington St,0,1
+10590,2.21875,0.4375,19.85625,time_period_06,-71.076956,42.336621,10590,Massachusetts Ave @ Washington St,0,1
+10590,1.222727273,0.240909091,8.268181818,time_period_07,-71.076956,42.336621,10590,Massachusetts Ave @ Washington St,0,1
+10590,0.988888889,0.2,6.266666667,time_period_08,-71.076956,42.336621,10590,Massachusetts Ave @ Washington St,0,1
+10590,0.36,0.18,2.76,time_period_09,-71.076956,42.336621,10590,Massachusetts Ave @ Washington St,0,1
+10590,1.783333333,0.298245614,10.89035088,time_period_10,-71.076956,42.336621,10590,Massachusetts Ave @ Washington St,0,1
+10590,1.958024691,0.312345679,11.17037037,time_period_11,-71.076956,42.336621,10590,Massachusetts Ave @ Washington St,1,1
+87,0.8375,0.175,11.9875,time_period_01,-71.080362,42.339459,87,Massachusetts Ave @ Tremont St,1,1
+87,1.157142857,0.242857143,11.67142857,time_period_02,-71.080362,42.339459,87,Massachusetts Ave @ Tremont St,1,1
+87,2.673333333,0.48,17.32666667,time_period_03,-71.080362,42.339459,87,Massachusetts Ave @ Tremont St,1,1
+87,1.267857143,0.857142857,17.31785714,time_period_04,-71.080362,42.339459,87,Massachusetts Ave @ Tremont St,1,0
+87,1.258823529,0.8,19.83529412,time_period_05,-71.080362,42.339459,87,Massachusetts Ave @ Tremont St,0,0
+87,1.28125,0.68125,20.38125,time_period_06,-71.080362,42.339459,87,Massachusetts Ave @ Tremont St,0,0
+87,0.8,0.4,8.672727273,time_period_07,-71.080362,42.339459,87,Massachusetts Ave @ Tremont St,0,0
+87,0.522222222,0.311111111,6.444444444,time_period_08,-71.080362,42.339459,87,Massachusetts Ave @ Tremont St,0,0
+87,0.12,0.14,2.76,time_period_09,-71.080362,42.339459,87,Massachusetts Ave @ Tremont St,0,0
+87,1.247368421,0.524561404,11.62719298,time_period_10,-71.080362,42.339459,87,Massachusetts Ave @ Tremont St,0,1
+87,1.155555556,0.4,11.92592593,time_period_11,-71.080362,42.339459,87,Massachusetts Ave @ Tremont St,1,1
+188,1.575,0.975,12.6,time_period_01,-71.083092,42.34157,188,Massachusetts Ave @ Massachusetts Ave Station,1,1
+188,3.5,1.785714286,13.35714286,time_period_02,-71.083092,42.34157,188,Massachusetts Ave @ Massachusetts Ave Station,1,1
+188,5.093333333,2.213333333,20.22666667,time_period_03,-71.083092,42.34157,188,Massachusetts Ave @ Massachusetts Ave Station,1,1
+188,2.589285714,3.746428571,16.15357143,time_period_04,-71.083092,42.34157,188,Massachusetts Ave @ Massachusetts Ave Station,1,1
+188,2.417647059,4.388235294,17.85294118,time_period_05,-71.083092,42.34157,188,Massachusetts Ave @ Massachusetts Ave Station,1,1
+188,2.56875,4.69375,18.24375,time_period_06,-71.083092,42.34157,188,Massachusetts Ave @ Massachusetts Ave Station,1,1
+188,1.304545455,1.504545455,8.509090909,time_period_07,-71.083092,42.34157,188,Massachusetts Ave @ Massachusetts Ave Station,1,1
+188,1.022222222,1.444444444,6.022222222,time_period_08,-71.083092,42.34157,188,Massachusetts Ave @ Massachusetts Ave Station,1,1
+188,0.3,0.4,2.66,time_period_09,-71.083092,42.34157,188,Massachusetts Ave @ Massachusetts Ave Station,1,1
+188,2.121052632,1.460526316,12.28421053,time_period_10,-71.083092,42.34157,188,Massachusetts Ave @ Massachusetts Ave Station,1,1
+188,2.266666667,1.556790123,12.63703704,time_period_11,-71.083092,42.34157,188,Massachusetts Ave @ Massachusetts Ave Station,1,1
+89,0.5375,0.6625,12.4875,time_period_01,-71.084121,42.342303,89,Massachusetts Ave @ St Botolph St,0,1
+89,0.685714286,0.514285714,13.55714286,time_period_02,-71.084121,42.342303,89,Massachusetts Ave @ St Botolph St,0,1
+89,2.213333333,0.96,21.49333333,time_period_03,-71.084121,42.342303,89,Massachusetts Ave @ St Botolph St,1,1
+89,1.882142857,1.428571429,16.62857143,time_period_04,-71.084121,42.342303,89,Massachusetts Ave @ St Botolph St,1,1
+89,2.529411765,1.370588235,19.03529412,time_period_05,-71.084121,42.342303,89,Massachusetts Ave @ St Botolph St,1,1
+89,3.8375,1.41875,20.64375,time_period_06,-71.084121,42.342303,89,Massachusetts Ave @ St Botolph St,1,1
+89,2.640909091,0.809090909,10.32727273,time_period_07,-71.084121,42.342303,89,Massachusetts Ave @ St Botolph St,1,1
+89,1.5,0.655555556,6.9,time_period_08,-71.084121,42.342303,89,Massachusetts Ave @ St Botolph St,1,1
+89,0.22,0.22,2.66,time_period_09,-71.084121,42.342303,89,Massachusetts Ave @ St Botolph St,1,1
+89,2.40877193,0.988596491,13.71403509,time_period_10,-71.084121,42.342303,89,Massachusetts Ave @ St Botolph St,1,1
+89,2.227160494,0.858024691,14.01111111,time_period_11,-71.084121,42.342303,89,Massachusetts Ave @ St Botolph St,0,1
+91,0.45,0.35,12.5625,time_period_01,-71.086739,42.345331,91,Massachusetts Ave @ Clearway St,0,1
+91,0.728571429,1.028571429,13.25714286,time_period_02,-71.086739,42.345331,91,Massachusetts Ave @ Clearway St,0,1
+91,2.213333333,1.186666667,22.51333333,time_period_03,-71.086739,42.345331,91,Massachusetts Ave @ Clearway St,1,1
+91,1.614285714,1.478571429,16.75714286,time_period_04,-71.086739,42.345331,91,Massachusetts Ave @ Clearway St,1,1
+91,1.847058824,1.570588235,19.23529412,time_period_05,-71.086739,42.345331,91,Massachusetts Ave @ Clearway St,1,1
+91,2.34375,1.16875,21.76875,time_period_06,-71.086739,42.345331,91,Massachusetts Ave @ Clearway St,1,1
+91,1.55,0.572727273,11.31818182,time_period_07,-71.086739,42.345331,91,Massachusetts Ave @ Clearway St,1,1
+91,0.844444444,0.455555556,7.311111111,time_period_08,-71.086739,42.345331,91,Massachusetts Ave @ Clearway St,1,1
+91,0.14,0.08,2.74,time_period_09,-71.086739,42.345331,91,Massachusetts Ave @ Clearway St,1,1
+91,1.756140351,0.934210526,14.54035088,time_period_10,-71.086739,42.345331,91,Massachusetts Ave @ Clearway St,1,1
+91,2.019753086,0.9,15.13333333,time_period_11,-71.086739,42.345331,91,Massachusetts Ave @ Clearway St,0,1
+93,1.1625,2.3875,11.3375,time_period_01,-71.088033,42.348005,93,Massachusetts Ave @ Newbury St,1,1
+93,2.2,2.614285714,12.87142857,time_period_02,-71.088033,42.348005,93,Massachusetts Ave @ Newbury St,1,1
+93,5.126666667,3.3,24.32666667,time_period_03,-71.088033,42.348005,93,Massachusetts Ave @ Newbury St,1,1
+93,4.710714286,3,18.48214286,time_period_04,-71.088033,42.348005,93,Massachusetts Ave @ Newbury St,1,1
+93,6.235294118,3.211764706,22.25882353,time_period_05,-71.088033,42.348005,93,Massachusetts Ave @ Newbury St,1,1
+93,9.53125,3.41875,27.86875,time_period_06,-71.088033,42.348005,93,Massachusetts Ave @ Newbury St,1,1
+93,7.372727273,1.559090909,17.12272727,time_period_07,-71.088033,42.348005,93,Massachusetts Ave @ Newbury St,1,1
+93,4.733333333,0.977777778,11.06666667,time_period_08,-71.088033,42.348005,93,Massachusetts Ave @ Newbury St,1,1
+93,1,0.24,3.5,time_period_09,-71.088033,42.348005,93,Massachusetts Ave @ Newbury St,1,1
+93,7.323684211,2.3,19.55614035,time_period_10,-71.088033,42.348005,93,Massachusetts Ave @ Newbury St,1,1
+93,8.174074074,2.534567901,20.77901235,time_period_11,-71.088033,42.348005,93,Massachusetts Ave @ Newbury St,1,1
+95,0.2875,0.125,11.475,time_period_01,-71.089334,42.350773,95,Massachusetts Ave @ Beacon St,1,1
+95,0.8,0.185714286,13.48571429,time_period_02,-71.089334,42.350773,95,Massachusetts Ave @ Beacon St,1,1
+95,1.426666667,0.266666667,25.5,time_period_03,-71.089334,42.350773,95,Massachusetts Ave @ Beacon St,1,1
+95,1.296428571,0.292857143,19.47857143,time_period_04,-71.089334,42.350773,95,Massachusetts Ave @ Beacon St,1,1
+95,1.164705882,0.270588235,23.14705882,time_period_05,-71.089334,42.350773,95,Massachusetts Ave @ Beacon St,1,1
+95,1.70625,0.34375,29.24375,time_period_06,-71.089334,42.350773,95,Massachusetts Ave @ Beacon St,1,1
+95,1.409090909,0.277272727,18.29090909,time_period_07,-71.089334,42.350773,95,Massachusetts Ave @ Beacon St,1,1
+95,1.022222222,0.211111111,11.88888889,time_period_08,-71.089334,42.350773,95,Massachusetts Ave @ Beacon St,0,1
+95,0.3,0.06,3.74,time_period_09,-71.089334,42.350773,95,Massachusetts Ave @ Beacon St,0,1
+95,1.548245614,0.299122807,20.82105263,time_period_10,-71.089334,42.350773,95,Massachusetts Ave @ Beacon St,0,1
+95,1.75308642,0.308641975,22.21234568,time_period_11,-71.089334,42.350773,95,Massachusetts Ave @ Beacon St,1,1
+97,0.0625,1.5125,10.0375,time_period_01,-71.093543,42.359183,97,77 Massachusetts Ave,0,0
+97,0.128571429,1.6,12,time_period_02,-71.093543,42.359183,97,77 Massachusetts Ave,0,0
+97,0.54,4.806666667,21.32,time_period_03,-71.093543,42.359183,97,77 Massachusetts Ave,0,0
+97,1.289285714,3,17.825,time_period_04,-71.093543,42.359183,97,77 Massachusetts Ave,0,1
+97,1.829411765,1.429411765,23.58235294,time_period_05,-71.093543,42.359183,97,77 Massachusetts Ave,1,1
+97,2.11875,1.35,30.05,time_period_06,-71.093543,42.359183,97,77 Massachusetts Ave,1,1
+97,1.409090909,0.927272727,18.8,time_period_07,-71.093543,42.359183,97,77 Massachusetts Ave,1,1
+97,0.555555556,0.466666667,11.97777778,time_period_08,-71.093543,42.359183,97,77 Massachusetts Ave,0,1
+97,0.16,0.1,3.8,time_period_09,-71.093543,42.359183,97,77 Massachusetts Ave,0,1
+97,1.237719298,1.573684211,20.49561404,time_period_10,-71.093543,42.359183,97,77 Massachusetts Ave,0,1
+97,1.343209877,1.575308642,21.98765432,time_period_11,-71.093543,42.359183,97,77 Massachusetts Ave,0,1
+99,0.3125,1.2,9.125,time_period_01,-71.095722,42.360758,99,Massachusetts Ave @ Albany St,0,0
+99,0.242857143,2.271428571,9.985714286,time_period_02,-71.095722,42.360758,99,Massachusetts Ave @ Albany St,0,0
+99,0.673333333,5.193333333,16.78,time_period_03,-71.095722,42.360758,99,Massachusetts Ave @ Albany St,1,0
+99,0.471428571,1.660714286,16.625,time_period_04,-71.095722,42.360758,99,Massachusetts Ave @ Albany St,1,0
+99,0.9,1.052941176,23.41764706,time_period_05,-71.095722,42.360758,99,Massachusetts Ave @ Albany St,0,0
+99,1.03125,1.36875,29.7375,time_period_06,-71.095722,42.360758,99,Massachusetts Ave @ Albany St,0,0
+99,0.654545455,0.886363636,18.53636364,time_period_07,-71.095722,42.360758,99,Massachusetts Ave @ Albany St,0,1
+99,0.333333333,0.733333333,11.58888889,time_period_08,-71.095722,42.360758,99,Massachusetts Ave @ Albany St,0,1
+99,0.08,0.16,3.76,time_period_09,-71.095722,42.360758,99,Massachusetts Ave @ Albany St,0,1
+99,0.526315789,0.989473684,20.00438596,time_period_10,-71.095722,42.360758,99,Massachusetts Ave @ Albany St,0,1
+99,0.628395062,1.134567901,21.48641975,time_period_11,-71.095722,42.360758,99,Massachusetts Ave @ Albany St,0,1
+101,0.45,1.7,7.9125,time_period_01,-71.099486,42.362988,101,Massachusetts Ave @ Sidney St,0,0
+101,0.271428571,1.114285714,9.114285714,time_period_02,-71.099486,42.362988,101,Massachusetts Ave @ Sidney St,0,0
+101,0.72,2.186666667,15.29333333,time_period_03,-71.099486,42.362988,101,Massachusetts Ave @ Sidney St,1,0
+101,0.567857143,1.578571429,15.625,time_period_04,-71.099486,42.362988,101,Massachusetts Ave @ Sidney St,1,0
+101,0.735294118,1.917647059,22.22941176,time_period_05,-71.099486,42.362988,101,Massachusetts Ave @ Sidney St,1,0
+101,0.775,2.425,28.09375,time_period_06,-71.099486,42.362988,101,Massachusetts Ave @ Sidney St,1,0
+101,0.527272727,2.186363636,16.88636364,time_period_07,-71.099486,42.362988,101,Massachusetts Ave @ Sidney St,1,0
+101,0.366666667,1.322222222,10.61111111,time_period_08,-71.099486,42.362988,101,Massachusetts Ave @ Sidney St,0,0
+101,0.14,0.4,3.48,time_period_09,-71.099486,42.362988,101,Massachusetts Ave @ Sidney St,0,0
+101,0.477192982,1.975438596,18.4877193,time_period_10,-71.099486,42.362988,101,Massachusetts Ave @ Sidney St,0,1
+101,0.550617284,1.841975309,20.19876543,time_period_11,-71.099486,42.362988,101,Massachusetts Ave @ Sidney St,0,1
+102,0.625,2.3125,6.2375,time_period_01,-71.103404,42.365291,102,Massachusetts Ave @ Prospect St,0,0
+102,0.742857143,3.142857143,6.757142857,time_period_02,-71.103404,42.365291,102,Massachusetts Ave @ Prospect St,0,0
+102,1.393333333,4.806666667,11.86666667,time_period_03,-71.103404,42.365291,102,Massachusetts Ave @ Prospect St,0,0
+102,1.525,5.460714286,11.71071429,time_period_04,-71.103404,42.365291,102,Massachusetts Ave @ Prospect St,0,1
+102,2.064705882,8.164705882,16.14705882,time_period_05,-71.103404,42.365291,102,Massachusetts Ave @ Prospect St,1,1
+102,2.30625,9.5625,20.8375,time_period_06,-71.103404,42.365291,102,Massachusetts Ave @ Prospect St,1,1
+102,1.095454545,5.563636364,12.41363636,time_period_07,-71.103404,42.365291,102,Massachusetts Ave @ Prospect St,1,1
+102,0.633333333,3.077777778,8.222222222,time_period_08,-71.103404,42.365291,102,Massachusetts Ave @ Prospect St,0,1
+102,0.22,1,2.68,time_period_09,-71.103404,42.365291,102,Massachusetts Ave @ Prospect St,0,1
+102,1.473684211,5.575438596,14.3877193,time_period_10,-71.103404,42.365291,102,Massachusetts Ave @ Prospect St,0,0
+102,1.516049383,5.408641975,16.30740741,time_period_11,-71.103404,42.365291,102,Massachusetts Ave @ Prospect St,0,0
+104,0.125,0.2,6.1375,time_period_01,-71.106017,42.366837,104,Massachusetts Ave @ Bigelow St,0,0
+104,0.157142857,0.342857143,6.542857143,time_period_02,-71.106017,42.366837,104,Massachusetts Ave @ Bigelow St,0,0
+104,0.3,0.766666667,11.40666667,time_period_03,-71.106017,42.366837,104,Massachusetts Ave @ Bigelow St,0,0
+104,0.585714286,0.907142857,11.36071429,time_period_04,-71.106017,42.366837,104,Massachusetts Ave @ Bigelow St,0,1
+104,0.635294118,0.894117647,15.9,time_period_05,-71.106017,42.366837,104,Massachusetts Ave @ Bigelow St,1,1
+104,0.55625,1.1125,20.2375,time_period_06,-71.106017,42.366837,104,Massachusetts Ave @ Bigelow St,1,1
+104,0.345454545,1.068181818,11.67272727,time_period_07,-71.106017,42.366837,104,Massachusetts Ave @ Bigelow St,1,1
+104,0.166666667,0.577777778,7.822222222,time_period_08,-71.106017,42.366837,104,Massachusetts Ave @ Bigelow St,0,1
+104,0.18,0.18,2.68,time_period_09,-71.106017,42.366837,104,Massachusetts Ave @ Bigelow St,0,1
+104,0.364035088,0.779824561,13.95964912,time_period_10,-71.106017,42.366837,104,Massachusetts Ave @ Bigelow St,0,0
+104,0.398765432,1.134567901,15.58395062,time_period_11,-71.106017,42.366837,104,Massachusetts Ave @ Bigelow St,0,0
+106,0.0125,0.0625,6.1125,time_period_01,-71.108618,42.36839,106,Massachusetts Ave @ Hancock St,0,1
+106,0.1,0.528571429,6.142857143,time_period_02,-71.108618,42.36839,106,Massachusetts Ave @ Hancock St,0,1
+106,0.36,0.506666667,11.28,time_period_03,-71.108618,42.36839,106,Massachusetts Ave @ Hancock St,0,1
+106,0.192857143,0.589285714,10.94642857,time_period_04,-71.108618,42.36839,106,Massachusetts Ave @ Hancock St,0,0
+106,0.152941176,0.935294118,15.05294118,time_period_05,-71.108618,42.36839,106,Massachusetts Ave @ Hancock St,0,0
+106,0.225,1.84375,18.61875,time_period_06,-71.108618,42.36839,106,Massachusetts Ave @ Hancock St,0,0
+106,0.127272727,1.268181818,10.53636364,time_period_07,-71.108618,42.36839,106,Massachusetts Ave @ Hancock St,0,0
+106,0.166666667,0.777777778,7.233333333,time_period_08,-71.108618,42.36839,106,Massachusetts Ave @ Hancock St,0,0
+106,0.06,0.22,2.54,time_period_09,-71.108618,42.36839,106,Massachusetts Ave @ Hancock St,0,0
+106,0.125438596,0.819298246,13.25701754,time_period_10,-71.108618,42.36839,106,Massachusetts Ave @ Hancock St,0,0
+106,0.175308642,0.977777778,14.78148148,time_period_11,-71.108618,42.36839,106,Massachusetts Ave @ Hancock St,0,0
+107,0.0625,1.0125,5.125,time_period_01,-71.110773,42.369265,107,Massachusetts Ave @ Dana St,0,0
+107,0.028571429,1.642857143,4.528571429,time_period_02,-71.110773,42.369265,107,Massachusetts Ave @ Dana St,0,0
+107,0.113333333,1.206666667,10.14666667,time_period_03,-71.110773,42.369265,107,Massachusetts Ave @ Dana St,0,0
+107,0.085714286,0.764285714,10.23928571,time_period_04,-71.110773,42.369265,107,Massachusetts Ave @ Dana St,0,0
+107,0.105882353,1.311764706,13.83529412,time_period_05,-71.110773,42.369265,107,Massachusetts Ave @ Dana St,0,0
+107,0.225,1.75,17.05,time_period_06,-71.110773,42.369265,107,Massachusetts Ave @ Dana St,0,0
+107,0.172727273,1.081818182,9.581818182,time_period_07,-71.110773,42.369265,107,Massachusetts Ave @ Dana St,0,0
+107,0.066666667,0.577777778,6.722222222,time_period_08,-71.110773,42.369265,107,Massachusetts Ave @ Dana St,0,0
+107,0,0.16,2.34,time_period_09,-71.110773,42.369265,107,Massachusetts Ave @ Dana St,0,0
+107,0.077192982,1.083333333,12.26052632,time_period_10,-71.110773,42.369265,107,Massachusetts Ave @ Dana St,0,0
+107,0.082716049,1.114814815,13.75432099,time_period_11,-71.110773,42.369265,107,Massachusetts Ave @ Dana St,0,0
+108,0.0125,0.35,4.7875,time_period_01,-71.112998,42.37027,108,Massachusetts Ave @ Trowbridge St,0,0
+108,0.042857143,0.428571429,4.128571429,time_period_02,-71.112998,42.37027,108,Massachusetts Ave @ Trowbridge St,0,0
+108,0.106666667,1.773333333,8.48,time_period_03,-71.112998,42.37027,108,Massachusetts Ave @ Trowbridge St,0,0
+108,0.107142857,1.414285714,8.939285714,time_period_04,-71.112998,42.37027,108,Massachusetts Ave @ Trowbridge St,0,0
+108,0.164705882,2.117647059,11.85294118,time_period_05,-71.112998,42.37027,108,Massachusetts Ave @ Trowbridge St,0,0
+108,0.18125,2.7125,14.49375,time_period_06,-71.112998,42.37027,108,Massachusetts Ave @ Trowbridge St,0,0
+108,0.086363636,1.809090909,7.9,time_period_07,-71.112998,42.37027,108,Massachusetts Ave @ Trowbridge St,0,0
+108,0.055555556,1.055555556,5.733333333,time_period_08,-71.112998,42.37027,108,Massachusetts Ave @ Trowbridge St,0,0
+108,0,0.22,2.12,time_period_09,-71.112998,42.37027,108,Massachusetts Ave @ Trowbridge St,0,0
+108,0.100877193,1.886842105,10.47192982,time_period_10,-71.112998,42.37027,108,Massachusetts Ave @ Trowbridge St,0,1
+108,0.097530864,1.537037037,12.30617284,time_period_11,-71.112998,42.37027,108,Massachusetts Ave @ Trowbridge St,0,1
+109,0,0.1,4.725,time_period_01,-71.115371,42.372099,109,Massachusetts Ave @ Bow St,0,1
+109,0,0.257142857,3.914285714,time_period_02,-71.115371,42.372099,109,Massachusetts Ave @ Bow St,0,1
+109,0.026666667,1.413333333,7.073333333,time_period_03,-71.115371,42.372099,109,Massachusetts Ave @ Bow St,0,1
+109,0.025,1.460714286,7.507142857,time_period_04,-71.115371,42.372099,109,Massachusetts Ave @ Bow St,0,1
+109,0.076470588,1.711764706,10.21764706,time_period_05,-71.115371,42.372099,109,Massachusetts Ave @ Bow St,1,1
+109,0.06875,1.71875,12.80625,time_period_06,-71.115371,42.372099,109,Massachusetts Ave @ Bow St,1,1
+109,0.036363636,0.877272727,7.059090909,time_period_07,-71.115371,42.372099,109,Massachusetts Ave @ Bow St,1,1
+109,0.011111111,0.766666667,4.966666667,time_period_08,-71.115371,42.372099,109,Massachusetts Ave @ Bow St,0,1
+109,0,0.16,1.96,time_period_09,-71.115371,42.372099,109,Massachusetts Ave @ Bow St,0,1
+109,0.044736842,1.7,8.827192982,time_period_10,-71.115371,42.372099,109,Massachusetts Ave @ Bow St,0,1
+109,0.027160494,2.09382716,10.24197531,time_period_11,-71.115371,42.372099,109,Massachusetts Ave @ Bow St,0,1
+110,0,4.2875,0.425,time_period_01,-71.118124,42.373259,110,Massachusetts Ave @ Holyoke St,1,1
+110,0,3.6,0.357142857,time_period_02,-71.118124,42.373259,110,Massachusetts Ave @ Holyoke St,1,1
+110,0,6.506666667,0.546666667,time_period_03,-71.118124,42.373259,110,Massachusetts Ave @ Holyoke St,1,1
+110,0,7.078571429,0.428571429,time_period_04,-71.118124,42.373259,110,Massachusetts Ave @ Holyoke St,1,1
+110,0,9.823529412,0.382352941,time_period_05,-71.118124,42.373259,110,Massachusetts Ave @ Holyoke St,1,1
+110,0,12.40625,0.4,time_period_06,-71.118124,42.373259,110,Massachusetts Ave @ Holyoke St,1,1
+110,0,6.609090909,0.472727273,time_period_07,-71.118124,42.373259,110,Massachusetts Ave @ Holyoke St,1,1
+110,0,4.433333333,0.566666667,time_period_08,-71.118124,42.373259,110,Massachusetts Ave @ Holyoke St,1,1
+110,0,1.88,0.08,time_period_09,-71.118124,42.373259,110,Massachusetts Ave @ Holyoke St,1,1
+110,0,8.506140351,0.330701754,time_period_10,-71.118124,42.373259,110,Massachusetts Ave @ Holyoke St,1,1
+110,0,10.04814815,0.197530864,time_period_11,-71.118124,42.373259,110,Massachusetts Ave @ Holyoke St,1,1

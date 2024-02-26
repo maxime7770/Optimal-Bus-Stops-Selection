@@ -1,0 +1,203 @@
+route_id,stop_id,average_ons,average_offs,average_load,time_period_id,X,Y,Stop_ID,Stop_Name
+245,185,4.4,0.0,4.5,time_period_03,,,,
+245,185,5.1,0.0,6.1,time_period_03,,,,
+245,185,3.2,0.0,3.25,time_period_06,,,,
+245,185,3.5,0.0,3.5,time_period_07,,,,
+245,4355,0.1,0.0,4.6,time_period_03,-71.094304,42.264778,4355.0,Blue Hills Pkwy @ Blue Hill Ave
+245,4355,0.1,0.0,6.2,time_period_03,-71.094304,42.264778,4355.0,Blue Hills Pkwy @ Blue Hill Ave
+245,4355,0.0,0.0,3.25,time_period_06,-71.094304,42.264778,4355.0,Blue Hills Pkwy @ Blue Hill Ave
+245,4355,0.0,0.0,3.5,time_period_07,-71.094304,42.264778,4355.0,Blue Hills Pkwy @ Blue Hill Ave
+245,43551,0.2,0.0,4.7,time_period_03,-71.093815,42.262972,43551.0,Blue Hills Pkwy @ Austin St
+245,43551,0.1,0.0,6.3,time_period_03,-71.093815,42.262972,43551.0,Blue Hills Pkwy @ Austin St
+245,43551,0.25,0.15,3.3,time_period_06,-71.093815,42.262972,43551.0,Blue Hills Pkwy @ Austin St
+245,43551,0.0,0.2,3.3,time_period_07,-71.093815,42.262972,43551.0,Blue Hills Pkwy @ Austin St
+245,4358,0.1,0.0,4.8,time_period_03,-71.090076,42.262473,4358.0,Brook Rd @ Saint Marys Rd
+245,4358,0.0,0.0,6.3,time_period_03,-71.090076,42.262473,4358.0,Brook Rd @ Saint Marys Rd
+245,4358,0.05,0.0,3.35,time_period_06,-71.090076,42.262473,4358.0,Brook Rd @ Saint Marys Rd
+245,4358,0.1,0.0,3.3,time_period_07,-71.090076,42.262473,4358.0,Brook Rd @ Saint Marys Rd
+245,4359,0.0,0.0,4.8,time_period_03,-71.088562,42.261738,4359.0,Opp 250 Brook Rd
+245,4359,0.0,0.0,6.3,time_period_03,-71.088562,42.261738,4359.0,Opp 250 Brook Rd
+245,4359,0.0,0.0,3.35,time_period_06,-71.088562,42.261738,4359.0,Opp 250 Brook Rd
+245,4359,0.0,0.0,3.3,time_period_07,-71.088562,42.261738,4359.0,Opp 250 Brook Rd
+245,4360,0.0,0.0,4.8,time_period_03,-71.086537,42.2607560000001,4360.0,Brook Rd opp Windsor Rd
+245,4360,0.0,0.0,6.3,time_period_03,-71.086537,42.2607560000001,4360.0,Brook Rd opp Windsor Rd
+245,4360,0.05,0.0,3.4,time_period_06,-71.086537,42.2607560000001,4360.0,Brook Rd opp Windsor Rd
+245,4360,0.0,0.1,3.2,time_period_07,-71.086537,42.2607560000001,4360.0,Brook Rd opp Windsor Rd
+245,4362,0.2,0.0,5.0,time_period_03,-71.084547,42.259238,4362.0,Brook Rd @ Lincoln St
+245,4362,0.0,0.0,6.3,time_period_03,-71.084547,42.259238,4362.0,Brook Rd @ Lincoln St
+245,4362,0.0,0.0,3.45,time_period_06,-71.084547,42.259238,4362.0,Brook Rd @ Lincoln St
+245,4362,0.1,0.0,3.3,time_period_07,-71.084547,42.259238,4362.0,Brook Rd @ Lincoln St
+245,4144,0.1,0.0,5.1,time_period_03,-71.081128,42.257995,4144.0,Reedsdale Rd @ Central Ave
+245,4144,0.0,0.0,6.3,time_period_03,-71.081128,42.257995,4144.0,Reedsdale Rd @ Central Ave
+245,4144,0.2,0.0,3.6,time_period_06,-71.081128,42.257995,4144.0,Reedsdale Rd @ Central Ave
+245,4144,0.0,0.0,3.3,time_period_07,-71.081128,42.257995,4144.0,Reedsdale Rd @ Central Ave
+245,4145,0.0,0.0,5.1,time_period_03,-71.078941,42.255817,4145.0,Reedsdale Rd @ Walnut St
+245,4145,0.0,0.0,6.3,time_period_03,-71.078941,42.255817,4145.0,Reedsdale Rd @ Walnut St
+245,4145,0.0,0.0,3.65,time_period_06,-71.078941,42.255817,4145.0,Reedsdale Rd @ Walnut St
+245,4145,0.0,0.0,3.3,time_period_07,-71.078941,42.255817,4145.0,Reedsdale Rd @ Walnut St
+245,4146,0.0,0.0,5.1,time_period_03,-71.077679,42.2545940000001,4146.0,Reedsdale Rd @ Canton Ave
+245,4146,0.0,0.0,6.3,time_period_03,-71.077679,42.2545940000001,4146.0,Reedsdale Rd @ Canton Ave
+245,4146,0.15,0.0,3.75,time_period_06,-71.077679,42.2545940000001,4146.0,Reedsdale Rd @ Canton Ave
+245,4146,0.1,0.0,3.3,time_period_07,-71.077679,42.2545940000001,4146.0,Reedsdale Rd @ Canton Ave
+245,4147,0.0,0.0,5.1,time_period_03,-71.076806,42.2536880000001,4147.0,opp 182 Reedsdale Rd @ MIlton Hospital
+245,4147,0.0,0.0,6.3,time_period_03,-71.076806,42.2536880000001,4147.0,opp 182 Reedsdale Rd @ MIlton Hospital
+245,4147,0.25,0.0,3.95,time_period_06,-71.076806,42.2536880000001,4147.0,opp 182 Reedsdale Rd @ MIlton Hospital
+245,4147,0.1,0.0,3.4,time_period_07,-71.076806,42.2536880000001,4147.0,opp 182 Reedsdale Rd @ MIlton Hospital
+245,4149,0.0,0.0,5.1,time_period_03,-71.073788,42.250905,4149.0,Reedsdale Rd @ Spafford Rd
+245,4149,0.0,0.0,6.3,time_period_03,-71.073788,42.250905,4149.0,Reedsdale Rd @ Spafford Rd
+245,4149,0.0,0.0,4.0,time_period_06,-71.073788,42.250905,4149.0,Reedsdale Rd @ Spafford Rd
+245,4149,0.0,0.0,3.4,time_period_07,-71.073788,42.250905,4149.0,Reedsdale Rd @ Spafford Rd
+245,4152,0.0,0.6,4.5,time_period_03,-71.071331,42.248902,4152.0,Reedsdale Rd @ Clifton Rd
+245,4152,0.0,0.0,6.3,time_period_03,-71.071331,42.248902,4152.0,Reedsdale Rd @ Clifton Rd
+245,4152,0.0,0.0,4.0,time_period_06,-71.071331,42.248902,4152.0,Reedsdale Rd @ Clifton Rd
+245,4152,0.3,0.0,3.6,time_period_07,-71.071331,42.248902,4152.0,Reedsdale Rd @ Clifton Rd
+245,4364,0.0,0.0,4.6,time_period_03,-71.069021,42.2484690000001,4364.0,Reedsdale Rd @ Randolph Ave
+245,4364,0.0,0.0,6.3,time_period_03,-71.069021,42.2484690000001,4364.0,Reedsdale Rd @ Randolph Ave
+245,4364,0.0,0.0,4.0,time_period_06,-71.069021,42.2484690000001,4364.0,Reedsdale Rd @ Randolph Ave
+245,4364,0.1,0.2,3.5,time_period_07,-71.069021,42.2484690000001,4364.0,Reedsdale Rd @ Randolph Ave
+245,4365,0.0,0.0,4.5,time_period_03,-71.0673619999999,42.247533,4365.0,Pleasant St @ Reedsdale Rd
+245,4365,0.0,0.0,6.3,time_period_03,-71.0673619999999,42.247533,4365.0,Pleasant St @ Reedsdale Rd
+245,4365,0.0,0.0,4.0,time_period_06,-71.0673619999999,42.247533,4365.0,Pleasant St @ Reedsdale Rd
+245,4365,0.0,0.0,3.5,time_period_07,-71.0673619999999,42.247533,4365.0,Pleasant St @ Reedsdale Rd
+245,4366,0.1,0.0,4.6,time_period_03,-71.065739,42.24877,4366.0,Pleasant St @ Bailey Ave
+245,4366,0.1,0.0,6.3,time_period_03,-71.065739,42.24877,4366.0,Pleasant St @ Bailey Ave
+245,4366,0.1,0.0,4.05,time_period_06,-71.065739,42.24877,4366.0,Pleasant St @ Bailey Ave
+245,4366,0.0,0.0,3.5,time_period_07,-71.065739,42.24877,4366.0,Pleasant St @ Bailey Ave
+245,4367,0.0,0.0,4.6,time_period_03,-71.064182,42.249623,4367.0,Pleasant St @ Mathaurs St
+245,4367,0.0,0.0,6.3,time_period_03,-71.064182,42.249623,4367.0,Pleasant St @ Mathaurs St
+245,4367,0.0,0.0,4.1,time_period_06,-71.064182,42.249623,4367.0,Pleasant St @ Mathaurs St
+245,4367,0.0,0.0,3.5,time_period_07,-71.064182,42.249623,4367.0,Pleasant St @ Mathaurs St
+245,4368,0.5,0.0,5.1,time_period_03,-71.060399,42.250775,4368.0,Pleasant St @ Nancy Rd
+245,4368,0.5,0.0,6.9,time_period_03,-71.060399,42.250775,4368.0,Pleasant St @ Nancy Rd
+245,4368,0.0,0.0,4.1,time_period_06,-71.060399,42.250775,4368.0,Pleasant St @ Nancy Rd
+245,4368,0.0,0.0,3.5,time_period_07,-71.060399,42.250775,4368.0,Pleasant St @ Nancy Rd
+245,4370,0.0,0.0,5.1,time_period_03,-71.057857,42.250883,4370.0,Pleasant St @ Horton Pl
+245,4370,0.0,0.0,6.9,time_period_03,-71.057857,42.250883,4370.0,Pleasant St @ Horton Pl
+245,4370,0.0,0.0,4.05,time_period_06,-71.057857,42.250883,4370.0,Pleasant St @ Horton Pl
+245,4370,0.0,0.1,3.3,time_period_07,-71.057857,42.250883,4370.0,Pleasant St @ Horton Pl
+245,4371,0.5,0.0,5.7,time_period_03,-71.055127,42.251468,4371.0,Pleasant St @ Lawrence Rd
+245,4371,0.2,0.0,7.1,time_period_03,-71.055127,42.251468,4371.0,Pleasant St @ Lawrence Rd
+245,4371,0.0,0.05,4.0,time_period_06,-71.055127,42.251468,4371.0,Pleasant St @ Lawrence Rd
+245,4371,0.0,0.2,3.1,time_period_07,-71.055127,42.251468,4371.0,Pleasant St @ Lawrence Rd
+245,4372,0.1,0.0,5.8,time_period_03,-71.0523459999999,42.253002,4372.0,Opp 80 Edge Hill Rd
+245,4372,0.0,0.0,7.1,time_period_03,-71.0523459999999,42.253002,4372.0,Opp 80 Edge Hill Rd
+245,4372,0.0,0.0,4.0,time_period_06,-71.0523459999999,42.253002,4372.0,Opp 80 Edge Hill Rd
+245,4372,0.0,0.0,3.1,time_period_07,-71.0523459999999,42.253002,4372.0,Opp 80 Edge Hill Rd
+245,4373,0.1,0.0,5.8,time_period_03,-71.049864,42.2545840000001,4373.0,Edge Hill Rd opp Westvale Rd
+245,4373,0.6,0.0,7.7,time_period_03,-71.049864,42.2545840000001,4373.0,Edge Hill Rd opp Westvale Rd
+245,4373,0.0,0.0,4.0,time_period_06,-71.049864,42.2545840000001,4373.0,Edge Hill Rd opp Westvale Rd
+245,4373,0.0,0.0,3.2,time_period_07,-71.049864,42.2545840000001,4373.0,Edge Hill Rd opp Westvale Rd
+245,4375,0.0,0.0,5.8,time_period_03,-71.048344,42.25541,4375.0,Edge Hill Rd @ Cedar Rd
+245,4375,0.0,0.0,7.7,time_period_03,-71.048344,42.25541,4375.0,Edge Hill Rd @ Cedar Rd
+245,4375,0.0,0.0,4.0,time_period_06,-71.048344,42.25541,4375.0,Edge Hill Rd @ Cedar Rd
+245,4375,0.0,0.0,3.2,time_period_07,-71.048344,42.25541,4375.0,Edge Hill Rd @ Cedar Rd
+245,4376,0.0,0.0,5.8,time_period_03,-71.0460669999999,42.2561220000001,4376.0,Edge Hill Rd @ Huntington Rd
+245,4376,0.0,0.0,7.7,time_period_03,-71.0460669999999,42.2561220000001,4376.0,Edge Hill Rd @ Huntington Rd
+245,4376,0.0,0.0,4.0,time_period_06,-71.0460669999999,42.2561220000001,4376.0,Edge Hill Rd @ Huntington Rd
+245,4376,0.0,0.0,3.2,time_period_07,-71.0460669999999,42.2561220000001,4376.0,Edge Hill Rd @ Huntington Rd
+245,4378,0.0,0.2,5.7,time_period_03,-71.042794,42.2572190000001,4378.0,Edge Hill Rd @ Grafton Ave
+245,4378,0.0,0.0,7.7,time_period_03,-71.042794,42.2572190000001,4378.0,Edge Hill Rd @ Grafton Ave
+245,4378,0.0,0.0,3.95,time_period_06,-71.042794,42.2572190000001,4378.0,Edge Hill Rd @ Grafton Ave
+245,4378,0.0,0.0,3.1,time_period_07,-71.042794,42.2572190000001,4378.0,Edge Hill Rd @ Grafton Ave
+245,3391,0.1,0.5,5.2,time_period_03,-71.039704,42.257936,3391.0,Adams St @ Mechanic St
+245,3391,0.0,0.1,7.6,time_period_03,-71.039704,42.257936,3391.0,Adams St @ Mechanic St
+245,3391,0.05,0.0,4.0,time_period_06,-71.039704,42.257936,3391.0,Adams St @ Mechanic St
+245,3391,0.1,0.0,3.2,time_period_07,-71.039704,42.257936,3391.0,Adams St @ Mechanic St
+245,3392,0.0,0.0,5.2,time_period_03,-71.037727,42.2575130000001,3392.0,Adams St @ Foster Ln
+245,3392,0.1,0.0,7.8,time_period_03,-71.037727,42.2575130000001,3392.0,Adams St @ Foster Ln
+245,3392,0.0,0.0,4.0,time_period_06,-71.037727,42.2575130000001,3392.0,Adams St @ Foster Ln
+245,3392,0.0,0.0,3.2,time_period_07,-71.037727,42.2575130000001,3392.0,Adams St @ Foster Ln
+245,3393,0.0,0.5,4.8,time_period_03,-71.0356879999999,42.2569070000001,3393.0,Adams St @ Pilgrim Rd
+245,3393,0.1,0.0,7.8,time_period_03,-71.0356879999999,42.2569070000001,3393.0,Adams St @ Pilgrim Rd
+245,3393,0.0,0.0,4.0,time_period_06,-71.0356879999999,42.2569070000001,3393.0,Adams St @ Pilgrim Rd
+245,3393,0.0,0.0,3.2,time_period_07,-71.0356879999999,42.2569070000001,3393.0,Adams St @ Pilgrim Rd
+245,3394,0.0,0.2,4.6,time_period_03,-71.033739,42.2563030000001,3394.0,Adams St @ Stedman St
+245,3394,0.0,0.0,7.8,time_period_03,-71.033739,42.2563030000001,3394.0,Adams St @ Stedman St
+245,3394,0.0,0.0,3.95,time_period_06,-71.033739,42.2563030000001,3394.0,Adams St @ Stedman St
+245,3394,0.0,0.0,3.2,time_period_07,-71.033739,42.2563030000001,3394.0,Adams St @ Stedman St
+245,4379,0.0,0.0,4.6,time_period_03,-71.032456,42.255876,4379.0,Adams St @ Robertson St
+245,4379,0.1,0.0,7.9,time_period_03,-71.032456,42.255876,4379.0,Adams St @ Robertson St
+245,4379,0.15,0.0,4.15,time_period_06,-71.032456,42.255876,4379.0,Adams St @ Robertson St
+245,4379,0.1,0.0,3.3,time_period_07,-71.032456,42.255876,4379.0,Adams St @ Robertson St
+245,4380,0.0,0.0,4.6,time_period_03,-71.0313399999999,42.2555140000001,4380.0,Adams St @ Campbell St
+245,4380,0.0,0.0,7.9,time_period_03,-71.0313399999999,42.2555140000001,4380.0,Adams St @ Campbell St
+245,4380,0.05,0.0,4.2,time_period_06,-71.0313399999999,42.2555140000001,4380.0,Adams St @ Campbell St
+245,4380,0.0,0.0,3.3,time_period_07,-71.0313399999999,42.2555140000001,4380.0,Adams St @ Campbell St
+245,4381,0.0,0.0,4.6,time_period_03,-71.029888,42.255031,4381.0,Adams St @ White St
+245,4381,0.0,0.0,7.9,time_period_03,-71.029888,42.255031,4381.0,Adams St @ White St
+245,4381,0.0,0.0,4.2,time_period_06,-71.029888,42.255031,4381.0,Adams St @ White St
+245,4381,0.0,0.0,3.3,time_period_07,-71.029888,42.255031,4381.0,Adams St @ White St
+245,4382,0.2,0.0,4.8,time_period_03,-71.028377,42.2545390000001,4382.0,Adams St @ Alrick Rd
+245,4382,0.2,0.0,8.1,time_period_03,-71.028377,42.2545390000001,4382.0,Adams St @ Alrick Rd
+245,4382,0.1,0.0,4.3,time_period_06,-71.028377,42.2545390000001,4382.0,Adams St @ Alrick Rd
+245,4382,0.0,0.0,3.3,time_period_07,-71.028377,42.2545390000001,4382.0,Adams St @ Alrick Rd
+245,4383,0.1,0.0,4.9,time_period_03,-71.026557,42.2539770000001,4383.0,Adams St @ Adams Plaza
+245,4383,0.0,0.0,8.1,time_period_03,-71.026557,42.2539770000001,4383.0,Adams St @ Adams Plaza
+245,4383,0.1,0.05,4.35,time_period_06,-71.026557,42.2539770000001,4383.0,Adams St @ Adams Plaza
+245,4383,0.1,0.0,3.4,time_period_07,-71.026557,42.2539770000001,4383.0,Adams St @ Adams Plaza
+245,14383,0.0,0.0,4.9,time_period_03,-71.025077,42.2527440000001,14383.0,Common St @ Hilltop St
+245,14383,0.2,0.0,8.2,time_period_03,-71.025077,42.2527440000001,14383.0,Common St @ Hilltop St
+245,14383,0.0,0.05,4.3,time_period_06,-71.025077,42.2527440000001,14383.0,Common St @ Hilltop St
+245,14383,0.0,0.0,3.4,time_period_07,-71.025077,42.2527440000001,14383.0,Common St @ Hilltop St
+245,23402,0.5,0.0,5.5,time_period_03,-71.025345,42.2500860000001,23402.0,Quarry St @ Common St
+245,23402,0.2,0.0,8.4,time_period_03,-71.025345,42.2500860000001,23402.0,Quarry St @ Common St
+245,23402,0.0,0.0,4.35,time_period_06,-71.025345,42.2500860000001,23402.0,Quarry St @ Common St
+245,23402,0.0,0.0,3.4,time_period_07,-71.025345,42.2500860000001,23402.0,Quarry St @ Common St
+245,23403,1.9,0.0,7.3,time_period_03,-71.022007,42.2489800000001,23403.0,270 Quarry St
+245,23403,1.4,0.0,9.8,time_period_03,-71.022007,42.2489800000001,23403.0,270 Quarry St
+245,23403,0.5,0.6,4.25,time_period_06,-71.022007,42.2489800000001,23403.0,270 Quarry St
+245,23403,0.1,0.4,3.1,time_period_07,-71.022007,42.2489800000001,23403.0,270 Quarry St
+245,23404,0.1,0.0,7.4,time_period_03,-71.016454,42.246293,23404.0,150 Quarry St
+245,23404,0.2,0.0,10.0,time_period_03,-71.016454,42.246293,23404.0,150 Quarry St
+245,23404,0.0,0.25,4.05,time_period_06,-71.016454,42.246293,23404.0,150 Quarry St
+245,23404,0.0,0.0,3.1,time_period_07,-71.016454,42.246293,23404.0,150 Quarry St
+245,23406,0.2,0.0,7.6,time_period_03,-71.010231,42.244334,23406.0,Granite St @ Packards Lane
+245,23406,0.2,0.0,10.2,time_period_03,-71.010231,42.244334,23406.0,Granite St @ Packards Lane
+245,23406,0.0,0.15,3.9,time_period_06,-71.010231,42.244334,23406.0,Granite St @ Packards Lane
+245,23406,0.0,0.0,3.0,time_period_07,-71.010231,42.244334,23406.0,Granite St @ Packards Lane
+245,23407,0.0,0.1,7.5,time_period_03,-71.005798,42.2462830000001,23407.0,Opp 125 Granite St
+245,23407,0.0,0.1,10.2,time_period_03,-71.005798,42.2462830000001,23407.0,Opp 125 Granite St
+245,23407,0.0,0.2,3.7,time_period_06,-71.005798,42.2462830000001,23407.0,Opp 125 Granite St
+245,23407,0.0,0.0,3.0,time_period_07,-71.005798,42.2462830000001,23407.0,Opp 125 Granite St
+245,4314,0.1,1.1,6.5,time_period_03,-71.0056739999999,42.2479670000001,4314.0,Whitwell St @ Dixwell Ave
+245,4314,0.0,2.0,8.2,time_period_03,-71.0056739999999,42.2479670000001,4314.0,Whitwell St @ Dixwell Ave
+245,4314,0.15,0.55,3.3,time_period_06,-71.0056739999999,42.2479670000001,4314.0,Whitwell St @ Dixwell Ave
+245,4314,0.2,0.6,2.6,time_period_07,-71.0056739999999,42.2479670000001,4314.0,Whitwell St @ Dixwell Ave
+245,4315,0.1,0.0,6.6,time_period_03,-71.00807,42.2485810000001,4315.0,Whitwell St @ Glendale Rd
+245,4315,0.0,0.0,8.2,time_period_03,-71.00807,42.2485810000001,4315.0,Whitwell St @ Glendale Rd
+245,4315,0.0,0.0,3.25,time_period_06,-71.00807,42.2485810000001,4315.0,Whitwell St @ Glendale Rd
+245,4315,0.0,0.0,2.6,time_period_07,-71.00807,42.2485810000001,4315.0,Whitwell St @ Glendale Rd
+245,4316,0.0,0.0,6.6,time_period_03,-71.0095709999999,42.248975,4316.0,Whitwell St @ Maywood Ave
+245,4316,0.0,0.0,8.2,time_period_03,-71.0095709999999,42.248975,4316.0,Whitwell St @ Maywood Ave
+245,4316,0.0,0.0,3.25,time_period_06,-71.0095709999999,42.248975,4316.0,Whitwell St @ Maywood Ave
+245,4316,0.0,0.0,2.6,time_period_07,-71.0095709999999,42.248975,4316.0,Whitwell St @ Maywood Ave
+245,4317,0.0,0.0,6.6,time_period_03,-71.011428,42.2494740000001,4317.0,198 Whitwell St
+245,4317,0.0,0.0,8.2,time_period_03,-71.011428,42.2494740000001,4317.0,198 Whitwell St
+245,4317,0.0,0.0,3.25,time_period_06,-71.011428,42.2494740000001,4317.0,198 Whitwell St
+245,4317,0.0,0.0,2.6,time_period_07,-71.011428,42.2494740000001,4317.0,198 Whitwell St
+245,4318,0.9,0.0,7.4,time_period_03,-71.012464,42.2497470000001,4318.0,Whitwell St @ Roselin Ave
+245,4318,0.1,0.0,8.3,time_period_03,-71.012464,42.2497470000001,4318.0,Whitwell St @ Roselin Ave
+245,4318,0.0,0.15,3.15,time_period_06,-71.012464,42.2497470000001,4318.0,Whitwell St @ Roselin Ave
+245,4318,0.0,0.1,2.4,time_period_07,-71.012464,42.2497470000001,4318.0,Whitwell St @ Roselin Ave
+245,4319,0.0,0.0,7.5,time_period_03,-71.014901,42.250523,4319.0,Whitwell St opp Farrell St
+245,4319,1.3,0.0,9.5,time_period_03,-71.014901,42.250523,4319.0,Whitwell St opp Farrell St
+245,4319,0.0,0.05,3.05,time_period_06,-71.014901,42.250523,4319.0,Whitwell St opp Farrell St
+245,4319,0.0,0.0,2.4,time_period_07,-71.014901,42.250523,4319.0,Whitwell St opp Farrell St
+245,4320,0.7,0.0,8.2,time_period_03,-71.016004,42.2510550000001,4320.0,52 Whitwell St
+245,4320,0.3,0.0,9.8,time_period_03,-71.016004,42.2510550000001,4320.0,52 Whitwell St
+245,4320,0.1,0.05,3.15,time_period_06,-71.016004,42.2510550000001,4320.0,52 Whitwell St
+245,4320,0.0,0.0,2.4,time_period_07,-71.016004,42.2510550000001,4320.0,52 Whitwell St
+245,14320,0.1,0.0,8.3,time_period_03,-71.0172919999999,42.253069,14320.0,Adams St @ Whitwell St
+245,14320,1.0,0.0,10.8,time_period_03,-71.0172919999999,42.253069,14320.0,Adams St @ Whitwell St
+245,14320,0.0,0.0,3.15,time_period_06,-71.0172919999999,42.253069,14320.0,Adams St @ Whitwell St
+245,14320,0.0,0.0,2.4,time_period_07,-71.0172919999999,42.253069,14320.0,Adams St @ Whitwell St
+245,3199,0.1,0.1,8.3,time_period_03,-71.008922,42.255884,3199.0,Adams St opp Alleyne St
+245,3199,0.0,0.1,10.8,time_period_03,-71.008922,42.255884,3199.0,Adams St opp Alleyne St
+245,3199,0.0,0.4,2.7,time_period_06,-71.008922,42.255884,3199.0,Adams St opp Alleyne St
+245,3199,0.2,0.2,2.5,time_period_07,-71.008922,42.255884,3199.0,Adams St opp Alleyne St
+245,3035,0.3,0.0,11.0,time_period_03,-71.0071839999999,42.256168,3035.0,Hancock St opp Merrymount Rd
+245,3036,0.0,0.7,10.4,time_period_03,-71.0064379999999,42.255179,3036.0,Hancock St opp Greenleaf St
+245,32001,0.0,7.9,0.4,time_period_03,,,,
+245,32001,0.0,10.3,0.1,time_period_03,,,,
+245,32001,0.0,2.7,0.0,time_period_06,,,,
+245,32001,0.0,2.3,0.1,time_period_07,,,,
